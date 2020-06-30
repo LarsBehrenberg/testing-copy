@@ -1,0 +1,498 @@
+backend:
+  name: git-gateway
+  branch: master
+  commit_messages:
+    create: 'Create {{collection}} “{{path}}”'
+    update: 'Update {{collection}} “{{path}}”'
+    delete: 'Delete {{collection}} “{{path}}”'
+    uploadMedia: '[skip ci] Upload “{{path}}”'
+    deleteMedia: '[skip ci] Delete “{{path}}”'
+
+media_folder: /static/assets/
+public_folder: /assets/
+
+collections:
+  - name: 'posts'
+    label: 'Posts'
+    folder: '/content/posts/'
+    create: true
+    description: 'The list of biographies, events and etc. that are uploaded onto the website.'
+    fields:
+      - {
+          label: ID,
+          name: id,
+          widget: ncw-id,
+          prefix: post, # will generate post-124hfkjas
+          timestamp: false, # will generate 1245119112-post-124hfkjas
+          hint: This widget generates a unique read-only id needed to distinguish this post from others,
+        }
+      - {
+          name: 'path',
+          label: 'Slug',
+          hint: 'This slug has to be unique. Example: paul-signac-biography',
+          pattern: ['^[a-z0-9-]+$', "This slug doesn't fit the right format"],
+        }
+      - { name: 'date', label: 'Published Date', widget: 'datetime' }
+      - {
+          name: 'subTitle',
+          label: 'Subtitle',
+          hint: 'The subtitle of the article',
+          default: 'Biography of',
+        }
+      - {
+          name: 'title',
+          label: 'Title',
+          hint: 'The title of the article',
+          default: 'Impressionist artist',
+        }
+      - {
+          name: 'body',
+          label: 'Introduction',
+          widget: 'markdown',
+          hint: 'The introduction text shown below the upper gallery',
+        }
+      - name: 'tags'
+        label: 'Tags'
+        widget: 'select'
+        options: [ 'Impressionists', 'Pre-Impressionists', 'Post-Impressionists', 'Exhibitions', 'More']
+        default: 'Impressionists'
+        required: true
+        hint: 'Tags sort/organize articles on the index page'
+      - {
+          name: 'cover',
+          label: 'Featured Image',
+          widget: 'image',
+          required: true,
+          hint: 'This image will be displayed one the funnel page',
+        }
+      - label: 'Post Suggestions'
+        name: 'links'
+        widget: 'relation'
+        collection: 'posts'
+        hint: This field searches all published articles and attaches the selected ones to the side menu as well as the bottom suggestions. Articles can be searched by title, subtitle & tags.
+        searchFields: ['title', 'tags', 'subTitle']
+        displayFields: ["{{title}} - {{tags}}"]
+        valueField: 'id'
+        multiple: true
+        required: true
+      - {
+          name: 'videoId',
+          label: 'Youtube video id',
+          widget: 'string',
+          required: false,
+          hint: 'If this field is left empty, no video will be displayed. E.g: JYFbpniHyJ8',
+          pattern:
+            [
+              '^[A-Za-z0-9_-]*$',
+              'You must enter a Youtube ID with only letters, numbers, dash and underscore. E.g: JYFbpniHyJ8',
+            ],
+        }
+      - label: 'Upper Gallery'
+        hint: 'This widget lists up the images for the upper gallery'
+        name: 'upperGalleryImages'
+        widget: 'object'
+        fields:
+          - label: Top
+            name: topImage
+            widget: object
+            fields:
+              - {
+                  label: Top Image,
+                  name: topImageUrl,
+                  widget: image,
+                  required: true,
+                }
+              - {
+                  label: Title & Alt,
+                  name: topImageTitle,
+                  widget: string,
+                  required: true,
+                }
+          - label: Left
+            name: leftImage
+            widget: object
+            fields:
+              - {
+                  label: Left Image,
+                  name: leftImageUrl,
+                  widget: image,
+                  required: true,
+                }
+              - {
+                  label: Title & Alt,
+                  name: leftImageTitle,
+                  widget: string,
+                  required: true,
+                }
+          - label: Middle
+            name: middleImage
+            widget: object
+            fields:
+              - {
+                  label: Middle Image,
+                  name: middleImageUrl,
+                  widget: image,
+                  required: true,
+                }
+              - {
+                  label: Title & Alt,
+                  name: middleImageTitle,
+                  widget: string,
+                  required: true,
+                }
+          - label: Right
+            name: rightImage
+            widget: object
+            fields:
+              - {
+                  label: Right Image,
+                  name: rightImageUrl,
+                  widget: image,
+                  required: true,
+                }
+              - {
+                  label: Title & Alt,
+                  name: rightImageTitle,
+                  widget: string,
+                  required: true,
+                }
+      - label: 'Text sections'
+        name: 'textSections'
+        widget: 'list'
+        hint: 'Add the different text sections with title, text and images here'
+        allow_add: true
+        collapsed: false
+        fields:
+          - {
+              label: Title,
+              name: textTitle,
+              widget: 'string',
+              default: 'Title here',
+              required: true,
+              hint: 'This title of the text section',
+            }
+          - {
+              label: Text,
+              name: text,
+              widget: markdown,
+              default: 'Body text here',
+              required: true,
+              hint: 'This text of the text section',
+            }
+          - label: 'Read-More Button'
+            hint: 'Turn this switch off to remove the read more button on this section'
+            name: buttonToggle
+            widget: boolean
+            default: true
+          - label: 'Side Gallery'
+            name: 'sideGalleryImages'
+            widget: 'list'
+            allow_add: true
+            hint: 'As many images as needed can be added to the site gallery of each text section'
+            collapsed: true
+            fields:
+              - { label: Image, name: imageUrl, widget: image }
+              - { label: 'Title & Alt', name: imageTitle, widget: string }
+  - label: 'Static Files'
+    name: 'pages'
+    description: 'The list of static files, pages & menus can be edited here.'
+    files:
+      - label: 'About page content'
+        name: 'aboutUs'
+        file: '/content/pages/about-us.md'
+        fields:
+          - {
+              name: 'subTitle',
+              label: 'Subtitle',
+              hint: 'The subtitle of the article',
+              default: 'Biography of',
+            }
+          - {
+              name: 'title',
+              label: 'Title',
+              hint: 'The title of the article',
+              default: 'Impressionist artist',
+            }
+          - {
+              name: 'body',
+              label: 'Introduction',
+              widget: 'markdown',
+              hint: 'The introduction text shown below the upper gallery',
+            }
+          - label: 'Upper Gallery'
+            hint: 'This widget lists up the images for the upper gallery'
+            name: 'upperGalleryImages'
+            widget: 'object'
+            fields:
+              - label: Top
+                name: topImage
+                widget: object
+                fields:
+                  - {
+                      label: Top Image,
+                      name: topImageUrl,
+                      widget: image,
+                      required: true,
+                    }
+                  - {
+                      label: Title & Alt,
+                      name: topImageTitle,
+                      widget: string,
+                      required: true,
+                    }
+              - label: Left
+                name: leftImage
+                widget: object
+                fields:
+                  - {
+                      label: Left Image,
+                      name: leftImageUrl,
+                      widget: image,
+                      required: true,
+                    }
+                  - {
+                      label: Title & Alt,
+                      name: leftImageTitle,
+                      widget: string,
+                      required: true,
+                    }
+              - label: Middle
+                name: middleImage
+                widget: object
+                fields:
+                  - {
+                      label: Middle Image,
+                      name: middleImageUrl,
+                      widget: image,
+                      required: true,
+                    }
+                  - {
+                      label: Title & Alt,
+                      name: middleImageTitle,
+                      widget: string,
+                      required: true,
+                    }
+              - label: Right
+                name: rightImage
+                widget: object
+                fields:
+                  - {
+                      label: Right Image,
+                      name: rightImageUrl,
+                      widget: image,
+                      required: true,
+                    }
+                  - {
+                      label: Title & Alt,
+                      name: rightImageTitle,
+                      widget: string,
+                      required: true,
+                    }
+      - label: 'Contact page content'
+        name: 'contactUs'
+        file: '/content/pages/contact-us.md'
+        fields:
+          - label: Background Image
+            name: 'backgroundImage'
+            widget: image
+            hint: Image shows when resizing the preview container to >900px
+            required: true
+          - label: 'Body text'
+            name: 'text'
+            widget: markdown
+            required: true
+            default: 'Feel free to contact us using our contact form below or message us directly at info@impressionistarts.com.'
+      - label: 'Legal page content'
+        name: 'legal'
+        file: '/content/pages/legal.md'
+        fields:
+          - label: 'Body text'
+            name: 'text'
+            widget: markdown
+            required: true
+      - label: 'Image carousel'
+        name: 'imageCarousel'
+        file: '/content/pages/image-carousel.md'
+        fields:
+          - label: 'Carousel Images'
+            name: 'carouselImages'
+            widget: 'list'
+            hint: 'Add the carousel images with text and url to link to'
+            allow_add: true
+            collapsed: false
+            fields:
+              - { label: Image, name: image, widget: image, required: true }
+              - { label: Title, name: title, widget: string }
+              - { label: Text, name: text, widget: text }
+              - label: 'Url'
+                name: 'url'
+                widget: 'relation'
+                collection: 'posts'
+                hint: This field searches all posts
+                searchFields: ['title', 'tags', 'path']
+                displayFields: ['title', 'tags']
+                valueField: 'path'
+                required: true
+      - label: 'Menu Links'
+        name: 'menuLinks'
+        file: '/content/pages/menu-links.md'
+        fields:
+          - label: Links
+            name: menuLinkList
+            widget: list
+            fields:
+              - { label: Label, name: label, widget: string }
+              - {
+                  label: Path,
+                  name: path,
+                  widget: string,
+                  pattern:
+                    ['^[a-z0-9-]+$', "This slug doesn't fit the right format"],
+                }
+              - label: Dropdown List
+                name: dropdown
+                widget: list
+                fields:
+                  - { label: Label, name: label, widget: string }
+                  - {
+                      label: Path,
+                      name: path,
+                      widget: string,
+                      pattern:
+                        [
+                          '^[a-z0-9-]+$',
+                          "This slug doesn't fit the right format",
+                        ],
+                    }
+      - label: 'Footer Links'
+        name: 'footerLinks'
+        file: '/content/pages/footer-links.md'
+        fields:
+          - label: Button Links
+            name: buttonLinkObject
+            widget: object
+            fields:
+              - label: Left Button
+                name: leftButton
+                widget: object
+                fields:
+                  - { label: Label, name: label, widget: string }
+                  - {
+                      label: Path,
+                      name: path,
+                      widget: string,
+                      pattern:
+                        [
+                          '^[a-z0-9-]+$',
+                          "This slug doesn't fit the right format",
+                        ],
+                    }
+              - label: Center Button
+                name: centerButton
+                widget: object
+                fields:
+                  - { label: Label, name: label, widget: string }
+                  - {
+                      label: Path,
+                      name: path,
+                      widget: string,
+                      pattern:
+                        [
+                          '^[a-z0-9-]+$',
+                          "This slug doesn't fit the right format",
+                        ],
+                    }
+              - label: Right Button
+                name: rightButton
+                widget: object
+                fields:
+                  - { label: Label, name: label, widget: string }
+                  - {
+                      label: Path,
+                      name: path,
+                      widget: string,
+                      pattern:
+                        [
+                          '^[a-z0-9-]+$',
+                          "This slug doesn't fit the right format",
+                        ],
+                    }
+          - label: Page Links
+            name: pageLinkObject
+            widget: object
+            fields:
+              - label: Left String
+                name: leftString
+                widget: object
+                fields:
+                  - { label: Label, name: label, widget: string }
+                  - {
+                      label: Path,
+                      name: path,
+                      widget: string,
+                      pattern:
+                        [
+                          '^[a-z0-9-]+$',
+                          "This slug doesn't fit the right format",
+                        ],
+                    }
+              - label: Center Left String
+                name: centerLeftString
+                widget: object
+                fields:
+                  - { label: Label, name: label, widget: string }
+                  - {
+                      label: Path,
+                      name: path,
+                      widget: string,
+                      pattern:
+                        [
+                          '^[a-z0-9-]+$',
+                          "This slug doesn't fit the right format",
+                        ],
+                    }
+              - label: Center Right String
+                name: centerRightString
+                widget: object
+                fields:
+                  - { label: Label, name: label, widget: string }
+                  - {
+                      label: Path,
+                      name: path,
+                      widget: string,
+                      pattern:
+                        [
+                          '^[a-z0-9-]+$',
+                          "This slug doesn't fit the right format",
+                        ],
+                    }
+              - label: Right String
+                name: rightString
+                widget: object
+                fields:
+                  - { label: Label, name: label, widget: string }
+                  - {
+                      label: Path,
+                      name: path,
+                      widget: string,
+                      pattern:
+                        [
+                          '^[a-z0-9-]+$',
+                          "This slug doesn't fit the right format",
+                        ],
+                    }
+          - label: Social Buttons
+            name: socialButtons
+            widget: list
+            fields:
+              - { label: Url, name: url, widget: string, required: true }
+  # - name: 'maps'
+  #   label: 'Maps'
+  #   folder: '/content/maps/'
+  #   create: false
+  #   description: 'The list of custom created maps for TTDE.'
+  #   fields:
+  #     - { name: 'path', label: 'Path' }
+  #     - { name: 'title', label: 'Title' }
+  #     - { name: 'googleApi', label: 'Google API URL' }
+  #     - { name: 'tags', label: 'Tags', widget: 'list' }
