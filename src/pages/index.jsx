@@ -131,7 +131,6 @@ const Index = ({ data }) => {
 
     const categorizedData = posts.filter(post => {
       const { tags } = post.node.frontmatter
-      console.log(tags, category)
       return tags && tags === category
     })
     setState({
