@@ -75,6 +75,8 @@ const SearchResults = ({ searchResults }) => (
                   height: '50px',
                   borderRadius: '0.4rem',
                 }}
+                loading="eager"
+                fadeIn={false}
               />
             </StyledLink>
           )

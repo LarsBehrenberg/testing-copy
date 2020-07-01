@@ -116,12 +116,8 @@ const ImageCarousel = () => {
               url
               image {
                 childImageSharp {
-                  fluid(
-                    maxWidth: 800
-                    quality: 80
-                    traceSVG: { color: "#2B2B2F" }
-                  ) {
-                    ...GatsbyImageSharpFluid_withWebp_tracedSVG
+                  fluid(maxWidth: 800, quality: 80) {
+                    ...GatsbyImageSharpFluid_withWebp_noBase64
                   }
                 }
               }
@@ -155,6 +151,8 @@ const ImageCarousel = () => {
                 <Img
                   fluid={image.image.childImageSharp.fluid}
                   alt={image.title}
+                  fadeIn={false}
+                  loading="eager"
                 />
               </CarouselImage>
               <OverlayBackground />

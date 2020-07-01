@@ -50,6 +50,8 @@ const Header = ({
                             width: '100%',
                             height: '100%',
                           }}
+                          loading="eager"
+                          fadeIn={false}
                         />
                       </span>
                     </figure>
@@ -74,6 +76,8 @@ const Header = ({
                               width: '100%',
                               height: '100%',
                             }}
+                            loading="eager"
+                            fadeIn={false}
                           />
                         </span>
                       </figure>
@@ -97,6 +101,8 @@ const Header = ({
                               width: '100%',
                               height: '100%',
                             }}
+                            loading="eager"
+                            fadeIn={false}
                           />
                         </span>
                       </figure>
@@ -123,6 +129,8 @@ const Header = ({
                               width: '100%',
                               height: '100%',
                             }}
+                            loading="eager"
+                            fadeIn={false}
                           />
                         </span>
                       </figure>

@@ -148,8 +148,8 @@ const Newsletter = () => {
     query {
       file(absolutePath: { regex: "/backgrounds/background-newsletter.jpg/" }) {
         childImageSharp {
-          fluid(maxWidth: 600, quality: 90) {
-            ...GatsbyImageSharpFluid_withWebp_tracedSVG
+          fluid(maxWidth: 600) {
+            ...GatsbyImageSharpFluid_withWebp_noBase64
           }
         }
       }
@@ -159,7 +159,12 @@ const Newsletter = () => {
   return (
     <Wrapper id="newsletter">
       <Image>
-        <Img fluid={data.file.childImageSharp.fluid} />
+        <Img
+          fluid={data.file.childImageSharp.fluid}
+          alt="Newsletter"
+          loading="eager"
+          fadeIn={false}
+        />
       </Image>
       <Form onSubmit={_handleSubmit}>
         <TextWrapper>

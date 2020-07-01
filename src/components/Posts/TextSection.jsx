@@ -75,6 +75,8 @@ const TextSection = ({
                                     width: '100%',
                                     height: '100%',
                                   }}
+                                  loading="eager"
+                                  fadeIn={false}
                                 />
                               </span>
                             </figure>

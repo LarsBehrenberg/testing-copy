@@ -200,7 +200,7 @@ const Navbar = () => {
       file(absolutePath: { regex: "/backgrounds/background-navbar.jpg/" }) {
         childImageSharp {
           fixed(height: 60, width: 800, quality: 80) {
-            ...GatsbyImageSharpFixed
+            ...GatsbyImageSharpFixed_withWebp_noBase64
           }
         }
       }
@@ -231,7 +231,7 @@ const Navbar = () => {
               cover {
                 childImageSharp {
                   fixed(width: 80, height: 50, quality: 60) {
-                    ...GatsbyImageSharpFixed_withWebp
+                    ...GatsbyImageSharpFixed_withWebp_noBase64
                   }
                 }
               }
@@ -308,6 +308,8 @@ const Navbar = () => {
             opacity: '0.7',
           }}
           className="nav-image"
+          loading="eager"
+          fadeIn={false}
         />
       </BackgroundImage>
       <Container>

@@ -275,12 +275,8 @@ export const query = graphql`
             date(formatString: "dddd, MMMM Do YYYY")
             cover {
               childImageSharp {
-                fluid(
-                  maxWidth: 450
-                  quality: 50
-                  traceSVG: { color: "#2B2B2F" }
-                ) {
-                  ...GatsbyImageSharpFluid_withWebp_tracedSVG
+                fluid(maxWidth: 450, quality: 50) {
+                  ...GatsbyImageSharpFluid_withWebp_noBase64
                 }
               }
             }
