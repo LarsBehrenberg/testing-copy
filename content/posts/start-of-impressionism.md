@@ -29,11 +29,31 @@ upperGalleryImages:
     rightImageTitle: "Woman in the Green dress was one of Claude Monet's rare Salon
       successes in the 1860s.  "
 textSections:
-  - textTitle: Living in Paris
+  - textTitle: Coming to and living in Paris
     text: >-
-      ### When Monet was starting his studies, Paris looked very different to
-      the shining, open-plan network of wide streets and boulevards that would
-      feature regularly in later Impressionist paintings.
+      ### In the early 1860s, the key impressionists converged on Paris and
+      slowly became friends.
+
+
+      #### Coming to Paris
+
+
+      [Edouard Manet](edouard-manet-biography/) and [Edgar Degas](edgar-degas-biography/) were born and grew up in Paris.  As for the remaining four members of the core impressionist group:
+
+
+      *  [Auguste Renoir](pierre-auguste-renoir-biography/) was born in Limoges in 1841 but came to Paris with his parents at a young age.  He was an apprentice porcelain painter in the late 1850s, and applied to become a copyist in the Louvre in 1860.
+
+      * [Claude Monet](claude-monet-biography/) was born in Paris but moved with his family to Le Havre in Normandy when he was a young child.  He returned to Paris in May 1859, but left again to do his military service in 1861.  He returned to Paris for good in November 1862.
+
+      * [Paul Cezanne](paul-cezanne-biography/) was born and brought up in Aix-en-Provence, in the south of France.  He wanted to follow his childhood friend Emile Zola to Paris in 1860, but his father persuaded him to study law first.  That was a complete failure and Cezanne persuaded his father to let him go the next year. 
+
+      * [Camille Pissarro](camille-pissarro-biography/) was born in the Dutch West Indies in 1830 and, after dabbling in painting there, arrived in Paris in 1855. 
+
+
+      #### Paris
+
+
+      Paris looked very different to the shining, open-plan network of wide streets and boulevards that would feature regularly in later Impressionist paintings.
 
 
       The city was dark and dingy, lacking even a working sewage system. 
@@ -45,19 +65,34 @@ textSections:
       The newly connected suburb of Montmarte was a favourite among artists. They gathered in the cafes and brasseries that huddled together in the still largely rural district, chatting and socialising. This was the setting in which the strong social bonds that allowed the impressionists to support each other developed.  
 
 
-      This is not to say that all the impressionists lived a hand-to-mouth Bohemian existence.  This was certainly the lot of Monet, Pissarro and Renoir.  But Cezanne, Degas and Manet had family money behind them--and Manet often doled it out to others in the group when times got tough.
+      This is not to say that all the impressionists lived a hand-to-mouth Bohemian existence.  This was certainly the lot of Monet, Pissarro and Renoir.  But Cezanne, Degas and Manet had family money behind them—and Manet often doled it out to others in the group when times got tough.
     buttonToggle: true
+    sideGalleryImages:
+      - imageUrl: /assets/edouard_willmann_paris_1860.jpg
+        imageTitle: Notre-Dame on Ile de la Cite in the centre of Paris in 1860
+      - imageUrl: /assets/1920px-georges-eugène_haussmann_-_bnf_gallica.jpg
+        imageTitle: Baron Haussmann, the Prefect of Paris, was responsible for
+          re-modelling the city into one of grand boulevards and open spaces
+      - imageUrl: /assets/camille-pissarro-avenue-de-opera-paris.jpg
+        imageTitle: Camille Pissarro's late work of the Avenue de l'Opera shows the
+          result of Haussmann's efforts
   - textTitle: The role of the École des Beaux-Arts
     text: >-
       ### In the 1860s, the École des Beaux-Arts, part of the Institut de
       France, was responsible for dictating how art should be made and what kind
-      of subjects were to be painted. 
+      of subjects were to be painted.
 
 
       Art students received solely academic, classical training and were expected to focus on traditional subjects, as well as learning meticulous anatomy drawing. This particular branch of their training was achieved through the careful study of human corpses, lent by the Medical School.
 
 
+      #### Rigidity
+
+
       In this rigid and exacting setting, paintings were limited to a very narrow range of subject matter. The Paris Salon gave pride of place to artworks depicting historical scenes, mythology, or moral lessons taken from the bible. Similarly, images capturing moments from great literature like Shakespeare, Byron or Sir Walter Scott were also permitted, as well as works demonstrating the glory and valour of the French nation.
+
+
+      #### Salon favourites
 
 
       Some of the most popular artists, all Salon favourites, were [Jean-Auguste-Dominique Ingres](jean-auguste-dominique-ingres-biography), Jean-Louis-Ernest Meissonier, Jean-Léon Gérôme, and Gustave Moreau. These painters followed the expectations of the Institut in their themes and even in their style, which was also governed by the École des Beaux-Arts. 
@@ -66,16 +101,27 @@ textSections:
       Their work was finely painted using extreme detail. The brushworks were invisible and the light and colour palette of the paintings drew on the technique of contrasts - lightness for high drama, darkness for grandeur and solemnity. 
 
 
+      #### Delacroix
+
+
       The only rogue among them was [Eugène Delacroix](eugene-delacroix-biography), whose intense colour palette and quick, expressive brushstrokes were seen as radical to the art establishment and audiences who came to the Salon. Nonetheless, Delacroix did not push the boundaries beyond the upper limits of acceptability and, thus, he did not fall foul of the Institut de France. 
 
 
       He was daring but not so daring that he risked being excluded from the Salon.
     buttonToggle: true
+    sideGalleryImages:
+      - imageUrl: /assets/ecole-des-beaux-arts-1860.jpg
+        imageTitle: The Courtyard of the Ecole des Beaux Arts in 1860
+      - imageTitle: Ernest Meissonier's Napoleon I in 1814 shows the near-photographic
+          style demanded by the Salon in the 1860s.
+        imageUrl: /assets/meissonier-napolean-1814.jpg
+      - imageUrl: /assets/delacroix-liberty-leading-the-people-1830.jpg
+        imageTitle: Delacroix's Liberty Leading the People (1830)
   - textTitle: The Studios of Suisse and Gleyre
     text: >-
       ### At the age of 15, Monet was already making a living from his art,
       charging commercial rates to sketch caricatures of local dignitaries in Le
-      Havre, Normandy. 
+      Havre, Normandy.
 
 
       When he moved to Paris, he began attending the studio of Charles Suisse in order to improve his academic painting technique. 
@@ -99,13 +145,13 @@ textSections:
       Cézanne had been convinced to move to Paris by his closest childhood friend, [Emile Zola](/emile-zola-biography), and it may have been Zola who convinced him to enrol at Suisse’s studio. Monet was already in Algiers by the time Cézanne began attending sessions, having been drafted into the army. Consequently, it was Pissarro who first fostered a friendship with the strange artist from Aix. 
 
 
-      Both Pissarro and Zola supported Cézanne, who was chronically insecure about his work and repeatedly threatened to give up on painting and return to his home in the South of France. On one occasion, he did so and took a job as a banker, but he lasted only a year before returning once more to Paris and Suisse’s studio.
+      Both Pissarro and Zola supported Cézanne, who was chronically insecure about his work and repeatedly threatened to give up on painting and return to his home in the south of France. On one occasion, he did so and took a job as a cashier in his father's bank, but he lasted only a year before returning once more to Paris and Suisse’s studio.
 
 
       #### Gleyre’s Studio
 
 
-      Following his release from the army in 1862 on the grounds of sickness, Monet began attending the studio of Charles Gleyre. 
+      Following his release from the army in 1862 on the grounds of sickness (he contracted typhoid fever in Algeria), Monet began attending the studio of Charles Gleyre. 
 
 
       Gleyre was more academic in his teaching style than Suisse and he was able to draw on a rather more prestigious reputation than Monet’s former teacher. As a result, Gleyre’s studio attracted a more affluent class of students, which Monet enjoyed as it gave him more opportunities to show off.
@@ -114,7 +160,7 @@ textSections:
       One of the quieter members of the 40 or so students who attended the studio was [Pierre-Auguste Renoir](/pierre-auguste-renoir-biography). Young Renoir had first started drawing as a very young boy, using his father’s tailor’s chalk to sketch on the floor. 
 
 
-      By the age of 13, he began work as a porcelain painter, paid by the amount of crockery he produced. In both this job and the next, as a blind painter, he showed himself to be a savvier artist than many others, painting quickly and including lots of fluffy clouds in his compositions to complete the works faster. His brother-in-law helped him buy his first set of oil paints and an easel and Renoir enrolled in Gleyre’s academy.
+      By the age of 13, he began work as a porcelain painter, paid by the amount of crockery he produced. In both this job and the next, as a painter of blinds, he showed himself to be a savvier artist than many others, painting quickly and including lots of fluffy clouds in his compositions to complete the works faster. His brother-in-law helped him buy his first set of oil paints and an easel and Renoir enrolled in Gleyre’s academy.
 
 
       Similarly, [Alfred Sisley](/alfred-sisley-biography) was a regular attendee of Gleyre’s studio. Unlike the majority of his fellow Frenchmen (and women, as unusually for the time there were three women at Gleyre’s studio), Sisley had been inspired to paint after seeing the work of John Constable and J.M.W. Turner at the National Gallery in London. As the son of an English merchant, he had lived in London for four years whilst working for the family business. 
@@ -123,13 +169,22 @@ textSections:
       #### Friendship blossoms
 
 
-      In this convivial setting, where the students painted male models for three weeks of the month and female models for one week, Monet, Renoir and Sisley became close friends. They were somewhat set apart from the other students, who were most young men from wealthy families, dressed fashionably in the studied style of a ‘bohemian painter’. Monet called the rest of the cohort “the grocers” because of their narrow-minded approach to art.
+      In this convivial setting, where the students painted male models for three weeks of the month and female models for one week, Monet, Renoir and Sisley became close friends. 
 
 
-      During days spent in the studio, smoking, joking and flirting with the female models, the trio also got to know another member of the academy: Frédéric Bazille. Bazille was wealthy and well-bred but terribly shy. When he was not working studiously under Gleyre, he was taking classes at the École de Médecine where he was studying to become a doctor. Renoir’s first assumption of him was 
+      They were somewhat set apart from the other students, who were most young men from wealthy families, dressed fashionably in the studied style of a ‘bohemian painter’. Monet called the rest of the cohort “the grocers” because of their narrow-minded approach to art.
+
+
+      During days spent in the studio, smoking, joking and flirting with the female models, the trio also got to know another member of the academy: Frédéric Bazille. 
+
+
+      Bazille was wealthy and well-bred but terribly shy. When he was not working studiously under Gleyre, he was taking classes at the École de Médecine where he was studying to become a doctor. Renoir’s first assumption of him was 
 
 
       > “the sort who’d have his valet break in his new shoes for him”.
+
+
+      #### Gleyre's method
 
 
       All the artists initially learnt to paint in Gleyre’s Neo-Classical style. They studied how to draw nude figures in extreme detail, receiving prizes for perspective and anatomy, among other things. 
@@ -230,9 +285,9 @@ textSections:
       It was their independence that set them apart from the thousands of other art students attempting to find their way in Paris in the 19th century. As a group, they had tried to find an alternative way of painting that did not yield to the demands of the Institut de France. The start of the Impressionist period was a slow, gradual evolution from the established norms in French art towards something freer and more alive. As the movement gathered momentum, it would develop into a period of immense flux in European culture for decades to come.
     buttonToggle: true
 ---
-## The start of impressionism can be traced back to the early 1860s.  
+## The start of impressionism can be traced back to the early 1860s.
 
-It was at this stage that the core impressionists--Edouard Manet, Claude Monet, Auguste Renoir, Paul Cezanne, Edgar Degas and Camille Pissarro--came together in Paris.  
+It was at this stage that the core impressionists—Edouard Manet, Claude Monet, Auguste Renoir, Paul Cezanne, Edgar Degas and Camille Pissarro—came together in Paris.  
 
 They studied, socialised and lived together (often having very little to live on).  And, crucially to the movement, they supported each other as first Manet and then the others took on the conservative art establishment.  
 

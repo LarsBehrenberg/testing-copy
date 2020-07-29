@@ -105,7 +105,7 @@ const Footer = () => {
       <div className="container footer-link-container">
         <div className="col-sm-3">
           <Link
-            to={`/${leftString.path}`}
+            to={leftString.path}
             style={{
               lineHeight: '30px',
               color: 'white',
@@ -116,7 +116,7 @@ const Footer = () => {
         </div>
         <div className="col-sm-3">
           <Link
-            to={`/${centerLeftString.path}`}
+            to={centerLeftString.path}
             style={{
               lineHeight: '30px',
               color: 'white',
@@ -127,7 +127,7 @@ const Footer = () => {
         </div>
         <div className="col-sm-3">
           <Link
-            to={`/${centerRightString.path}`}
+            to={centerRightString.path}
             style={{
               lineHeight: '30px',
               color: 'white',
@@ -138,7 +138,7 @@ const Footer = () => {
         </div>
         <div className="col-sm-3">
           <Link
-            to={rightString.path === 'index' ? '/' : `/${rightString.path}`}
+            to={rightString.path}
             style={{
               lineHeight: '30px',
               color: 'white',

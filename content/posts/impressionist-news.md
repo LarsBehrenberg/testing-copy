@@ -1,7 +1,7 @@
 ---
 id: post-JcdFACMUe
 path: impressionism-news
-date: 2020-05-05T06:45:19.751Z
+date: 2020-07-28T06:26:49.804Z
 subTitle: "2020"
 title: Impressionism News
 tags: More
@@ -34,22 +34,37 @@ textSections:
       #### July 2020
 
 
+      The [US National Gallery of Art](https://www.nga.gov/index.html) in Washington re-opened on Monday 20 July, but requires face masks to be worn and social distancing.  It is the latest museum to re-open its doors following Covid shutdown.  Visitors can check out a [van Gogh](van-gogh-biography/) self-portrait, a version of Monet's Japanese Footbridge, Cezanne's The Peppermint Bottle and Manet's The Railway.  
+
+
+      The Washington Post published a fascinating article on [Manet's The Dead Toreador](https://www.washingtonpost.com/graphics/2020/entertainment/edouard-manet-the-dead-toreador/) on 15 July 2020.  It includes the observation
+
+
+      > Part of the reason Manet is regarded as the father of modernism is that his paintings uncovered fault lines that were fresh at the time but keep getting wider. “The Dead Toreador” is a fine example ... 
+
+
+      The [Normandie Impressionniste 2020](https://www.normandie-impressionniste.fr/ "https\://www.normandie-impressionniste.fr/"), a festival of over 50 impressionist exhibitions, has now started and will run until 4 November 2020.  The exhibitions include Francois Depeaux, *The Man with 500 Paintings*, at the Rouen Fine Arts Museum featuring works by Monet, Renoir and Sisley.  The most famous painting on display is Monet's Rue St-Denis (pictured).  
+
+
       Museums are starting to re-open after Covid lockdown:
 
 
       * The Mississippi Museum of Art, for instance, welcomes members again from 1 July and the general public from 8 July (first responders and essential workers go free).  The Museum has also said that their *Van Gogh, Monet, Degas & Their Times* exhibition will re-open on 8 July (with its run extended until 10 January 2021. 
 
-
       * The Montreal Museum of Fine Arts' exhibition entitled Paris in the Days of Post-Impressionism opens on 4 July 2020.  Works by Monet, Morisot, Signac, Pissarro and Seurat are on display.
-
 
       * The Musee D'Orsay re-opened its doors on 28 June, but numbers are to be restricted to 3,000 per day and visitors are required to wear face masks.
 
+      * London's museums re-opened on 4 July 2020, with the National Gallery offering priority access to members.  
 
-      * Meanwhile, London's museums are due to re-open on 4 July 2020.  
+
+      Meanwhile, Christie's has had to take severe costs cutting measures, merging its impressionism, modern and contemporary art departments into one.  And a battle regarding the Nazi-era sale of [Monet's Le Palais Ducal](https://www.theartnewspaper.com/news/heirs-battle-estate-over-usd30m-monet-painting-from-emden-collection-sold-during-nazi-era) (with an estimated value of $30 million) is due to be heard in the courts of New York in September 2020.  
 
 
-      Meanwhile, Christie's has had to take severe costs cutting measures, merging its impressionism, modern and contemporary art departments into one.  
+      The town of Southbury Connecticut is hosting an online [Zoom talk on Claude Monet](https://www.southbury-ct.org/events-feed/?FeedID=5727) on 27 July 2020.  
+
+
+      Finally, [Monet's Giverny](https://www.dailymail.co.uk/travel/escape/article-8498821/Hunspach-Alsace-winner-beautiful-village-France-competition.html) has come in 13th in a poll of the most beautiful villages in France.  
 
 
       #### June 2020
@@ -101,6 +116,9 @@ textSections:
 
 
       In February 2020, the Boston Museum of Fine Arts marked its 150th anniversary.  It selected 15 key works for the occasion, including one of Monet's Haystacks (or Grainstacks).
+
+
+      The Louvre-Lens museum, in the north of Paris, is holding an exhibition entitled [Black Suns](https://www.louvrelens.fr/en/exhibition/noir/).  It explores artists' use of the colour black.  Edouard Manet, who unlike many of the impressionists loved using this colour, features heavily.  The exhibition runs until 25 January 2021.
     buttonToggle: true
     sideGalleryImages:
       - imageUrl: /assets/10-paintings-claude-monet-japanese-footbridge.jpg
@@ -110,13 +128,33 @@ textSections:
         imageTitle: Monet's Olympia is one of the treasures of the Musee d'Orsay.  It
           can now be seen by the public again, following the easing of Covid
           measures in Paris.
+      - imageTitle: "Claude Monet's Rue Saint-Denis is one his most iconic works of
+          Paris.  "
+        imageUrl: /assets/claude-monet-rue-saint-denis.jpg
   - textTitle: 2019 News Items
-    text: "**19 May 2019**.  A luminous version of Monet's Haystacks sells at
-      Christie's  New York for a record $97m ($110.7m with fees)."
+    text: >-
+      **1 September 2019.**  The Amsterdam Van Gogh Museum's exhibition entitled
+      Van Gogh and Sunflowers comes to an end.  It explores Van Gogh's most
+      famous motif, with 23 of the sunflowers on display.  
+
+
+      **11 August 2019**.  The Tate Britain's exhibition entitled Van Gogh and Britain comes to an end; it explores Van Gogh's three-year stay in London in his early 20s, including the haunting Visitors Exercising (painted in 1890 but depicting the Newgate jail seen by Van Gogh decades earlier).  
+
+
+      **19 May 2019**.  A luminous version of Monet's Haystacks sells at Christie's  New York for a record $97m ($110.7m with fees).
+
+
+      **20 January 2019**.  The London National Gallery's exhibition entitled Courtauld Impressionists: from Manet to Cezanne comes to an end.  This show includes forty of the Courtauld gallery's most impressive masterpieces (which are able to be shown because the Courtauld is undergoing a major renovation project).  My favourite work on display is Renoir's La Loge (The Theatre Box).
     buttonToggle: false
     sideGalleryImages:
       - imageUrl: /assets/claude-monet-haystacks-sunset.jpg
         imageTitle: One of Monet's Haystacks
+      - imageUrl: /assets/renoir-la-loge-the-theatre-box.jpg
+        imageTitle: Renoir's La Loge (The Theatre Box) is one of the most captivating
+          works in Courtauld Impressionists
+      - imageUrl: /assets/van-gogh-sunflowers.jpg
+        imageTitle: Check out the 23 versions of Van Gogh's Sunflowers at the Amsterdam
+          Van Gogh Museum
 ---
 ## On this page, updated on a weekly basis, we give you the latest impressionist news.
 
@@ -124,5 +162,5 @@ Learn about the latest impressionist exhibitions, auctions and research. Highlig
 
 * Museums and exhibitions are starting to re-open after Covid-19 lockdown.
 * Various museums putting on virtual tours, galleries and other activities to help you cope with Covid-19 lockdown.
-* Bid on impressionist works and writings at a number of online auctions.
+* Technology is allowing collectors to bid on impressionist works and writings in online auctions.
 * The Boston Museum of Fine Arts marked its 150th anniversary in February 2020.

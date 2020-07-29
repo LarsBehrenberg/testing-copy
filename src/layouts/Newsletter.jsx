@@ -100,6 +100,10 @@ const InputWrapper = styled.div`
     letter-spacing: 2px;
     font-size: 14px;
   }
+
+  & #group-validator {
+    display: none;
+  }
 `
 
 const TextWrapper = styled.div`
@@ -136,7 +140,7 @@ const Newsletter = () => {
 
   const _handleSubmit = async e => {
     e.preventDefault()
-    const result = await addToMailchimp(state.email)
+    const result = await addToMailchimp(state.email, { 'group[7502][2]': 2 })
     setState({ email: state.email, result: result })
   }
 
@@ -195,6 +199,14 @@ const Newsletter = () => {
                 type="email"
                 aria-label="email"
                 onChange={handleEmailChange}
+              />
+              <input
+                type="checkbox"
+                value="2"
+                name="group[7502][1]"
+                id="group-validator"
+                checked
+                readOnly
               />
               <button type="submit" label="Submit">
                 Subscribe

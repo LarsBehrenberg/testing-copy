@@ -21,7 +21,7 @@ menuLinkList:
   - label: Gallery
     path: /gallery
   - label: Quiz
-    path: /impressionism-quiz
+    path: /quiz
   - label: More
     dropdown:
       - label: Top 10 Paintings

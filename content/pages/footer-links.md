@@ -2,26 +2,26 @@
 buttonLinkObject:
   leftButton:
     label: Top 10 Paintings
-    path: top-10-impressionist-paintings
+    path: /top-10-impressionist-paintings
   centerButton:
     label: Impressionist Quiz
-    path: impressionism-quiz
+    path: /quiz
   rightButton:
     label: Impressionism News
-    path: impressionism-news
+    path: /impressionism-news
 pageLinkObject:
   leftString:
     label: About Us
-    path: about-us
+    path: /about-us
   centerLeftString:
     label: Contact Us
-    path: contact-us
+    path: /contact-us
   centerRightString:
     label: Legal
-    path: legal
+    path: /legal
   rightString:
     label: Homepage
-    path: index
+    path: /
 socialButtons:
   - url: https://www.youtube.com/channel/UCp4kXBbQe5DvYY-v0vi3_zQ
   - url: https://www.pinterest.co.uk/1u5g3vkf5xp33xzdg311ezzung5n21/

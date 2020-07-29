@@ -84,7 +84,7 @@ class QuizResults extends React.Component {
 
             <h2 id="finalMessage">You need to do some serious research!</h2>
             <Form>
-              <StyledLink to="impressionism-quiz">Play Again*</StyledLink>
+              <StyledLink to="/quiz">Play Again*</StyledLink>
               <StyledLink to="/">Homepage</StyledLink>
             </Form>
             <h3 style={{ paddingTop: '30px' }}>

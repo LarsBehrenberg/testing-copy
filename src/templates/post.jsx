@@ -317,7 +317,7 @@ export const query = graphql`
           cover {
             childImageSharp {
               fixed(width: 300) {
-                ...GatsbyImageSharpFixed_withWebp_noBase64
+                ...GatsbyImageSharpFixed_noBase64
               }
             }
           }
@@ -341,7 +341,7 @@ export const query = graphql`
             topImageUrl {
               expandedImage: childImageSharp {
                 fluid(srcSetBreakpoints: [800]) {
-                  ...GatsbyImageSharpFluid_withWebp_noBase64
+                  ...GatsbyImageSharpFluid_noBase64
                 }
               }
             }
@@ -351,12 +351,12 @@ export const query = graphql`
             leftImageUrl {
               thumbImage: childImageSharp {
                 fixed(width: 400) {
-                  ...GatsbyImageSharpFixed_withWebp_noBase64
+                  ...GatsbyImageSharpFixed_noBase64
                 }
               }
               expandedImage: childImageSharp {
                 fluid(srcSetBreakpoints: [800]) {
-                  ...GatsbyImageSharpFluid_withWebp_noBase64
+                  ...GatsbyImageSharpFluid_noBase64
                 }
               }
             }
@@ -366,12 +366,12 @@ export const query = graphql`
             middleImageUrl {
               thumbImage: childImageSharp {
                 fixed(width: 400) {
-                  ...GatsbyImageSharpFixed_withWebp_noBase64
+                  ...GatsbyImageSharpFixed_noBase64
                 }
               }
               expandedImage: childImageSharp {
                 fluid(srcSetBreakpoints: [800]) {
-                  ...GatsbyImageSharpFluid_withWebp_noBase64
+                  ...GatsbyImageSharpFluid_noBase64
                 }
               }
             }
@@ -381,12 +381,12 @@ export const query = graphql`
             rightImageUrl {
               thumbImage: childImageSharp {
                 fixed(width: 400) {
-                  ...GatsbyImageSharpFixed_withWebp_noBase64
+                  ...GatsbyImageSharpFixed_noBase64
                 }
               }
               expandedImage: childImageSharp {
                 fluid(srcSetBreakpoints: [800]) {
-                  ...GatsbyImageSharpFluid_withWebp_noBase64
+                  ...GatsbyImageSharpFluid_noBase64
                 }
               }
             }
@@ -400,12 +400,12 @@ export const query = graphql`
             imageUrl {
               thumbImage: childImageSharp {
                 fixed(width: 200) {
-                  ...GatsbyImageSharpFixed
+                  ...GatsbyImageSharpFixed_noBase64
                 }
               }
               expandedImage: childImageSharp {
                 fluid(srcSetBreakpoints: [800]) {
-                  ...GatsbyImageSharpFluid_withWebp_noBase64
+                  ...GatsbyImageSharpFluid_noBase64
                 }
               }
             }

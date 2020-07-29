@@ -1,4 +1,5 @@
 import React from 'react'
+import { navigate } from 'gatsby'
 
 const questions = require('./questions').questions
 
@@ -25,7 +26,7 @@ class Game extends React.Component {
       this.questionCounter >= this.MAX_QUESTIONS
     ) {
       localStorage.setItem('mostRecentScore', this.score)
-      return window.location.assign('quiz-results')
+      return navigate('/quiz-results')
     }
 
     this.questionCounter++
