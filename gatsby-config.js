@@ -79,7 +79,7 @@ module.exports = {
           'https://netlify.us18.list-manage.com/subscribe/post?u=665784ffab3c1c46436a3f0ab&amp;id=6460b7e027',
       },
     },
-    'gatsby-plugin-remove-serviceworker',
+    'gatsby-plugin-offline',
     {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
