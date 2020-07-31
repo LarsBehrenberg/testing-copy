@@ -3,7 +3,7 @@ import Carousel from '@brainhubeu/react-carousel'
 import { Link } from 'gatsby'
 import styled from '@emotion/styled'
 import { graphql, useStaticQuery } from 'gatsby'
-import Img from 'gatsby-image'
+import BackgroundImage from 'gatsby-background-image'
 
 const StyledLink = styled(Link)`
   width: 100%;
@@ -117,7 +117,7 @@ const ImageCarousel = () => {
               image {
                 childImageSharp {
                   fluid(maxWidth: 800, quality: 80) {
-                    ...GatsbyImageSharpFluid_withWebp_noBase64
+                    ...GatsbyImageSharpFluid
                   }
                 }
               }
@@ -148,11 +148,10 @@ const ImageCarousel = () => {
                 <span>{image.text}</span>
               </Info>
               <CarouselImage>
-                <Img
+                <BackgroundImage
                   fluid={image.image.childImageSharp.fluid}
                   alt={image.title}
-                  fadeIn={false}
-                  loading="eager"
+                  backgroundColor={`#040e1895`}
                 />
               </CarouselImage>
               <OverlayBackground />
