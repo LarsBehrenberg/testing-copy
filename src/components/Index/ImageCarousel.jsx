@@ -3,7 +3,7 @@ import Carousel from '@brainhubeu/react-carousel'
 import { Link } from 'gatsby'
 import styled from '@emotion/styled'
 import { graphql, useStaticQuery } from 'gatsby'
-import BackgroundImage from 'gatsby-background-image'
+import Img from 'gatsby-image'
 
 const StyledLink = styled(Link)`
   width: 100%;
@@ -148,9 +148,11 @@ const ImageCarousel = () => {
                 <span>{image.text}</span>
               </Info>
               <CarouselImage>
-                <BackgroundImage
+                <Img
                   fluid={image.image.childImageSharp.fluid}
                   alt={image.title}
+                  loading="eager"
+                  fadeIn={false}
                   backgroundColor={`#040e1895`}
                 />
               </CarouselImage>

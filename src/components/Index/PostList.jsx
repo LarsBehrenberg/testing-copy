@@ -1,7 +1,7 @@
 /* eslint-disable react/forbid-prop-types */
 import React from 'react'
 import { Link } from 'gatsby'
-import BackgroundImage from 'gatsby-background-image'
+import Img from 'gatsby-image'
 import styled from '@emotion/styled'
 import PropTypes from 'prop-types'
 
@@ -188,11 +188,7 @@ const Title = styled.h2`
 const PostList = ({ date, cover, path, title, excerpt, view, subTitle }) => (
   <Wrapper className={`${view}-view`} to={`/${path}`}>
     <Image className={`${view}-view list-image-container`}>
-      <BackgroundImage
-        fluid={cover}
-        alt={title}
-        backgroundColor={`#040e1895`}
-      />
+      <Img fluid={cover} alt={title} backgroundColor={`#040e1895`} />
     </Image>
     <StyledLink className={`${view}-view`}>
       <Info className={`${view}-view`}>
