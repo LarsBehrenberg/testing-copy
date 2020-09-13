@@ -1,5 +1,6 @@
 ---
 id: post-ohJHlA6kL
+showOnIndex: true
 path: jean-baptiste-camille-corot-biography
 date: 2020-06-04T06:17:05.764Z
 subTitle: Biography of

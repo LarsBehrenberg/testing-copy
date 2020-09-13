@@ -56,7 +56,7 @@ const VideoContainer = styled.div`
 
 const Video = ({ videoId }) => {
   const videoThumb = id =>
-    `<img src="https://i.ytimg.com/vi/${id}/maxresdefault.jpg" alt="Youtube Icon">` +
+    `<img src="https://i.ytimg.com/vi/${id}/hqdefault.jpg" alt="Youtube Icon">` +
     '<span></span>'
 
   function videoIframe() {

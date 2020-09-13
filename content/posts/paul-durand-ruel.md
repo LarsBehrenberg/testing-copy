@@ -1,5 +1,6 @@
 ---
 id: post-lIcBdLswe
+showOnIndex: true
 path: paul-durand-ruel-biography
 date: 2020-06-04T05:57:31.126Z
 subTitle: Biography of

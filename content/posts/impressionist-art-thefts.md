@@ -1,5 +1,6 @@
 ---
 id: post-Q0JukxAai
+showOnIndex: true
 path: top-10-impressionist-art-thefts
 date: 2020-06-08T01:11:51.315Z
 subTitle: Top 10

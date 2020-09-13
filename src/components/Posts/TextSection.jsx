@@ -75,8 +75,7 @@ const TextSection = ({
                                     width: '100%',
                                     height: '100%',
                                   }}
-                                  loading="eager"
-                                  fadeIn={false}
+                                  imgStyle={{ objectPosition: 'center top' }}
                                 />
                               </span>
                             </figure>

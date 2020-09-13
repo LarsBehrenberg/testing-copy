@@ -1,5 +1,6 @@
 ---
 id: post-9EAEWGhLQ
+showOnIndex: false
 path: guide-for-children-about-impressionists
 date: 2020-06-12T03:28:41.335Z
 subTitle: Learn More

@@ -1,5 +1,6 @@
 ---
 id: post-28p-gX1Wh
+showOnIndex: true
 path: jean-auguste-dominique-ingres-biography
 date: 2020-06-04T06:30:47.609Z
 subTitle: Biography of

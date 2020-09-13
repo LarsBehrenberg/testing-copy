@@ -1409,6 +1409,10 @@ p>a,
     animation-fill-mode: forwards;
 }
 
+.text-large {
+    font-size:110%;
+}
+
 /* QUIZ PAGE CSS */
 
 .container2 {

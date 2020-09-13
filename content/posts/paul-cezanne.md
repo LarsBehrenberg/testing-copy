@@ -1,5 +1,6 @@
 ---
 id: post-YHib0YkbQ
+showOnIndex: true
 path: paul-cezanne-biography
 date: 2020-06-03T05:13:10.199Z
 subTitle: Biography of

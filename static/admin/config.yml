@@ -26,6 +26,7 @@ collections:
           timestamp: false, # will generate 1245119112-post-124hfkjas
           hint: This widget generates a unique read-only id needed to distinguish this post from others,
         }
+      - { label: "Show on index page", name: "showOnIndex", widget: "boolean", default: true, hint: 'This switch lets you control to show this article on the index page' }
       - {
           name: 'path',
           label: 'Slug',
@@ -347,7 +348,10 @@ collections:
                   name: path,
                   widget: string,
                   pattern:
-                    ['^[a-z0-9-]+$', "This slug doesn't fit the right format"],
+                    [
+                      '^[a-z0-9-\/]+$',
+                      "This slug doesn't fit the right format",
+                    ],
                 }
               - label: Dropdown List
                 name: dropdown
@@ -360,7 +364,7 @@ collections:
                       widget: string,
                       pattern:
                         [
-                          '^[a-z0-9-]+$',
+                          '^[a-z0-9-\/]+$',
                           "This slug doesn't fit the right format",
                         ],
                     }
@@ -383,7 +387,7 @@ collections:
                       widget: string,
                       pattern:
                         [
-                          '^[a-z0-9-]+$',
+                          '^[a-z0-9-\/]+$',
                           "This slug doesn't fit the right format",
                         ],
                     }
@@ -398,7 +402,7 @@ collections:
                       widget: string,
                       pattern:
                         [
-                          '^[a-z0-9-]+$',
+                          '^[a-z0-9-\/]+$',
                           "This slug doesn't fit the right format",
                         ],
                     }
@@ -413,7 +417,7 @@ collections:
                       widget: string,
                       pattern:
                         [
-                          '^[a-z0-9-]+$',
+                          '^[a-z0-9-\/]+$',
                           "This slug doesn't fit the right format",
                         ],
                     }
@@ -432,7 +436,7 @@ collections:
                       widget: string,
                       pattern:
                         [
-                          '^[a-z0-9-]+$',
+                          '^[a-z0-9-\/]+$',
                           "This slug doesn't fit the right format",
                         ],
                     }
@@ -447,7 +451,7 @@ collections:
                       widget: string,
                       pattern:
                         [
-                          '^[a-z0-9-]+$',
+                          '^[a-z0-9-\/]+$',
                           "This slug doesn't fit the right format",
                         ],
                     }
@@ -462,7 +466,7 @@ collections:
                       widget: string,
                       pattern:
                         [
-                          '^[a-z0-9-]+$',
+                          '^[a-z0-9-\/]+$',
                           "This slug doesn't fit the right format",
                         ],
                     }
@@ -477,7 +481,7 @@ collections:
                       widget: string,
                       pattern:
                         [
-                          '^[a-z0-9-]+$',
+                          '^[a-z0-9-\/]+$',
                           "This slug doesn't fit the right format",
                         ],
                     }
@@ -486,13 +490,3 @@ collections:
             widget: list
             fields:
               - { label: Url, name: url, widget: string, required: true }
-  # - name: 'maps'
-  #   label: 'Maps'
-  #   folder: '/content/maps/'
-  #   create: false
-  #   description: 'The list of custom created maps for TTDE.'
-  #   fields:
-  #     - { name: 'path', label: 'Path' }
-  #     - { name: 'title', label: 'Title' }
-  #     - { name: 'googleApi', label: 'Google API URL' }
-  #     - { name: 'tags', label: 'Tags', widget: 'list' }

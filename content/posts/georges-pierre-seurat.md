@@ -1,5 +1,6 @@
 ---
 id: post-9lf45IVMV
+showOnIndex: true
 path: georges-seurat-biography
 date: 2020-06-02T12:44:14.562Z
 subTitle: Biography of

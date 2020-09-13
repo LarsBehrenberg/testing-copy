@@ -1,9 +1,10 @@
 ---
 id: post-NTXL4qCmt
-path: discover-the-impressionists
+showOnIndex: true
+path: what-is-impressionism
 date: 2020-06-05T08:56:20.813Z
-subTitle: Discover the
-title: Impressionists
+subTitle: What is
+title: Impressionism
 tags: More
 cover: /assets/claude-monet-impression-sunrise.jpg
 links:

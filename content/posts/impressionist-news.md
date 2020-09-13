@@ -1,5 +1,6 @@
 ---
 id: post-JcdFACMUe
+showOnIndex: true
 path: impressionism-news
 date: 2020-07-28T06:26:49.804Z
 subTitle: "2020"
@@ -27,11 +28,65 @@ textSections:
   - textTitle: 2020 News Items
     text: >-
       ### Covid-19 has dampened demand for impressionist work at auctions and
-      delayed a number of exhibitions.  But it is not all bad news, as we
-      explain below.
+      delayed a number of exhibitions.
 
 
-      #### July 2020
+      <p class="large-text">But things are starting to open up again; and many museums have improved their online resources.</p>
+
+
+      ### September 2020
+
+
+      #### Monet and Chicago
+
+
+      On **5 September 2020**, the Art Institute of Chicago opens its exhibition [Monet and Chicago](https://www.artic.edu/exhibitions/9036/monet-and-chicago).  Showing 70 Monet canvasses, including the Institute's own holding of 33 paintings, the exhibition charts how Monet's work was enthusiastically embraced by the Chicago elite from the early 1890s.  This was in large part thanks to the efforts of Monet's main dealer [Paul Durand-Ruel](paul-durand-ruel-biography).  Works on display include several versions of Haystacks and Monet's Water Lilies, together with Bordighera, Gare St-Lazare, Pourville and the Houses of Parliament.
+
+
+      #### Postdam: Museum Barberini
+
+
+      The new permanent collection of impressionist works at [Postdam's Museum Barberini](https://www.ft.com/content/ab933d77-a6a0-4471-95da-f14a6766d1ae) opens to the public on **7 September 2020**.  This is really big news:
+
+
+      * The Museum Barberini is the brainchild of German software billionaire Hasso Plattner.  It opened in 2017 but has so far been mainly noted for its temporary exhibitions.  
+
+      * Meanwhile, Plattner has steadily been growing his impressionist collection.  The highlight is undoubtedly the version of Haystacks (Meules) purchased by Plattner in May 2019 for $110.7 million.  But other masterpieces include a version of Monet's Poplars, Renoir's The Pear Tree, Cezanne's Forest Interior, a version of Pissarro's Boulevard Montmartre, and Signac's The Port at Sunset.
+
+      * The whole collection has been donated to the Barberini, housed in a palace built by Frederick the Great in the late 18th century.  It is arguably Europe's best impressionist collection outside of Paris.   
+
+
+      ### August 2020
+
+
+      On **15 August 2020**, the National Gallery in London announced that it will hold an exhibition entitled [Impressionist Decorations: the Birth of Modern Decor](https://www.nationalgallery.org.uk/exhibitions/impressionist-decorations-the-birth-of-modern-decor) from September 2011 to January 2022.  Though a long way off, this is something to look forward to (hopefully once the world has got back on its feet after Covid).  
+
+
+      In total, the exhibition will include 80 pieces of art from Monet, Manet, Degas, Morisot, Renoir and Caillebotte, including decorative panels painted by Monet of Water Lilies and Manet's Spring.  
+
+
+      On **7 August 2020**, the first major London exhibition post-lockdown opens its doors.  The Royal Academy's [Gauguin and the Impressionists: Masterpieces from the Ordrupgaard Collection](https://www.royalacademy.org.uk/exhibition/gauguin-and-the-impressionists-ordrupgaard) promises to be a cracker.  
+
+
+      The controversial [Gaugin's](paul-gaugin-biography/) bold subject matter, such as Tahitian Woman, is on display next to more conventional impressionist fare such as Manet's *Basket of Pears*, Sisley's *Barges from Berry*, and Pissarro's *Morning Sun in the Rue St-Honore*.  
+
+
+      The collection was originally put together by Danish insurance magnate Wilhelm Hansen.  He used to show the Manet work after dinner parties, explaining to guests that it:
+
+
+      > "Is an extra dessert after the ice cream."
+
+
+      The RA's exhibition runs until 18 October 2020, and tickets are £17 (but are extremely limited and currently sold out -- you need to get on the email list to find out when more tickets will be released).
+
+
+      Boston's Museum of Fine Arts remains closed, but it has enhanced its online offering for [Monet and Boston: Lasting Impression](https://www.mfa.org/exhibition/monet-and-boston-lasting-impression).  You can now see picture galleries, Monet-inspired music, and videos on Monet and the Boston collectors (and how they travelled to France to buy Monet's works--one couple purchased a version of Haystacks whilst on their honeymoon!).
+
+
+      Meanwhile, in Kent, England, rock star Sir Bob Geldolf has submitted a planning application seeking [permission to create a water-lily pond](https://www.dailymail.co.uk/news/article-8595637/Sir-Bob-Geldof-submits-plans-wildlife-pond-inspired-Claude-Monets-water-lily-paintings.html) inspired by Monet's pond at Giverny.
+
+
+      ### July 2020
 
 
       The [US National Gallery of Art](https://www.nga.gov/index.html) in Washington re-opened on Monday 20 July, but requires face masks to be worn and social distancing.  It is the latest museum to re-open its doors following Covid shutdown.  Visitors can check out a [van Gogh](van-gogh-biography/) self-portrait, a version of Monet's Japanese Footbridge, Cezanne's The Peppermint Bottle and Manet's The Railway.  
@@ -49,7 +104,7 @@ textSections:
       Museums are starting to re-open after Covid lockdown:
 
 
-      * The Mississippi Museum of Art, for instance, welcomes members again from 1 July and the general public from 8 July (first responders and essential workers go free).  The Museum has also said that their *Van Gogh, Monet, Degas & Their Times* exhibition will re-open on 8 July (with its run extended until 10 January 2021. 
+      * The Mississippi Museum of Art, for instance, welcomes members again from 1 July and the general public from 8 July (first responders and essential workers go free).  The Museum has also said that their *Van Gogh, Monet, Degas & Their Times* exhibition will re-open on 8 July (with its run extended until 10 January 2021). 
 
       * The Montreal Museum of Fine Arts' exhibition entitled Paris in the Days of Post-Impressionism opens on 4 July 2020.  Works by Monet, Morisot, Signac, Pissarro and Seurat are on display.
 
@@ -67,7 +122,7 @@ textSections:
       Finally, [Monet's Giverny](https://www.dailymail.co.uk/travel/escape/article-8498821/Hunspach-Alsace-winner-beautiful-village-France-competition.html) has come in 13th in a poll of the most beautiful villages in France.  
 
 
-      #### June 2020
+      ### June 2020
 
 
       On 1 June 2020 the Boston Museum of Fine Arts is delivering an online course for children in grades 1-5 entitled [Exploring Impressionism: The Art of Claude Monet](https://mfa.org/event/distance-learning/exploring-impressionism-the-art-of-claude-monet?event=62431).
@@ -85,7 +140,7 @@ textSections:
       Christie's is holding an [Impressionist & Modern Art Evening Sale](https://www.sothebys.com/en/digital-catalogues/impressionist-modern-art-evening-sale) on **30 June**, but the title is a bit misleading.  The closest one gets to impressionism are works by Paul Signac and Pablo Picasso.
 
 
-      #### May 2020
+      ### May 2020
 
 
       On 18 May 2020, Sotheby's held its first [Impressionist & Modern Art Day Sale Online](https://www.sothebys.com/en/buy/auction/2020/impressionist-modern-art-day-sale-online).  The results for impressionist pieces often exceeded expectations.  Pissarro's Effect de Neige a Onsy sold for $560,000 (exceeding the top-end estimate of $350,000); Degas' Buste de Jeune Femme Presque Nue sold for $596,000 (estimate: $450,000); and Renoir's La Maison de la Poste sold for $200,000 (in the middle of its estimated range).  
@@ -112,7 +167,7 @@ textSections:
       There's an online [auction of autographs](https://www.finebooksmagazine.com/news/mao-marx-autographs-and-artifacts-offered-online-auction) and writings (you can bid until 13 May 2020), with lots including an 8-page letter written by Claude Monet to his second wife, Alice, in 1901.  It comments on the arrangements for Queen Victoria's funeral and Monet's meeting with writer Henry James.
 
 
-      #### Jan-April 2020
+      ### Jan-April 2020
 
 
       In February 2020, the Boston Museum of Fine Arts marked its 150th anniversary.  It selected 15 key works for the occasion, including one of Monet's Haystacks (or Grainstacks).

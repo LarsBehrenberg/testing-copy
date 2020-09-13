@@ -1,5 +1,6 @@
 ---
 id: post-EqJRP4k4i
+showOnIndex: true
 path: claude-monet-biography
 date: 2020-06-03T05:47:21.003Z
 subTitle: Biography of
@@ -216,7 +217,7 @@ textSections:
       Napoleon III’s disastrous foreign policy came to a head in 1870 when he declared war on the Prussians. The French army was soon defeated and it became clear that Paris would be surrounded. Some — [Manet](/edouard-manet-biography#4 "Manet's defence of Paris in the Prussian war") and [Berthe Morisot](/berthe-morisot-biography) included—stayed. But Monet fled to London.
 
 
-      This turned out to be a real stroke of luck. Monet met art dealer [Paul Durand-Ruel](/paul-durand-ruel-biography "Paul Durand-Ruel wikipedia entry")in London, who had an interest in a gallery on Bond Street. Durand-Ruel had previously been a dealer and advocate for the Barbizon School, but he was quick to see the potential of the impressionists.
+      This turned out to be a real stroke of luck. Monet met art dealer [Paul Durand-Ruel](/paul-durand-ruel-biography "Paul Durand-Ruel wikipedia entry") in London, who had an interest in a gallery on Bond Street. Durand-Ruel had previously been a dealer and advocate for the Barbizon School, but he was quick to see the potential of the impressionists.
 
 
       Monet also took the opportunity to study the works of the English painters [John Constable](https://www.greatestbritons.com/john-constable-biography.html) and [J.M.W. Turner](https://greatestbritons.com/william-turner-biography.html).
@@ -225,7 +226,7 @@ textSections:
       #### The first impressionist exhibition
 
 
-      The first of eight impressionist exhibitions was held in 1874 at the studio of the photographer known as Nadar on the Rue du Capucines. The lead-up to the exhibition saw wrangling amongst the artists about the articles of association for a company formed for the occasion called the Anonymous Society of Painters, Sculptors and Engravers etc.
+      The [first impressionist exhibitions](first-impressionist-exhibition/) was held in 1874 at the studio of the photographer known as Nadar on the Rue du Capucines. The lead-up to the exhibition saw wrangling amongst the artists about the articles of association for a company formed for the occasion called the Anonymous Society of Painters, Sculptors and Engravers etc.
 
 
       Once the company was incorporated the exhibition came together. Thirty painters exhibited 165 works in all. The leading contributors were Monet, Renoir, Pissarro, [Degas](/edgar-degas-biography) and Berthe Morisot (Manet helped behind the scenes but refused to exhibit, focussing on the Salon).
@@ -237,21 +238,13 @@ textSections:
       Around 3,500 people came, around 100 a day. But the reviews were horrific. Monet’s Impression Sunrise was singled out for particular censure by the acidic critic Albert Woolf:
 
 
-
-
       > “Impression! Of course. There must be an impression somewhere in it. What freedom ... what flexibility of style. Wallpaper in early stages is more finished than that.”
-
-
 
 
       Only Paul Cezanne’s canvasses attracted worse reviews. The day before the exhibition closed there was an ironic entry in the exhibition news column of La Patrie:
 
 
-
-
       > “There is an exhibition of the intransigents in the Boulevard des Capucines, or rather, you might say, of the lunatics, of which I have already given you a report. If you would like to be amused, and have a moment to spare, don’t miss it.”
-
-
 
 
       At the end of the year, Renoir chaired a meeting of the Society. With cash of 278 francs and liabilities of almost 4000 francs, each exhibitor *owed* 278 francs!
@@ -260,7 +253,7 @@ textSections:
       #### The second exhibition
 
 
-      The second impressionist exhibition, held two years later, did little to improve matters. Durand-Ruel lent the group his gallery on the Rue Le Pelletier.
+      The [second impressionist exhibition](second-impressionist-exhibition/), held two years later, did little to improve matters. Durand-Ruel lent the group his gallery on the Rue Le Pelletier.
 
 
       [Gustave Caillebotte](/gustave-caillebotte-biography) largely funded the exhibition and took over much of the organisation (much to Degas’ irritation). Manet again refused to be involved. And Caillebotte’s *The Floor Strippers* stole the show.
@@ -269,11 +262,7 @@ textSections:
       Monet has some success too. His colourful *Japanese Girl*s old for 2,000 francs. And the press was not all bad. Henry James wrote a positive article in the New York Tribune. But Woolf again was implacably opposed to the movement. He wrote:
 
 
-
-
       > “The Rue de Pelletier is certainly having its troubles. After the fire at the Opera, a new disaster has befallen the district. An exhibition of so-called painting has opened at Durand-Ruel’s. ... Here, five or six lunatics deranged by ambition ... have put together an exhibition of their work. ... They take canvas, paint and brushes, splash on a few daubs of colour here and there at random, then sign the result. The inmates of the Ville-Evrard asylum behave in much the same way.”
-
-
 
 
       At least the show turned a (very small) profit!
@@ -304,7 +293,7 @@ textSections:
       Monet’s father had died in 1871 and he sold a number of paintings at the start of the decade for good prices.
 
 
-      But Monet was a spendthrift. The rented house that Manet found for him in Argenteuil following his return from London did not come cheap. And Monet engaged household staff, gardeners and bought the latest luxuries (an expensive imported tea set can be seen in*The Luncheon*(1873)).
+      But Monet was a spendthrift. The rented house that Manet found for him in Argenteuil following his return from London did not come cheap. And Monet engaged household staff, gardeners and bought the latest luxuries (an expensive imported tea set can be seen in *The Luncheon* (1873)).
 
 
       Realising that he had to economise, Monet moved first to a smaller rented house in Argenteuil and then to a modest home in Vetheuil in 1878.
@@ -313,17 +302,13 @@ textSections:
       #### Begging letters
 
 
-      This period is characterised by Monet sending letters to Durand-Ruel, Caillebotte, Manet and others begging for handouts. Sometimes he asked for as little as 20 francs.
+      This period is characterised by Monet sending letters to [Paul Durand-Ruel](paul-durand-ruel-biography/), Caillebotte, Manet and others begging for handouts. Sometimes he asked for as little as 20 francs.
 
 
       A typical letter, sent to Manet in 1876, is as follows:
 
 
-
-
       > “Things are going worse and worse. Since the day before yesterday, I have not had a penny, and no credit anywhere — not at the butcher’s or baker’s. Could you possibly send me 20 francs by return? It would tide me over for the moment.”
-
-
 
 
       One problem was that Durand-Ruel couldn’t shift the stock that he had bought earlier in the decade. And the horrible reviews of the impressionist exhibitions didn’t help. Durand-Ruel had no option but to suspend the instalment payments he was making for those works.
@@ -332,7 +317,7 @@ textSections:
       #### Camille Doncieux
 
 
-      Monet had met Camille Doncieux in the mid-1860s, with her modelling in*Woman in the Green Dress*. The two quickly formed a relationship, with Camille giving birth to Monet’s first son, Jean, in 1867. A second son, Michel, followed 11 years later.
+      Monet had met Camille Doncieux in the mid-1860s, with her modelling in *Woman in the Green Dress*. The two quickly formed a relationship, with Camille giving birth to Monet’s first son, Jean, in 1867. A second son, Michel, followed 11 years later.
 
 
       But by 1879 Camille was seriously ill, perhaps as a result of a botched abortion. Monet’s money woes prevented him from being able to pay for the best medical care, and Camille died in September 1879, aged just 32.
@@ -344,7 +329,7 @@ textSections:
       <h4><img src="logo/palette.png" alt="A painters pallete"> Strange but true...</h4>
 
 
-      One of Monet’s most remarkable works is*Camille Monet on her Deathbed*(pictured). Monet painted his dead wife as the first rays of sunlight were entering her bedroom the next day. Monet described his behaviour as follows:
+      One of Monet’s most remarkable works is *Camille Monet on her Deathbed* (pictured). Monet painted his dead wife as the first rays of sunlight were entering her bedroom the next day. Monet described his behaviour as follows:
 
 
       > “... my gaze fixed upon her tragic temples and I caught myself observing the shades and nuances of colour death brought to her countenance. Blues, yellows, greys. The wish came upon me to record the image of her who was departing from us forever. ... my reflexes took possession of me in an unconscious process.”
@@ -374,7 +359,7 @@ textSections:
       </div>
 
 
-      **Second**, Monet seemed to shake the malaise that had overtaken him when Camille died in 1882. He visited Normandy a number of times, and painted a number of coastal works including*The Fisherman’s House*and*The Custom’s House*, both at Varengeville, and*Walk on the Cliff*at Pourville.
+      **Second**, Monet seemed to shake the malaise that had overtaken him when Camille died in 1882. He visited Normandy a number of times, and painted a number of coastal works including *The Fisherman’s House* and *The Custom’s House*, both at Varengeville, and *Walk on the Cliff* at Pourville.
 
 
       **Third**, the market for impressionist works improved in the early 1880s. Monet’s solo show at Durand-Ruel’s gallery in 1883 produced good reviews. And the dealer started to conquer the American market in the middle of the decade.
@@ -429,11 +414,9 @@ textSections:
 
       * First, there is the diverse subject matter: there are works of whole ponds, of the Japanese bridge, of ponds and adjacent gardens, and extreme close-ups of only a few water lilies (or Nympheas)
 
-      * Second, there is the range of colours: greens, blues, yellows and aquamarines gave way to a far redder palette when Monet's eyesight deteriorated in the 1910s as he developed cataracts.
+      * Second, there is the range of colours: greens, blues, yellows and aquamarines gave way to a far redder palette when [Monet's eyesight deteriorated ](did-claude-monet-go-blind-from-cataracts/)in the 1910s as he developed cataracts.
 
       * Third, there is the range of size. The early works were typically a metre square (or thereabouts), but later on Monet produced huge canvasses (largely to donate to the French nation) which often measures 6 by 2 metres.
-
-
 
 
       #### Monet's Grand Decorations
@@ -576,13 +559,14 @@ textSections:
         imageUrl: /assets/claude-monet-houses-of-parliament.jpg
     buttonToggle: true
 ---
+## Claude Monet is probably the most famous impressionist today. 
 
-## Claude Monet is probably the most famous impressionist today. If you asked a man on the street to name an impressionist painting he would probably reply “water lilies”.
+If you asked a man on the street to name an impressionist painting he would probably reply “water lilies”.
 
 Unlike Edouard Manet who died young, Monet lived to the age of 86. That meant he lived to enjoy acclaim and the financial success of his works.
 
-But the road to recognition was anything but smooth: Monet was often rejected by the conservative [art establishment](/claude-monet-biography#2 "Monet's early years"); his [Impression Sunrise](/claude-monet-biography#3 'The impressionist exhibitions') was mocked when the impressionists first exhibited together in 1874; he often lived from hand to mouth and frequently had to beg his friends and supporters for money; his first wife, [Camille Doncieux](/claude-monet-biography#4 'Camille Doncieux'), died aged 32, leaving him with two young sons to care for; he almost died when he was swept into the sea trying to finish a painting; and he once even tried to commit suicide.
+But the road to recognition was anything but smooth: Monet was often rejected by the conservative [art establishment](/claude-monet-biography#2 "Monet's early years"); his [Impression Sunrise](/claude-monet-biography#3 "The impressionist exhibitions") was mocked when the impressionists first exhibited together in 1874; he often lived from hand to mouth and frequently had to beg his friends and supporters for money; his first wife, [Camille Doncieux](/claude-monet-biography#4 "Camille Doncieux"), died aged 32, leaving him with two young sons to care for; he almost died when he was swept into the sea trying to finish a painting; and he once even tried to commit suicide.
 
 Thank goodness he did not succeed. Monet may have been the best painter of light—perhaps the best painter—the world has ever seen: he produced sparkling seascapes, [modern scenes](/claude-monet-biography#4) (such as the Gare Saint-Lazare) and pictures of the Seine and Venice; he produced glimmering [water lilies](/claude-monet-biography#5 "Monet's water lilies"); and he produced collections of the same subject at different times of day—including [Haystacks](/claude-monet-biography#7), Poplars, [Rouen Cathedral](/claude-monet-biography#7), and the Houses of Parliament.
 
-Monet's art now sells for tens of millions of dollars (for example, a version of Haystacks sold in May 2019 for \$110.7 million). He is rightly regarded as the greatest of the impressionists.
+Monet's art now sells for tens of millions of dollars (for example, a version of Haystacks sold in May 2019 for $110.7 million). He is rightly regarded as the greatest of the impressionists.

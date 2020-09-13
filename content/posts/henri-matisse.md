@@ -1,5 +1,6 @@
 ---
 id: post-axJT2Tjfo
+showOnIndex: true
 path: henri-matisse-biography
 date: 2020-06-03T06:00:16.816Z
 subTitle: Biography of

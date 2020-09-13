@@ -33,12 +33,36 @@ const questions = [
     answer: 3,
   },
   {
+    question: 'When was Alfred Sisley born?',
+    choice1: 1839,
+    choice2: 1840,
+    choice3: 1842,
+    choice4: 1846,
+    answer: 1,
+  },
+  {
     question: 'When was Claude Monet born?',
     choice1: 1830,
     choice2: 1834,
     choice3: 1837,
     choice4: 1840,
     answer: 4,
+  },
+    {
+    question: 'When was Frederic Bazille born?',
+    choice1: 1839,
+    choice2: 1840,
+    choice3: 1841,
+    choice4: 1846,
+    answer: 3,
+  },
+  {
+    question: 'When was Berthe Morisot born?',
+    choice1: 1839,
+    choice2: 1840,
+    choice3: 1841,
+    choice4: 1846,
+    answer: 3,
   },
   {
     question: 'When was Auguste Renoir born?',
@@ -47,6 +71,22 @@ const questions = [
     choice3: 1842,
     choice4: 1846,
     answer: 3,
+  },
+  {
+    question: 'When was Mary Cassatt born?',
+    choice1: 1840,
+    choice2: 1844,
+    choice3: 1846,
+    choice4: 1847,
+    answer: 2,
+  },
+  {
+    question: 'When was Gustave Caillebotte born?',
+    choice1: 1839,
+    choice2: 1845,
+    choice3: 1847,
+    choice4: 1848,
+    answer: 4,
   },
   {
     question: 'What nationality was Aldred Sisley?',
@@ -92,6 +132,33 @@ const questions = [
 
   //EARLY LIFE
 
+    {
+    question:
+      'Who as a teenager sold caricatures of local celebrities to earn pocket money?',
+    choice1: 'Auguste Renoir',
+    choice2: 'Frederic Bazille',
+    choice3: 'Claude Monet',
+    choice4: 'Paul Cezanne',
+    answer: 3,
+  },
+  {
+    question:
+      'Whose father was a tailor?',
+    choice1: 'Auguste Renoir',
+    choice2: 'Frederic Bazille',
+    choice3: 'Alfred Sisley',
+    choice4: 'Paul Cezanne',
+    answer: 1,
+  },
+    {
+    question:
+      'Whose father was a Judge?',
+    choice1: 'Auguste Renoir',
+    choice2: 'Frederic Bazille',
+    choice3: 'Alfred Sisley',
+    choice4: 'Edouard Manet',
+    answer: 2,
+  },
   {
     question:
       'Which impressionist worked in a porcelain factory painting cups?',
@@ -217,7 +284,7 @@ const questions = [
     answer: 1,
   },
   {
-    question: 'Who spent the Franco-Prussian hiding in southern France?',
+    question: 'Who spent the Franco-Prussian war hiding in southern France?',
     choice1: 'Edouard Manet',
     choice2: 'Alfred Sisley',
     choice3: 'Camille Pissarro',
@@ -304,12 +371,29 @@ const questions = [
     choice4: 1886,
     answer: 4,
   },
+    {
+    question:
+      'How many of the independent impressionist exhibitions did Manet exhibit in?',
+    choice1: 0,
+    choice2: 1,
+    choice3: 2,
+    choice4: 3,
+    answer: 1,
+  },
   {
     question: 'How many independent exhibitions did the impressionists hold?',
     choice1: 6,
     choice2: 7,
     choice3: 8,
     choice4: 9,
+    answer: 3,
+  },
+  {
+    question: 'Who was the only impressionist to take part in all of the impressionist exhibitions?',
+    choice1: 'Claude Monet',
+    choice2: 'Edouard Manet',
+    choice3: 'Camille Pissarro',
+    choice4: 'Edgar Degas',
     answer: 3,
   },
 
@@ -329,6 +413,14 @@ const questions = [
     choice3: 'Edgar Degas',
     choice4: 'Claude Monet',
     answer: 4,
+  },
+   {
+    question: 'Whose second wife was Alice Hoschede?',
+    choice1: 'Claude Monet',
+    choice2: 'Camille Pissarro',
+    choice3: 'Edgar Degas',
+    choice4: 'Edouard Manet',
+    answer: 1,
   },
   {
     question: 'Who sent scores of begging letters in the late 1860s/1870s?',
@@ -369,6 +461,14 @@ const questions = [
     choice3: 'Edgar Degas',
     choice4: 'Vincent van Gogh',
     answer: 2,
+  },
+    {
+    question: 'Who painted the Houses of Parliament series?',
+    choice1: 'Camille Pissarro',
+    choice2: 'Edgar Degas',
+    choice3: 'Claude Monet',
+    choice4: 'Vincent van Gogh',
+    answer: 3,
   },
   {
     question: 'When did Monet move to Giverny',
@@ -415,22 +515,6 @@ const questions = [
     answer: 1,
   },
   {
-    question: 'Who painted the Dance Class series?',
-    choice1: 'Camille Pissarro',
-    choice2: 'Claude Monet',
-    choice3: 'Edgar Degas',
-    choice4: 'Vincent van Gogh',
-    answer: 3,
-  },
-  {
-    question: 'Who painted the Moulin de la Gallette?',
-    choice1: 'Edgar Degas',
-    choice2: 'Camille Pissarro',
-    choice3: 'Claude Monet',
-    choice4: 'Auguste Renoir',
-    answer: 4,
-  },
-  {
     question: 'Whose brother did impressionist Berthe Morisot marry?',
     choice1: "Edgar Degas'",
     choice2: "Edouard Manet's",
@@ -445,14 +529,6 @@ const questions = [
     choice3: "His brother's former fiancee",
     choice4: 'His cousin',
     answer: 1,
-  },
-  {
-    question: 'Who painted the Boulevard Monmartre series?',
-    choice1: 'Alfred Sisley',
-    choice2: 'Mary Cassatt',
-    choice3: 'Camille Pissarro',
-    choice4: 'Paul Cezanne',
-    answer: 3,
   },
   {
     question: "Who did Cezanne describe as 'a father to me'?",
@@ -532,7 +608,113 @@ const questions = [
     choice4: 'Paul Cezanne',
     answer: 2,
   },
-
+  
+  //WHO PAINTED
+ {
+    question: 'Who painted the Boulevard Monmartre series?',
+    choice1: 'Alfred Sisley',
+    choice2: 'Mary Cassatt',
+    choice3: 'Camille Pissarro',
+    choice4: 'Paul Cezanne',
+    answer: 3,
+  }, 
+  {
+    question: 'Who painted Luncheon at the Boating Lake?',
+    choice1: 'Alfred Sisley',
+    choice2: 'Auguste Renoir',
+    choice3: 'Camille Pissarro',
+    choice4: 'Paul Cezanne',
+    answer: 2,
+  },  
+  {
+    question: 'Who painted the Dance Class series?',
+    choice1: 'Camille Pissarro',
+    choice2: 'Claude Monet',
+    choice3: 'Edgar Degas',
+    choice4: 'Vincent van Gogh',
+    answer: 3,
+  },
+  {
+    question: 'Who painted the Moulin de la Gallette?',
+    choice1: 'Edgar Degas',
+    choice2: 'Camille Pissarro',
+    choice3: 'Claude Monet',
+    choice4: 'Auguste Renoir',
+    answer: 4,
+  },
+  {
+    question: 'Who painted Dejuneur sur Herbe?',
+    choice1: 'Edgar Degas',
+    choice2: 'Camille Pissarro',
+    choice3: 'Claude Monet',
+    choice4: 'Edouard Manet',
+    answer: 4,
+  },
+  {
+    question: 'Who painted Olympia?',
+    choice1: 'Edgar Degas',
+    choice2: 'Camille Pissarro',
+    choice3: 'Claude Monet',
+    choice4: 'Edouard Manet',
+    answer: 4,
+  },
+  {
+    question: 'Who painted Bar at the Folies Bergeres?',
+    choice1: 'Edgar Degas',
+    choice2: 'Camille Pissarro',
+    choice3: 'Claude Monet',
+    choice4: 'Edouard Manet',
+    answer: 4,
+  },
+  {
+    question: 'Who painted Le Bon Boc?',
+    choice1: 'Edgar Degas',
+    choice2: 'Camille Pissarro',
+    choice3: 'Claude Monet',
+    choice4: 'Edouard Manet',
+    answer: 4,
+  },
+  {
+    question: 'Who painted The Card Players?',
+    choice1: 'Edgar Degas',
+    choice2: 'Paul Cezanne',
+    choice3: 'Claude Monet',
+    choice4: 'Edouard Manet',
+    answer: 2,
+  },
+    {
+    question: 'Who painted The Large Bathers?',
+    choice1: 'Edgar Degas',
+    choice2: 'Paul Cezanne',
+    choice3: 'Claude Monet',
+    choice4: 'Edouard Manet',
+    answer: 2,
+  },
+    {
+    question: 'Who painted Mont St-Victoire on scores of occasions?',
+    choice1: 'Edgar Degas',
+    choice2: 'Paul Cezanne',
+    choice3: 'Claude Monet',
+    choice4: 'Edouard Manet',
+    answer: 2,
+  },
+    {
+    question: 'Who painted The Gare Saint Lazare series?',
+    choice1: 'Edgar Degas',
+    choice2: 'Paul Cezanne',
+    choice3: 'Claude Monet',
+    choice4: 'Edouard Manet',
+    answer: 3,
+  },
+    {
+    question: 'Who painted The Card Players?',
+    choice1: 'Edgar Degas',
+    choice2: 'Paul Cezanne',
+    choice3: 'Claude Monet',
+    choice4: 'Edouard Manet',
+    answer: 2,
+  },
+  
   //DEATHS
   {
     question: 'In which year did Edouard Manet die?',
@@ -589,6 +771,14 @@ const questions = [
     choice3: '1901',
     choice4: '1874',
     answer: 1,
+  },
+  {
+    question: 'In which year did Vincent van Gogh die?',
+    choice1: '1887',
+    choice2: '1889',
+    choice3: '1890',
+    choice4: '1897',
+    answer: 3,
   },
   {
     question: "In which year was Manet's Olympia finally hung in the Louvre?",

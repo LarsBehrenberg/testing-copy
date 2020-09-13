@@ -1,5 +1,6 @@
 ---
 id: post-ihanCCs6U
+showOnIndex: true
 path: most-expensive-impressionist-paintings
 date: 2020-06-06T07:07:36.136Z
 subTitle: Top 50
@@ -1118,6 +1119,19 @@ textSections:
           £5.081 million in June 2011
         imageUrl: /assets/expensive-paintings-renoir-la-source-nu-allonge.jpg
     buttonToggle: false
+  - textTitle: "Sisley: Effet de Neige"
+    text: >-
+      
+
+      | Artist:       | Work:                            | Adjusted price (sale price): | Date of Sale: |
+
+      | ------------- | -------------------------------- | ---------------------------- | ------------- |
+
+      | Alfred Sisley | *Effect de neige a Louveciennes* | $10,350,569 ($9,064,733)     | March 2017    |
+    buttonToggle: true
+    sideGalleryImages:
+      - imageUrl: /assets/effet-de-neige-a-louvecienne-alfred-sisley.jpg
+        imageTitle: Alfred Sisley's Effet de Neige a Louveciennes
   - textTitle: "Cezanne: Apples on a cloth"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -1262,9 +1276,11 @@ textSections:
         imageUrl: /assets/expensive-paintings-monet-le-givre-the-frost.jpg
     buttonToggle: false
 ---
-## Impressionist paintings are some of the most sought after in the international art market.
+### **Impressionist paintings are some of the most sought after in the international art market.**
 
-This page provides information about the most expensive of impressionist works.
+This page provides information about the most expensive impressionist works.
+
+#### Individual painting records
 
 Cezanne's The Card Players tops our list, having been sold for $259 million in 2002 (giving it a current price* of $340 million). The average current price of the top 10 works is a whopping $124 million.
 
@@ -1272,18 +1288,34 @@ Cezanne's The Card Players tops our list, having been sold for $259 million in 2
 
 <div><dl><a href="#1"><dd class="percentage percentage-70"><span class="text">1. Card Players (Cezanne) $340m</span></dd></a>   <a href="#2"><dd class="percentage percentage-40"><span class="text">2. Moulin de la Galette (Renoir) $188m</span></dd></a>   <a href="#3"><dd class="percentage percentage-38"><span class="text">3. Mont St-Victoire (Cezanne) $123m</span></dd></a>   <a href="#4"><dd class="percentage percentage-36"><span class="text">4. Nympheas (Monet) $113m</span></dd></a>   <a href="#5"><dd class="percentage percentage-34"><span class="text">5. Rideau, Cruchon et Compotier (Cezanne) $111.5m</span></dd></a>   <a href="#6"><dd class="percentage percentage-32"><span class="text">6. Haystacks (Monet) $110.7m </span></dd></a>   <a href="#7"><dd class="percentage percentage-25"><span class="text">7. Haystacks (Monet) $89.4m</span></dd></a>   <a href="#8"><dd class="percentage percentage-24"><span class="text">8. Nympheas en Fleur (Monet): $89m</span></dd></a>   <a href="#9"><dd class="percentage percentage-23"><span class="text">9. Spring (Manet) $89m</span></dd></a>   <a href="#10"><dd class="percentage percentage-15"><span class="text">10. Nympheas (Monet) $54.36m</span></dd></a></dl></div>
 
+<span style="font-size: 80%">* To ensure a fair comparison between paintings sold at different times in different currencies, we have converted the sale price into dollars using the exchange rate on the date of sale and then updated that figure to reflect inflation until January 2020 (at the rate of 3% per year, compounded annually). All references to $ are to United States Dollars.</span>
 
+#### Most popular artists
 
-Paul Cezanne has three works in the top five, with works by Pierre-Auguste Renoir, Claude Monet and Edouard Manet all making the top ten. And the list of the top 20 dearest impressionist paintings is dominated by Claude Monet, with 12 entries.
+[Paul Cezanne](paul-cezanne-biography) has three works in the top five, with works by [Pierre-Auguste Renoir](pierre-auguste-renoir-biography), Claude Monet and [Edouard Manet](edouard-manet-biography) all making the top ten. And the list of the top 20 dearest impressionist paintings is dominated by [Claude Monet](claude-monet-biography), with 12 entries.
 
-The impressionist market show no sign of cooling off: one of[Monet's Haystacks](/most-expensive-impressionist-paintings#6)was sold by Sotheby's New York in May 2019 for $110.7 million.
+Other entries in the list are by lesser known impressionists including Berthe Morisot, Gustave Caillebotte and Alfred Sisley.
 
-Other entries in the list are by lesser known impressionists including Berthe Morisot, Frederic Bazille and Alfred Sisley.
+#### Artist records
 
-<span style="font-size: 80%">* To ensure a fair comparison between paintings sold at different times in different currencies, we have converted the sale price into dollars using the exchange rate on the date of sale and then updated that figure to reflect inflation until January 2019 (at the rate of 3% per year, compounded annually). All references to $ are to United States Dollars.</span>
+In terms of artist records, there is a huge divergence.  From high to low:
 
-<div style="border: lightgray 6px dotted; padding: 15px">
+* **Cezanne**: $340 m (Card Players)
+* **Renoir**: $188 m (Moulin de la Galette)
+* **Monet**: $113 m (Nympheas)
+* **Manet**: $89 m (Spring)
+* **Degas**: $51.5 m (Danseuse en Repos)
+* **Pissarro**: $38.3 m (Boulevard Montmartre)
+* **Caillebotte**: $23.2 m (Le Pont d'Argenteuil et la Seine)
+* **Morisot**: $13.1 m (After Lunch)
+* **Sisley**: $10.3 m (Effet de Neige)
 
-**November 2019 Update:**Sotheby's New York held its latest impressionist evening sale on [12 November 2019](https://www.sothebys.com/en/auctions/2019/impressionist-modern-art-evening-n10147.html). Monet's Charing Cross Bridge was the stand-out lot, achieving a price of $27.6 million. Caillebotte's Richard Gallo and His Dog also did well, being sold for $19.68 million.
+#### Recent activity
+
+Until the Covid-19 epidemic, the impressionist market showed no sign of cooling off: one of [Monet's Haystacks](/most-expensive-impressionist-paintings#6) was sold by Sotheby's New York in May 2019 for $110.7 million.  More recently, however, a number of auctions have been postponed or produced disappointing results.
+
+<div style="border: lightgray 6px dotted; padding: 15px 15px 0 15px">
+
+**November 2019 Update:** Sotheby's New York held its latest impressionist evening sale on [12 November 2019](https://www.sothebys.com/en/auctions/2019/impressionist-modern-art-evening-n10147.html). Monet's Charing Cross Bridge was the stand-out lot, achieving a price of $27.6 million. Caillebotte's Richard Gallo and His Dog also did well, being sold for $19.68 million.
 
 </div>

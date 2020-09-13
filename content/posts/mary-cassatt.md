@@ -1,5 +1,6 @@
 ---
 id: post-5871Bw9iH
+showOnIndex: true
 path: mary-cassatt-biography
 date: 2020-06-03T04:41:05.986Z
 subTitle: Biography of
@@ -11,16 +12,15 @@ links:
   - post-lfatki95B
 upperGalleryImages:
   topImage:
-    topImageTitle: "'Children in a Garden (The Nurse)' painted by Mary Cassatt
-      (1844-1926) in 1878"
-    topImageUrl: /assets/mary-cassatt-children-in-a-garden.jpg
+    topImageTitle: Mary Cassatt's Little Girl in a Blue Armchair (1878)
+    topImageUrl: /assets/mary-cassatt-little-girl-in-blue-armchair.jpg
   leftImage:
     leftImageTitle: "'The Boating Party' painted by Mary Cassatt (1844-1926) in 1893-94"
     leftImageUrl: /assets/mary-cassatt-boating-party.jpg
   middleImage:
     middleImageTitle: A photograph of Mary Cassatt facing Mrs. J.Durand-Ruel, 1910,
       photographed by Joseph Durand-Ruel
-    middleImageUrl: /assets/mary-cassatt-1910.jpg
+    middleImageUrl: /assets/mary-cassatt-photograph-1910.jpg
   rightImage:
     rightImageTitle: "'Summertime' by Mary Cassatt, c. 1894, oil on canvas, at the
       Terra Foundation for American Art, Chicago"
@@ -38,10 +38,16 @@ textSections:
       #### Cassatt's father
 
 
-      Her father, Robert Simpson Cassatt, was a wealthy stockbroker whilst her mother, Katherine Kelso Johnston, was part of a successful banking family. From an early age, Cassatt had ambitions to become a professional artist but her father greatly feared the impact that a career in art would have on his daughter. He mistrusted the morals of the male art community and was concerned about the backlash from society his family would receive if his daughter were to become an artist.
+      Her father, Robert Simpson Cassatt, was a wealthy stockbroker whilst her mother, Katherine Kelso Johnston, was part of a successful banking family. 
 
 
-      At the same time, he believed that pursuing art on an amateur level was a worthwhile pastime for a young lady. Being talented at painting was considered a virtue for a society woman. This gave Cassatt some leeway to study as she wished but she signed her early works with her initials or middle name - Stevenson - to avoid scandal.
+      From an early age, Cassatt had ambitions to become a professional artist but her father greatly feared the impact that a career in art would have on his daughter. He mistrusted the morals of the male art community and was concerned about the backlash from society his family would receive if his daughter were to become an artist.
+
+
+      At the same time, he believed that pursuing art on an amateur level was a worthwhile pastime for a young lady. Being talented at painting was considered a virtue for a society woman. 
+
+
+      This gave Cassatt some leeway to study as she wished but she signed her early works with her initials or middle name - Stevenson - to avoid scandal.
 
 
       #### Cassatt's training
@@ -64,14 +70,12 @@ textSections:
 
       Unfortunately, the outbreak of the [Franco-Prussian War](/impressionism-timeline#3) saw her return to the U.S. fairly quickly. She was not alone as fellow impressionists [Claude Monet](/claude-monet-biography) and [Alfred Sisley](/alfred-sisley-biography) fled to London.
     sideGalleryImages:
-      - imageTitle: "'The Child's Bath (The Bath)'' by Mary Cassatt, 1893, oil on
-          canvas, 39 × 26 in., Art Institute of Chicago"
-        imageUrl: /assets/mary-cassatt-childs-bath.jpg
-      - imageTitle: "'The caress' painted by Mary Cassatt (1844-1926) in 1902"
-        imageUrl: /assets/mary-cassatt-the-caress.jpg
-      - imageTitle: A self-portrait by Mary Cassatt - 'Portrait of the Artist' c. 1878,
-          gouache on paper
-        imageUrl: /assets/mary-cassatt-portrait-of-the-artist.jpg
+      - imageTitle: Cassatt studied in Paris in the 1860s, including under Thomas Couture
+        imageUrl: /assets/edouard-manet-thomas-couture.jpg
+      - imageUrl: /assets/mary-cassatt-a-mandoline-player.jpg
+        imageTitle: Mary Cassatt's A Mandoline Player
+      - imageUrl: /assets/cassatt-two-women-throwing-flowers-during-carnival.jpg
+        imageTitle: "Mary Cassatt's Two Women Throwing Flowers During Carnival "
     buttonToggle: true
   - textTitle: Cassatt’s Impressionism
     text: >-
@@ -187,12 +191,10 @@ textSections:
       - imageTitle: "'Under the Horse Chestnut Tree' by Mary Cassatt, 1898, drypoint and
           aquatint print, 19 x 15 in., Museum of Fine Arts, Houston"
         imageUrl: /assets/mary-cassatt-under-the-horse-chestnut-tree.jpg
-      - imageTitle: "'Mrs. Robert S. Cassatt, the Artist's Mother' painted by Mary
-          Cassatt (1844-1926) in 1889"
-        imageUrl: /assets/mary-cassatt-artists-mother.jpg
-      - imageTitle: "'A Woman and a Girl Driving' painted by Mary Cassatt (1844-1926) in
-          1881"
-        imageUrl: /assets/mary-cassatt-woman-and-girl-driving.jpg
+      - imageTitle: Mary Cassatt's Mother and Child (The Goodnight Hug)
+        imageUrl: /assets/mary-cassatt-mother-and-child-the-goodnight-hug.jpg
+      - imageTitle: Mary Cassatt's Woman In the Opera Box
+        imageUrl: /assets/mary-cassatt-in-the-opera-box-drawing.jpg
     buttonToggle: true
   - textTitle: Cassatt’s Japanese prints
     text: >-
@@ -279,16 +281,22 @@ textSections:
           photograph for which she ever posed. Courtesy of Durand-Ruel.'
         imageUrl: /assets/mary-cassatt-1913.jpg
       - imageTitle: A photograph of Mary Cassatt (1844-1926) in 1914
-        imageUrl: /assets/mary-cassatt-1914.jpg
+        imageUrl: /assets/mary-cassat-photograph-from-1914.jpg
       - imageTitle: The family grave of Mary Cassatt (1844-1926) (© Daniel Volpatti, CC
           BY-SA 4.0)
         imageUrl: /assets/mary-cassatt-family-grave.jpg
     buttonToggle: true
 ---
-## In 1904, Mary Cassatt was awarded the Légion d’honneur for her services to art.
+### **In 1904, Mary Cassatt was awarded the Légion d’honneur for her services to art.**
 
-One of only a handful of women who achieved success during the Impressionist movement, Cassatt bought a new perspective to the scenes of ordinary life that the[impressionists](/)sought to depict. Strong-willed and experimental, she focussed entirely on female figures, showing them as worthy subjects in their own right. Despite her achievements, however, her role in Impressionism has largely been forgotten in France and much of Europe.
+One of only a handful of women who achieved success during the Impressionist movement, Cassatt bought a new perspective to the scenes of ordinary life that the [impressionists](/) sought to depict. 
 
-During her life from 1844 to 1926, Cassatt challenged the expectations of what it meant to be a middle-class woman, moving to Paris and devoting her life to becoming a professional artist. She did away with the privileged, leisurely lifestyle of her family and friends, choosing not to marry in order to focus on her career. Of all the impressionists, she was the only American artist in the movement and she brought her own perspective and distinctive style to this era of French art.
+Strong-willed and experimental, she focussed entirely on female figures, showing them as worthy subjects in their own right. Despite her achievements, however, her role in Impressionism has largely been forgotten in France and much of Europe.
 
-Cassatt refused to conform to the expectations of what a woman should be in the 19th century and in this sense, she was revolutionary. Cassatt’s world and work was defined by the women around her. The boldness of her work gives her sitters agency and independence, which is portrayed not just through her compositions but also her use of colour.
+During her life from 1844 to 1926, Cassatt challenged the expectations of what it meant to be a middle-class woman, moving to Paris and devoting her life to becoming a professional artist. She did away with the privileged, leisurely lifestyle of her family and friends, choosing not to marry in order to focus on her career. 
+
+Of all the impressionists, she was the only American artist in the movement and she brought her own perspective and distinctive style to this era of French art.
+
+Cassatt refused to conform to the expectations of what a woman should be in the 19th century and in this sense, she was revolutionary. Cassatt’s world and work was defined by the women around her. 
+
+The boldness of her work gives her sitters agency and independence, which is portrayed not just through her compositions but also her use of colour.

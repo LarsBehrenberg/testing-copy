@@ -1,5 +1,6 @@
 ---
 id: post-F_D-HT_NB
+showOnIndex: true
 path: pierre-auguste-renoir-biography
 date: 2020-06-04T05:22:28.173Z
 subTitle: Biography of
@@ -77,11 +78,11 @@ textSections:
       Unlike many of the other impressionists, Renoir was easy-going and tolerant. He was not trying to be disrespectful. He just had a passion for painting.
     sideGalleryImages:
       - imageTitle: A photograph of a 19-year-old Renoir, taken in 1861.
-        imageUrl: /assets/renoir-photograph-1861.jpg
+        imageUrl: /assets/auguste-renoir-photograph-1861.jpg
       - imageTitle: Renoir's painting of his first model and muse, Lise, from 1866.
         imageUrl: /assets/renoir-lise-sewing-auguste-1866.jpg
       - imageTitle: Frederic Bazille's portrait of a young Renoir.
-        imageUrl: /assets/renoir-frederic-bazille-young.jpg
+        imageUrl: /assets/bazille-portrait-of-young-renoir.jpg
     buttonToggle: true
   - textTitle: The early impressionist years
     text: >-
@@ -144,7 +145,7 @@ textSections:
       <h4><img src="logo/palette.png" alt="A painters pallete"> Interesting fact...</h4>
 
 
-      Renoir's painting was the intriguingly named*Esmeralda Dancing with a Goat*. But Renoir destroyed the painting after it was exhibited, because it had been ignored by reviewers.
+      Renoir's painting was the intriguingly named *Esmeralda Dancing with a Goat*. But Renoir destroyed the painting after it was exhibited, because it had been ignored by reviewers.
 
 
       </div>
@@ -156,7 +157,7 @@ textSections:
       #### The Frogpond
 
 
-      One of Renoir's major works from this period is*The Frogpond*, or *Le Grenouille*, painted in 1869. At the time, 'frog' was slang for young woman.
+      One of Renoir's major works from this period is *The Frogpond*, or *Le Grenouille*, painted in 1869. At the time, 'frog' was slang for young woman.
 
 
       The Frogpond was a popular spot on the Seine frequented by Parisian day trippers. Renoir and Monet painted side-by-side and, no doubt influenced by each other, produced very similar canvasses.
@@ -190,10 +191,8 @@ textSections:
     sideGalleryImages:
       - imageTitle: One of Renoir's paintings of the Fontainbleau forest.
         imageUrl: /assets/renoir-fontainbleau-jules-le-coeur.jpg
-      - imageTitle: Renoir's muse and girlfriend was Lise Trehot. This painting of her
-          with a parasol was accepted by the Salon in 1868 and received positive
-          reviews.
-        imageUrl: /assets/renoir-lise-trehot-with-parasol.jpg
+      - imageTitle: Renoir's Woman with Parasol and Child, from 1874-6
+        imageUrl: /assets/renoir-woman-with-parasol-and-child.jpg
       - imageTitle: Renoir's La Grenouillere (the Frogpond) is remarkably similar to
           Monet's work of the same name.
         imageUrl: /assets/renoir-la-grenouillere-the-frogpond.jpg
@@ -203,7 +202,7 @@ textSections:
       ### Renoir came of age in the decade following the Prussian war.
 
 
-      He sold works to collectors and painted some of his most enduring works, including *La Loge* (the Theatre Box),*Ball at the Moulin de la Galette* and *Luncheon at the Boating Lake*.
+      He sold works to collectors and painted some of his most enduring works, including *La Loge* (the Theatre Box), *Ball at the Moulin de la Galette* and *Luncheon at the Boating Lake*.
 
 
       #### Durand-Ruel and Salon rejections
@@ -248,13 +247,13 @@ textSections:
       <h4><img src="logo/palette.png" alt="A painters pallete"> Interesting fact...</h4>
 
 
-      Monet submitted a number of paintings to the first impressionist exhibition. But the titles he gave them were uninspired. So Renoir's brother decided to call one of them*Impression: Sunrise*. This is the origin of the term 'impressionism', first used as an insult by hostile reviewers and later adopted by the group.
+      Monet submitted a number of paintings to the first impressionist exhibition. But the titles he gave them were uninspired. So Renoir's brother decided to call one of them *Impression: Sunrise*. This is the origin of the term 'impressionism', first used as an insult by hostile reviewers and later adopted by the group.
 
 
       </div>
 
 
-      Renoir displayed six oil works and one pastel. The reviews were overwhelmingly negative, with*The Dancer*singled out for particular abuse. Leroy said that the dancer's legs were:
+      Renoir displayed six oil works and one pastel. The reviews were overwhelmingly negative, with *The Dancer* singled out for particular abuse. Leroy said that the dancer's legs were:
 
 
       > "as cottony as the gauze of her skirts".
@@ -281,7 +280,7 @@ textSections:
       #### 1877: the third impressionist exhibition
 
 
-      The third impressionist exhibition followed the next year. Renoir contributed 21 paintings, about 10% of the total number shown. They included one of his most important works,*Ball at the Moulin de la Galette*.
+      The third impressionist exhibition followed the next year. Renoir contributed 21 paintings, about 10% of the total number shown. They included one of his most important works, *Ball at the Moulin de la Galette*.
 
 
       This painting of a Parisian windmill converted into a bar and dancehall is about pure joy: young people dressed in the latest fashions are flirting, dancing and generally having fun.
@@ -336,7 +335,7 @@ textSections:
     sideGalleryImages:
       - imageTitle: Renoir had a unique ability to capture the female face, as shown in
           Girl with Watering Can.
-        imageUrl: /assets/renoir-girl-with-watering-can-1876.jpg
+        imageUrl: /assets/auguste-renoir-girl-with-watering-can.jpg
       - imageTitle: "Here's another example: see how captivated this girl is on her
           first trip to the theatre."
         imageUrl: /assets/renoir-at-the-theatre.jpg
@@ -485,12 +484,12 @@ textSections:
       - imageTitle: "Renoir returned to what he did best at the end of his dry period:
           he had a unique ability to capture female expressions and form
           (demonstrated in Young Girl Bathing, 1893)"
-        imageUrl: /assets/renoir-young-girl-bathing-1893.jpg
+        imageUrl: /assets/renoir-young-girl-bathing.jpg
       - imageTitle: Renoir travelled to warmer climbs to ease his arthritis and acquired
           a house in Cagnes, pictured.
         imageUrl: /assets/renoir-terrace-at-cagnes-1905.jpg
       - imageTitle: Renoir's Gabrielle with Jewels, painted in 1910
-        imageUrl: /assets/renoir-gabrielle-with-jewels-1910.jpg
+        imageUrl: /assets/renoir-gabrielle-with-jewels.jpg
     buttonToggle: true
   - textTitle: Renoir's Legacy
     text: >-
@@ -542,9 +541,9 @@ textSections:
       - imageTitle: Renoir's Boating at Chatou, produced in 1879, during his most
           important decade of work.
         imageUrl: /assets/renoir-boating-at-chatou.jpg
-      - imageTitle: Renoir's The Swing is one of his most important works on the subject
-          of light.
-        imageUrl: /assets/renoir-the-swing-1876.jpg
+      - imageTitle: Renoir's The Swing, from 1876, is one of his most important works on
+          the subject of light.
+        imageUrl: /assets/renoir-the-swing.jpg
       - imageTitle: Renoir's The Doges Palace, from 1881, comes towards the end of his
           trimphant decade of impressionist painting.
         imageUrl: /assets/renoir-the-doges-palace-venice-1881.jpg

@@ -1,7 +1,8 @@
 ---
 id: post-jFlOGR7-_
+showOnIndex: true
 path: top-10-impressionist-paintings
-date: 2020-06-05T01:12:01.674Z
+date: 2020-08-04T07:08:34.888Z
 subTitle: Discover the
 title: Top 10 Impressionist Paintings
 tags: More
@@ -38,7 +39,7 @@ textSections:
       kick-started the impressionist movement.
 
 
-      Submitted by [Edouard Manet](/edouard-manet-biography) to the Salon des Beaux Arts (the annual exhibition organised by the influential and conservative Academy des Beaux Arts), Lunch on the Grass was rejected by the jury.
+      <p class="text-large">Submitted by Edouard Manet to the Salon des Beaux Arts (the annual exhibition organised by the influential and conservative Academy des Beaux Arts), Lunch on the Grass was rejected by the jury.</p>
 
 
       The painting was instead displayed in a different exhibition held in 1863 called the Salon des Refuses (the “exhibition of the refused”), open to the 3,200 works that had been rejected by the Salon’s jury.
@@ -86,7 +87,7 @@ textSections:
       </div>
 
 
-      Though interesting, such debates miss the real point. Manet was making a controversial statement with this work. He was challenging the orthodoxy and showcasing his new techniques. And it worked: the whole of Paris started to talk about him.
+      Though interesting, such debates miss the real point. [Manet](edouard-manet-biography/) was making a controversial statement with this work. He was challenging the orthodoxy and showcasing his new techniques. And it worked: the whole of Paris started to talk about him.
 
 
       #### Where can I see it for myself?
@@ -377,8 +378,6 @@ textSections:
       > "a picture has to be pleasant, delightful and pretty -- yes, pretty. There are enough unpleasant things in the world without us producing more."
 
 
-
-
       #### The details
 
 
@@ -409,7 +408,7 @@ textSections:
       To learn more, check out our [August Renoir biography](/pierre-auguste-renoir-biography) page.
 
 
-      #### Where can I see it for myself
+      #### Where can I see it for myself?
 
 
       Luncheon at the Boating Lake appears in the film Amelie and is the star attraction of Washington DC’s Phillips Collection.
@@ -448,8 +447,6 @@ textSections:
       * the work is thoroughly modern (showcasing electric lighting, beer bottles from England and imported tangerines).
 
 
-
-
       The painting, like many of Manet’s works, is enigmatic. The barmaid, Suzon, stares blankly at the viewer, seemingly lost in thought. In many ways she is dressed demurely, but she wears a black necklace that reminds the viewer of the ribbon work by Victorine in Olympic.
 
 
@@ -474,7 +471,7 @@ textSections:
       Manet was too ill to paint the work at the Folies Bergere: Suzon had to come to his studio to pose behind a specially constructed bar.
 
 
-      #### Where can I see it for myself
+      #### Where can I see it for myself?
 
 
       The Folies Bergere, Manet’s last major work, is found in London’s Courtauld Gallery.
@@ -535,7 +532,7 @@ textSections:
       To learn more, check out our [Paul Cezanne biography](/paul-cezanne-biography) page.
 
 
-      #### Where can I see it for myself
+      #### Where can I see it for myself?
 
 
       Four of the Card Players are on public display at the Barnes Foundation Philadelphia and the Metropolitan Museum of Art in New York (the three player versions) and at the Musee D’Orsay in Paris and Courtauld Gallery in London (two player versions).
@@ -661,10 +658,10 @@ textSections:
       Monet was the longest-lived of the impressionists: he outlived Manet by over four decades and Renoir by seven years. He was painting water lilies until his death in December 1926.
 
 
-      #### Where can I see them for myself
+      #### Where can I see them for myself?
 
 
-      Versions of Water Lilies can be seen around the world. London's National Gallery and Paris' Musee D'Orsay hold versions. So too do New York's Metropolitan Museum of Art, Washington's National Gallery and Tokyo's National Gallery of Western Art. Paris' Musee de l'Orangerie was specially built to Monet's exacting specifictions to hold his bequest of 12 enormous waterlilies.
+      Versions of Water Lilies can be seen around the world. London's National Gallery and Paris' Musee D'Orsay hold versions. So too does New York's Metropolitan Museum of Art, Washington's National Gallery and Tokyo's National Gallery of Western Art. Paris' Musee de l'Orangerie was specially built to Monet's exacting specifications to hold his bequest of 12 enormous waterlilies.
     sideGalleryImages:
       - imageTitle: Claude Monet is most famous for his water lily series
         imageUrl: /assets/10-paintings-claude-monet-water-lilies-nympheas.jpg
@@ -684,10 +681,19 @@ textSections:
       #### Van Gogh's life
 
 
-      Born in 1853 to well-off but conservative parents, [Vincent van Gogh](/van-gogh-biography) had a troubled life. Serious and introspective, he worked as an art dealer and missionary before taking up painting full time in 1881. Van Gogh's early works are mostly still lifes and paintings of labourers in earthy tones (such as the Potato Eaters). They do not suggest the splashes of colour that were to follow van Gogh's move to Paris and introduction to impressionists such as [Degas](/edgar-degas-biography) and [Gauguin](/paul-gauguin-biography).
+      Born in 1853 to well-off but conservative parents, [Vincent van Gogh](/van-gogh-biography) had a troubled life. 
 
 
-      Van Gogh's most famous works were painted between 1887 and his death in July 1890. Over this period van Gogh suffered serious mental health issues. He checked himself into a sanitorium after he severed his left ear in December 1888, following an argument with Gaugin, and delivered the bloody mess to a brothel that he frequented. And he shot himself in chest with a revolver in July 1890, dying of his injuries two days later.
+      Serious and introspective, he worked as an art dealer and missionary before taking up painting full time in 1881. Van Gogh's early works are mostly still lifes and paintings of labourers in earthy tones (such as the Potato Eaters). 
+
+
+      They do not suggest the splashes of colour that were to follow van Gogh's move to Paris and introduction to impressionists such as [Degas](/edgar-degas-biography) and [Gauguin](/paul-gauguin-biography).
+
+
+      Van Gogh's most famous works were painted between 1887 and his death in July 1890. Over this period van Gogh suffered serious mental health issues. 
+
+
+      He checked himself into a sanatorium after he severed his left ear in December 1888, following an argument with Gaugin, and delivered the bloody mess to a brothel that he frequented. And he shot himself in chest with a revolver in July 1890, dying of his injuries two days later.
 
 
       #### van Gogh's work
@@ -696,13 +702,13 @@ textSections:
       van Gogh played no part in the impressionist exhibitions of the 1870s and 1880s and is usually categorised as a post-impressionist. His works, however, have a definite impressionist flavour: painted outdoors with wide, coarse brushstrokes and bright colours.
 
 
-      van Gogh developed his more adventurous technique partly as a result of time he spent in Paris with some of the impressionists in the mid-1880s.
+      Indeed, van Gogh developed his more adventurous technique partly as a result of time he spent in Paris with some of the impressionists in the mid-1880s.
 
 
       Van Gogh's most famous and striking works include Sunflowers (of which he produced several versions in and after 1887), Irises (1889) and Starry Night (1889, the subject of Don McLean's eponymous song).
 
 
-      #### Where can I see them for myself
+      #### Where can I see them for myself?
 
 
       The best place in the world to see van Gogh's work is the Van Gogh Museum in Amsterdam. But his works are found in the world's best galleries. London's National Gallery has a version of Sunflowers and the excellent Wheatfields with Cypress Trees. The Museum of Modern Art in New York has one version of Starry Night and Paris' Musee D'Orsay has another.
@@ -717,15 +723,13 @@ textSections:
         imageUrl: /assets/10-paintings-van-gogh-sunflowers.jpg
     buttonToggle: true
 ---
-## Selecting the top 10 impressionist paintings is a difficult job.
+## Our list of the top 10 impressionist paintings contains three entries from Manet, three from Monet, and one each from Pissarro, Renoir, Cezanne and Degas.
 
-The movement, which sought to capture modern life, light and the moment, has become one of the 21st century's favourite genres. But the impressionists were roundly rejected by the art establishment and the public in the 1860s and 1870s. Many of them struggled to make ends meet. And at times they caused uproar.
+<p class="text-large">We have chosen paintings using three criteria: <b>(i)</b> historical importance to the impressionist movement; <b>(ii)</b> value; and <b>(iii)</b> beauty.  Paintings are arranged in chronological order.</p>
 
-Edouard Manet, the reluctant father of impressionism, features heavily in our list. His [Dejuner Sur l'Herbe](#1) (Lunch on the Grass) and [Olympia](/top-10-impressionist-paintings#2 "Manet's Olympia"), completed in the early 1860s, threw down the gauntlet to the traditional Academy des Beaux Arts. Manet was not to achieve recognition until late in his life, with the Bon Bock and the [Bar at the Folies Bergere](/top-10-impressionist-paintings#7 "Bar at the Folies Bergere").
+Edouard Manet, the reluctant father of impressionism, has the first, second and seventh entries. His [Dejuner Sur l'Herbe](#1) (Lunch on the Grass) and [Olympia](/top-10-impressionist-paintings#2 "Manet's Olympia"), completed in the early 1860s, challenged the established way of painting and were shunned by the Academy des Beaux Arts and slated by the critics. Manet was not to achieve recognition until late in his life. The [Bar at the Folies Bergere](/top-10-impressionist-paintings#7 "Bar at the Folies Bergere") (1881), painted two years before Manet's death, is his third entry on our list.
 
-Claude Monet, the most famous impressionist today, also has three entries: [Impression Sunrise](/top-10-impressionist-paintings#3 "Monet's Impression Sunrise") (which got the impressionists their name), [Gare Saint-Lazare](/top-10-impressionist-paintings#5 "Monet's Gare Saint-Lazare series") (which captures steam, noise, heat and modernity) and his beautiful [Water Lily](/top-10-impressionist-paintings#10 "Monet's Water Lilies") series (featuring over 250 works, painted in the last 30 years of Monet's life from his home in Giverny).
-
-<div class="interesting">
+Claude Monet, the most famous and popular impressionist today, has entries three, five and ten: [Impression Sunrise](/top-10-impressionist-paintings#3 "Monet's Impression Sunrise") (which got the impressionists their name); [Gare Saint-Lazare](/top-10-impressionist-paintings#5 "Monet's Gare Saint-Lazare series") (which captures steam, noise, heat and modernity); and his beautiful [Water Lily](/top-10-impressionist-paintings#10 "Monet's Water Lilies") series (featuring over 250 works, painted in the last 30 years of Monet's life from his home in Giverny).
 
 Four other impressionists are included in our list:
 
@@ -733,8 +737,6 @@ Four other impressionists are included in our list:
 * **Auguste Renoir**, with his unique glossy finish, also features with [Luncheon at the Boating Lake](/top-10-impressionist-paintings#6 "August Renoir's Luncheon at the Boating Lake").
 * **Edgar Degas** achieves a place with his [Dancing Class](/top-10-impressionist-paintings#4 "Edgar Degas' Dancing Class"), one of many works painted by Degas of ballet dancers at the Paris Opera.
 * **Paul Cezanne's** [Card Players](/top-10-impressionist-paintings#8 "Paul Cezanne's Card Players") is this taciturn artist's most famous work, being sold for a world-record US$259 million in 2011.
-
-</div>
 
 We have three bonus entries, each from [Vicent van Gogh](/top-10-impressionist-paintings#11 "Three of Vincent van Gogh's most famous works"). Though probably a post-impressionist, we cannot ignore this troubled genius. Our selections are Starry Night, Irises and Sunflowers.
 

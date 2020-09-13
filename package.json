@@ -1,6 +1,6 @@
 {
-  "name": "impressionistarts",
-  "description": "The ImpressionistArts",
+  "name": "ia-gb-london-framework",
+  "description": "The Gatsby framework to the IA, GB & London websites",
   "private": true,
   "version": "0.1.0",
   "author": "Lars Behrenberg <l.behrenberg@gmail.com>",

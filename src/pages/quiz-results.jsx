@@ -88,7 +88,7 @@ class QuizResults extends React.Component {
               <StyledLink to="/">Homepage</StyledLink>
             </Form>
             <h3 style={{ paddingTop: '30px' }}>
-              *Our quiz has a database of over 70 questions.
+              *Our quiz has a database of over 100 questions.
             </h3>
           </div>
         </ResultWrapper>

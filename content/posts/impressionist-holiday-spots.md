@@ -1,5 +1,6 @@
 ---
 id: post-i92UbelJU
+showOnIndex: true
 path: top-impressionist-holiday-spots
 date: 2020-06-12T01:57:56.148Z
 subTitle: Top 11

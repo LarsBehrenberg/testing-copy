@@ -1,5 +1,6 @@
 ---
 id: post-fJGAQGq0k
+showOnIndex: true
 path: camille-pissarro-biography
 date: 2020-06-05T01:50:32.673Z
 subTitle: Biography of
@@ -38,7 +39,7 @@ textSections:
       Pissarro loved drawing and painting and applied himself to his art outside work. He was persuaded by Danish artist Fritz Melbye to become a full-time artist in 1851, and followed Melbye to Venezuela where the two men shared a studio and Melbye acted as Pissarro's mentor.
 
 
-      Pissarro moves to Paris
+      #### Pissarro moves to Paris
 
 
       Pissarro decided to move to Paris and arrived in 1855, in time for the Universal Exhibition.
@@ -53,7 +54,7 @@ textSections:
       Typical of Pissarro's output over this period is the pictured The Marne at Chennevieres (1864).
 
 
-      Pissarro meets Monet and Cezanne
+      #### Pissarro meets Monet and Cezanne
 
 
       Pissarro met [Claude Monet](/claude-monet-biography) and [Paul Cezanne](/paul-cezanne-biography) while attending the Suisse Painting Academy in 1859.
@@ -262,15 +263,13 @@ textSections:
         imageUrl: /assets/pissarro-sunset-at-eragny.jpg
     buttonToggle: true
 ---
-## Camille Pissarro was born in 1830 on St Thomas, an island in the Danish West Indies.
+### Camille Pissarro was born in 1830 on St Thomas, an island in the Danish West Indies.
 
 The son of a French shopkeeper, who had moved to St Thomas to take over the family business, Pissarro spent his [formative years](/camille-pissarro-biography#1) on St Thomas and, from the age of 12, at a boarding school outside Paris.
 
 Pissarro was not the most talented of the impressionists, and he himself remarked that:
 
 > "No, like Sisley, I remain in the rear of impressionism".
-
-
 
 But Pissarro was key to the [impressionist movement](/camille-pissarro-biography#2). He was patient, sensible and wise. These were critical characteristics: the impressionist movement was barraged by criticism and ridicule for the best part of two decades. So it needed someone steady to hold the rudder. This was particularly so given that Cezanne and Degas were difficult personalities.
 

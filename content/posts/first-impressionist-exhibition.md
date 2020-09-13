@@ -1,5 +1,6 @@
 ---
 id: post-ZhQwecaum
+showOnIndex: true
 path: first-impressionist-exhibition
 date: 2020-06-04T06:32:12.754Z
 subTitle: The 1874

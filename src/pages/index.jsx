@@ -259,7 +259,10 @@ Index.propTypes = {
 export const query = graphql`
   query {
     allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/posts/" } }
+      filter: {
+        frontmatter: { showOnIndex: { eq: true } }
+        fileAbsolutePath: { regex: "/posts/" }
+      }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {
@@ -275,7 +278,7 @@ export const query = graphql`
             cover {
               childImageSharp {
                 fluid(maxWidth: 450, quality: 50) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_withWebp
                 }
               }
             }

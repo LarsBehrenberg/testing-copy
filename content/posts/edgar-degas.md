@@ -1,5 +1,6 @@
 ---
 id: post-usLfIVIvG
+showOnIndex: true
 path: edgar-degas-biography
 date: 2020-06-05T01:06:32.436Z
 subTitle: Biography of

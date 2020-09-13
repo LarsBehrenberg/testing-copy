@@ -1,5 +1,6 @@
 ---
 id: post-xFeKEyxoY
+showOnIndex: true
 path: van-gogh-biography
 date: 2020-04-16T11:51:22.450Z
 subTitle: Biography of

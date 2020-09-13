@@ -1,5 +1,6 @@
 ---
 id: post-UHZfRNmAH
+showOnIndex: true
 path: edouard-manet-biography
 date: 2020-06-04T05:00:30.717Z
 subTitle: Biography of
@@ -51,7 +52,7 @@ textSections:
       Manet’s refusal to study law led to arguments with his father and, eventually, a compromise by which it was agreed that Manet would become a naval officer.
 
 
-      But the 16 year-old Manet failed the exams and ended up on a merchant ship, called Havre et Guadeloupe, bound for Rio de Janeiro (8 December 1848 to 13 June 1849). The idea was that Manet would study for his re-sits on board.
+      But the 16 year-old Manet failed his naval exams and ended up on a merchant ship, called Havre et Guadeloupe, bound for Rio de Janeiro (8 December 1848 to 13 June 1849). The idea was that Manet would study for his re-sits on board.
 
 
       <div class="interesting">
@@ -67,8 +68,6 @@ textSections:
 
 
       On his return, Manet duly failed his re-sits and was eventually allowed to enrol in a painting school run by the classical landscapist [Thomas Couture](https://en.wikipedia.org/wiki/Thomas_Couture).
-
-
 
 
       #### Couture's studio
@@ -98,7 +97,10 @@ textSections:
       In a time where there were few private exhibitions, the Salon was critical to the success or failure of an aspiring artist. Acceptance by the jury and positive reviews in the papers would lead to commissions and sales. Rejection or negative commentary could stop a career in its tracks.
 
 
-      The 1859 jury did not take to The Absinthe Drinker, which received the approval of only one the twelve jurors (that of the romantic painter [Eugène Delacroix](/eugene-delacroix-biography)). When Manet turned to Couture for comfort he got none. Couture remarked that:
+      The 1859 jury did not take to The Absinthe Drinker, which received the approval of only one the twelve jurors (that of the romantic painter [Eugène Delacroix](/eugene-delacroix-biography)). 
+
+
+      When Manet turned to Couture for comfort he got none. Couture remarked that:
 
 
       > “the only drunk around here is you!"
@@ -125,7 +127,7 @@ textSections:
       #### The 1861 Salon: signs of promise
 
 
-      For the 1861 Salon, Manet submitted two works: an unsentimental portrait of his parents, and The Spanish Singer.
+      For the 1861 Salon, Manet submitted two works: an unsentimental portrait of his parents (*Portrait of Monsieur and Madame Monet*), and *The Spanish Singer*.
 
 
       The former shows his father looking stern and authoritative, though it was actually produced the year after he had suffered a severe stroke. The latter, of a slightly gormless looking street entertainer, won an honourable mention—probably because Spanish subjects were fashionable at the time.
@@ -137,7 +139,7 @@ textSections:
       #### The 1863 Salon: Luncheon on the Grass
 
 
-      Manet tried again in 1863, this time with a painting called [Dejuner Sur l'Herbe](/top-10-impressionist-paintings#1) (Luncheon on the Grass).
+      Manet tried again in 1863, this time with a painting called Le [Dejeuner sur l'herbe](/top-10-impressionist-paintings#1) (Luncheon on the Grass).
 
 
       Even to a modern eye, this is an unusual work: the foreground shows two well-dressed Parisian men eating a picnic with a naked female. A partially dressed woman bathes in the mid-ground. And the four figures are pictured under a coarsely painted tree canopy.
@@ -161,7 +163,7 @@ textSections:
       Manet then had a stroke of luck.
 
 
-      The 1863 jury was particularly harsh, rejecting two-thirds of the works that had been submitted. News of discontent amongst artists reached [Emperor Napoleon III](https://en.wikipedia.org/wiki/Napoleon_III) who, sensing a political opportunity, declared that an Exhibition of the Refused should be held so that the public could judge the rejected art for itself.
+      The jury for the 1863 Salon was particularly harsh, rejecting two-thirds of the works that had been submitted. News of discontent amongst artists reached [Emperor Napoleon III](https://en.wikipedia.org/wiki/Napoleon_III) who, sensing a political opportunity, declared that an Exhibition of the Refused should be held so that the public could judge the rejected art for itself.
 
 
       The public attended the “Salon des Refuses” in their droves. But they came to be entertained and not to admire. Manet’s painting was singled out for particular ridicule, with critics questioning whether it had been painted with a mop and whether the work was Manet’s idea of a practical joke.
@@ -182,10 +184,10 @@ textSections:
       Olympia features a Parisian prostitute on her bed staring unapologetically at the viewer.
 
 
-      There can be no doubt about her profession: the name Olympia was associated with courtesans; so too were black cats (see the far right of the picture); Olympia wears a provocative black necklace; and her maid appears to be bringing her a bouquet from a satisfied customer.
+      There can be no doubt about her profession: **(i)** the name Olympia was associated with courtesans; **(ii)** so too were black cats (see the far right of the picture); **(iii)** Olympia wears a provocative black necklace; and **(iv)** Olympia's maid appears to be bringing her a bouquet from a satisfied customer.
 
 
-      In fact, the real surprise is that Olympia was accepted by the jury. Perhaps they thought that the criticism Manet would inevitably receive would chasten the young man.
+      In fact, the real surprise is that Olympia was accepted by the jury for the 1865 Salon. Perhaps they thought that the criticism Manet would inevitably receive would chasten the young man.
 
 
       #### Reaction to Olympia
@@ -197,7 +199,7 @@ textSections:
       > “never has a painting received more laughter, mockery and catcalls”.
 
 
-      Another said Olympia resembled a female gorilla. A lot of the criticism was hypocritical: at this time many aristocratic men visited prostitutes on a regular basis.
+      Another said Olympia resembled a female gorilla. A lot of the criticism was hypocritical: at this time many aristocratic men visited [prostitutes on a regular basis](impressionism-and-prostitution/).
 
 
       Manet complained that
@@ -206,7 +208,10 @@ textSections:
       > “insults are beating down on me like hail”
 
 
-      and travelled to Spain to escape. But Olympia was not all bad: Manet had shown that he was willing to stand up to the establishment, which encouraged the other impressionists to do likewise; and now everybody in Paris knew his name.
+      and travelled to Spain to escape. 
+
+
+      But Olympia was not all bad: Manet had shown that he was willing to stand up to the establishment, which encouraged the other impressionists to do likewise; and now everybody in Paris knew his name.
 
 
       Dejuner sur l'herbe and Olympia feature in our selection of the [best 10 impressionist paintings](/top-10-impressionist-paintings).
@@ -242,7 +247,11 @@ textSections:
       In total, Manet produced three large canvasses and a smaller study.
 
 
-      The earliest work relied on press reports and is historically inaccurate (for instance, the firing squad are shown wearing sombreros). The second and third (pictured) are more accurate, depicting Maximilian and two of his highest-ranking officers (Generals Miguel Miramón and Tomás Mejía), six members of the firing squad and their sergeant (who, no doubt deliberately, resembles Napoleon III). All owe their inspiration to Goya's [The Third of May](https://en.wikipedia.org/wiki/The_Third_of_May_1808), a painting of Spanish civilians being shot by French soldiers in 1808.
+      * The earliest work relied on press reports and is historically inaccurate (for instance, the firing squad are shown wearing sombreros). 
+
+      * The second and third (pictured) are more accurate, depicting Maximilian and two of his highest-ranking officers (Generals Miguel Miramón and Tomás Mejía), six members of the firing squad and their sergeant (who, no doubt deliberately, resembles Napoleon III). 
+
+      * All owe their inspiration to Goya's [The Third of May](https://en.wikipedia.org/wiki/The_Third_of_May_1808), a painting of Spanish civilians being shot by French soldiers in 1808.
 
 
       The second work was cut up (probably by both Manet and by his relatives after his death), reassembled by Degas, and now hangs in London's National Gallery.
@@ -308,7 +317,7 @@ textSections:
       He adored people, people watching, debating political and artistic ideas, and making people laugh. The impressionists frequented two cafes in particular: the Cafe Guerbois and later the Cafe Nouvelle Athens.
 
 
-      It was here that a number of their members, Manet, Monet and [Renoir](/pierre-auguste-renoir-biography) in particular, could be found in the early evening.
+      It was here that a number of the members of the impressionist circle could be found in the early evening.  In addition to Manet, they included Renoir and Degas (and sometimes Monet), and writers such as [Emile Zola](emile-zola-biography/).
 
 
       #### Berthe Morisot
@@ -374,13 +383,19 @@ textSections:
       </div>
 
 
-      It took place the next day, in the Forest of Saint-Germain. Neither man was adept at fencing. And after Manet managed to wound Duranty in the upper chest, the duellers' 'seconds' (ie the men who would take their place in the event of injury) declared that honour had been satisfied. Manet and Duranty became friends again before too long.
+      It took place the next day, in the Forest of Saint-Germain. Neither man was adept at fencing. And after Manet managed to wound Duranty in the upper chest, the duellers' 'seconds' (ie the men who would take their place in the event of injury) declared that honour had been satisfied. 
+
+
+      Manet and Duranty became friends again before too long.
 
 
       #### The Siege of Paris
 
 
-      In late 1870, Napoleon III embarked on a misconceived military campaign against the Prussians. The ill-equipped French forces were soon defeated and Paris surrounded. But the proud Parisians would not give up their city without a fight. They barricaded themselves in.
+      In late 1870, Napoleon III embarked on a misconceived military campaign against the Prussians. 
+
+
+      The ill-equipped French forces were soon defeated and Paris surrounded. But the proud Parisians would not give up their city without a fight. They barricaded themselves in.
 
 
       <div class="interesting">
@@ -389,7 +404,7 @@ textSections:
       <h4><img src="logo/palette.png" alt="A painters pallete"> Did you know?</h4>
 
 
-      Not everyone stayed. Whilst Manet refused to leave, and indeed joined the army, Monet and other impressionist colleagues were not so patriotic. ([Cezanne](/paul-cezanne-biography) refused to be conscripted and hid from the authorities in a fishing village near Aix in southern France; and [Monet](/claude-monet-biography), [Sisley](/alfred-sisley-biography) and [Pissarro](/camille-pissarro-biography) moved to London.)
+      Not everyone stayed. Whilst Manet refused to leave, and indeed joined the army, other impressionist colleagues were not so patriotic. ([Cezanne](/paul-cezanne-biography) refused to be conscripted and hid from the authorities in a fishing village near Aix in southern France; and [Monet](/claude-monet-biography), [Sisley](/alfred-sisley-biography) and [Pissarro](/camille-pissarro-biography) moved to London.) In contrast, Renoir was conscripted (though he did not see action) and Bazille was killed in battle.  
 
 
       </div>
@@ -398,7 +413,7 @@ textSections:
       The Prussians were supremely confident, joking that:
 
 
-      > "Parisians won't last a week without their cafe au laits!"
+      > "The Parisians won't last a week without their cafe au laits!"
 
 
       How wrong they were: Paris lasted over four months before she eventually surrendered (between 19 September 1870 and 28 January 1871). All faced hardship (even the elephants at the zoo were slaughtered for meat) and many died of starvation, disease or from the incessant shelling.
@@ -410,10 +425,16 @@ textSections:
       #### The 1873 Salon: The Good Beer
 
 
-      For the 1873 Salon, Manet submitted a portrait of a working class Parisian man smoking his pipe and enjoying his beer. Called Le Bon Bock (The Good Beer) Manet for once judged the mood of the jury and the public.
+      For the 1873 Salon, Manet submitted a portrait of a working class Parisian man smoking his pipe and enjoying his beer. 
 
 
-      The work was seen as an icon of solidity and solidarity in the uncertain times following the disastrous Prussian war and the fall of the Third Empire. Soon, it started appearing all over Paris, including in gift shops and as the name of a pub. Manet also managed to make a rare sale, to the opera singer Jean-Baptiste Faure for the sum of 5,000 francs.
+      Called Le Bon Bock (The Good Beer) Manet for once judged the mood of the jury and the public.
+
+
+      The work was seen as an icon of solidity and solidarity in the uncertain times following the disastrous Prussian war and the fall of the Third Empire. Soon, it started appearing all over Paris, including in gift shops and as the name of a pub. 
+
+
+      Manet also managed to make a rare sale, to the opera singer Jean-Baptiste Faure for the very considerable sum of 5,000 francs.
 
 
       #### 1874: Manet paints with Monet
@@ -461,7 +482,10 @@ textSections:
       > “we have given Manet a decade to turn over a new leaf, but he refuses to do so. In fact, he grows worse”.
 
 
-      The offending works were The Laundry (a heart-warming work of a mother and daughter sorting washing in the garden) and The Artist (a portrait of the Bohemian Gilbert Marcellin Desboutin). Manet’s reaction was different from before: he decided to stage his own exhibition at his studio. Formal invitations were sent with the motto
+      The offending works were The Laundry (a heart-warming work of a mother and daughter sorting washing in the garden) and The Artist (a portrait of the Bohemian Gilbert Marcellin Desboutin). 
+
+
+      Manet’s reaction was different from before: he decided to stage his own exhibition at his studio. Formal invitations were sent with the motto
 
 
       > “Make it truthful and let them say what they like.”
@@ -476,7 +500,10 @@ textSections:
       #### 1877: the Nana scandal
 
 
-      In 1877, Manet returned to the subject of prostitution. His work, Nana, depicts a famous grand-cocotte, Henriette Hauser, in a corset and petticoat looking at the viewer. She is in her boudoir applying make-up. The painting is life-sized and all the more shocking because Henriette was the mistress of the Prince of Orange.
+      In 1877, Manet returned to the subject of prostitution. 
+
+
+      His work, Nana, depicts a famous grand-cocotte, Henriette Hauser, in a corset and petticoat looking at the viewer. She is in her boudoir applying make-up. The painting is life-sized and all the more shocking because Henriette was the mistress of the Prince of Orange (a principality in southern France).
 
 
       <div class="interesting">
@@ -522,7 +549,7 @@ textSections:
       Recognition finally came in the form of a second class medal awarded by the 1881 jury, for a portrait of a previously exiled revolutionary called Henri Rochefort. Eight other second class medals were awarded, with no entry considered first class material.
 
 
-      The award also allowed his friend, Antonin Proust, to award him the legion d’honneur in December 1881. By this stage Proust was minister for fine arts. The award came just in time: the government fell months later.
+      The award also allowed Manet's boyhood friend, Antonin Proust, to award him the legion d’honneur in December 1881. By this stage Proust was minister for fine arts. The award came just in time: the government fell months later and Proust lost his position!
 
 
       #### The 1882 Salon: the Folies Bergere
@@ -531,7 +558,7 @@ textSections:
       Normal service was resumed in the 1872 when Manet submitted the Bar at the Folies Bergere to the Salon.
 
 
-      This was his last major work and is classic Manet: predominantly a portrait, it shows electric lighting and one of the hottest new nightspots in his beloved Paris, with bright colours, broad brush strokes and a dollop of enigma.
+      > This was his last major work and is classic Manet: predominantly a portrait, it shows electric lighting and one of the hottest new nightspots in his beloved Paris, with bright colours, broad brush strokes and a dollop of enigma.
 
 
       The thing that confounded critics and the public at the time and still puzzles is the reflection of the barmaid, Suzon, in the large mirror found behind the bar. It seems to defy the laws of physics!
@@ -567,7 +594,10 @@ textSections:
       In the end, his left foot became gangrenous and his left leg was amputated below the knee. He struggled on for another fortnight, dying on 30 April 1883 aged 51.
 
 
-      Manet’s pallbearers included Monet, the critic and writer [Émile Zola](/emile-zola-biography) and Manet's lifelong friend Antonin Proust. Following the procession, [Edgar Degas](/edgar-degas-biography) was heard to remark:
+      Manet’s pallbearers included Monet, the critic and writer [Émile Zola](/emile-zola-biography) and Manet's lifelong friend Antonin Proust. 
+
+
+      Following the procession, [Edgar Degas](/edgar-degas-biography) was heard to remark:
 
 
       > “he was even greater than we thought."
@@ -592,7 +622,10 @@ textSections:
       He showed them how to believe in their new ways of painting in the face of official opposition and ridicule from the critics. It helped that Manet was slightly older than most of the others; that he was independently wealthy and so able to provide financial support when times got tough; and that he was fashionable, urbane and witty.
 
 
-      His own output is unique. He plays with colour, perspective and the laws of physics. It challenges social conventions. Many of his works—for instance Dejuner Sur l'Herbe, Olympia, and the Bar at the Folies Bergere—are world famous today. Indeed, most experts agree that Olympia was the first true work of modern art.
+      Manet's own output is unique. It plays with colour, perspective and the laws of physics. It challenges social conventions. Many of his works—for instance Dejuner Sur l'Herbe, Olympia, and the Bar at the Folies Bergere—are world famous today. 
+
+
+      Indeed, most experts agree that Olympia was the first true work of modern art.
 
 
       #### The slow road to recognition
@@ -610,7 +643,10 @@ textSections:
       #### The most expensive Manets
 
 
-      These days, most Manets are held in the world's leading art museums. But they occasionally come up for auction. In 2014, his Springtime (Le Printemps, 1881) was sold by Christie's in New York for $65.1 million. The previous best price, $33.1 million achieved by Sotheby's in London in 2010, was for Manet's Self Portrait with a Palette.
+      These days, most Manets are held in the world's leading art museums. But they occasionally come up for auction. 
+
+
+      In 2014, his Springtime (Le Printemps, 1881) was sold by Christie's in New York for $65.1 million. The previous best price, $33.1 million achieved by Sotheby's in London in 2010, was for Manet's Self Portrait with a Palette.
 
 
       These two works are, respectively, the eighth and tenth most [expensive impressionist paintings](/most-expensive-impressionist-paintings) ever sold. But they languish far behind the sale value of works by Cezanne, Monet and Degas.

@@ -1,5 +1,6 @@
 ---
 id: post-ugwaRKKHQ
+showOnIndex: true
 path: eugene-delacroix-biography
 date: 2020-06-02T05:24:12.617Z
 subTitle: Biography of

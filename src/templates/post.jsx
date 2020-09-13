@@ -57,6 +57,24 @@ const Post = ({ data, pageContext }) => {
   // React Hook to initiate and clean up eventlisteners after mounting
   useEffect(() => {
     window.addEventListener('keydown', keyListener)
+
+    let insertAfter = (referenceNode, newNode) => {
+      referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling)
+    }
+
+    const imageCaptions = []
+
+    const inlineImage = document
+      .querySelectorAll('.site-text p img')
+      .forEach(node => {
+        let el = document.createElement('span')
+        el.classList.add('inline-image-caption')
+        el.innerHTML = node.title
+        node.parentElement.classList.add('inline-image-container')
+        insertAfter(node, el)
+      })
+
+    // console.log(document.querySelector('.site-text p img').parentNode)
     // Specify how to clean up after this effect:
     return function cleanup() {
       window.removeEventListener('keydown', keyListener)
@@ -316,8 +334,8 @@ export const query = graphql`
           path
           cover {
             childImageSharp {
-              fixed(width: 300) {
-                ...GatsbyImageSharpFixed_noBase64
+              fixed(width: 250) {
+                ...GatsbyImageSharpFixed
               }
             }
           }
@@ -341,7 +359,7 @@ export const query = graphql`
             topImageUrl {
               expandedImage: childImageSharp {
                 fluid(srcSetBreakpoints: [800]) {
-                  ...GatsbyImageSharpFluid_noBase64
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -351,12 +369,12 @@ export const query = graphql`
             leftImageUrl {
               thumbImage: childImageSharp {
                 fixed(width: 400) {
-                  ...GatsbyImageSharpFixed_noBase64
+                  ...GatsbyImageSharpFixed
                 }
               }
               expandedImage: childImageSharp {
                 fluid(srcSetBreakpoints: [800]) {
-                  ...GatsbyImageSharpFluid_noBase64
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -366,12 +384,12 @@ export const query = graphql`
             middleImageUrl {
               thumbImage: childImageSharp {
                 fixed(width: 400) {
-                  ...GatsbyImageSharpFixed_noBase64
+                  ...GatsbyImageSharpFixed
                 }
               }
               expandedImage: childImageSharp {
                 fluid(srcSetBreakpoints: [800]) {
-                  ...GatsbyImageSharpFluid_noBase64
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -381,12 +399,12 @@ export const query = graphql`
             rightImageUrl {
               thumbImage: childImageSharp {
                 fixed(width: 400) {
-                  ...GatsbyImageSharpFixed_noBase64
+                  ...GatsbyImageSharpFixed
                 }
               }
               expandedImage: childImageSharp {
                 fluid(srcSetBreakpoints: [800]) {
-                  ...GatsbyImageSharpFluid_noBase64
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -400,12 +418,12 @@ export const query = graphql`
             imageUrl {
               thumbImage: childImageSharp {
                 fixed(width: 200) {
-                  ...GatsbyImageSharpFixed_noBase64
+                  ...GatsbyImageSharpFixed
                 }
               }
               expandedImage: childImageSharp {
                 fluid(srcSetBreakpoints: [800]) {
-                  ...GatsbyImageSharpFluid_noBase64
+                  ...GatsbyImageSharpFluid
                 }
               }
             }

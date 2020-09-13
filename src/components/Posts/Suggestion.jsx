@@ -52,8 +52,6 @@ const Suggestion = ({ links, contextPages }) => {
                               width: '100%',
                               height: '100%',
                             }}
-                            loading="eager"
-                            fadeIn={false}
                           />
                         </Link>
                       </div>
@@ -79,8 +77,6 @@ const Suggestion = ({ links, contextPages }) => {
                                 width: '100%',
                                 height: '100%',
                               }}
-                              loading="eager"
-                              fadeIn={false}
                             />
                           </Link>
                         ) : (
@@ -99,8 +95,6 @@ const Suggestion = ({ links, contextPages }) => {
                                 width: '100%',
                                 height: '100%',
                               }}
-                              loading="eager"
-                              fadeIn={false}
                             />
                           </Link>
                         )}
@@ -123,8 +117,6 @@ const Suggestion = ({ links, contextPages }) => {
                               width: '100%',
                               height: '100%',
                             }}
-                            loading="eager"
-                            fadeIn={false}
                           />
                         </Link>
                       </div>

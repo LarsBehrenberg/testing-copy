@@ -1,5 +1,6 @@
 ---
 id: post-u4iSx3vEk
+showOnIndex: true
 path: gustave-courbet-biography
 date: 2020-06-04T05:57:26.955Z
 subTitle: Biography of

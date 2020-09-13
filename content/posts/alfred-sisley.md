@@ -1,5 +1,6 @@
 ---
 id: post-mkMO2OtQ7
+showOnIndex: true
 path: alfred-sisley-biography
 date: 2020-06-03T04:43:57.262Z
 subTitle: Biography of
@@ -8,22 +9,23 @@ tags: Impressionists
 cover: /assets/alfred-sisley-snow-on-the-road-louveciennes-1874.jpg
 links:
   - post-EqJRP4k4i
-  - post-ohJHlA6kL
-  - post-gErP-AGXo
+  - post-F_D-HT_NB
+  - post-Dt7zCEYrK
 upperGalleryImages:
   topImage:
     topImageTitle: "'View of Saint-Mammès', painted by Aflred Sisley, c. 1880
       currently at the The Walters Art Museum"
     topImageUrl: /assets/alfred-sisley-view-of-saint-mammes-walters.jpg
   leftImage:
-    leftImageUrl: /assets/alfred-sisley-small-meadows-in-spring.jpg
-    leftImageTitle: "'Small Meadows in Spring', painted by Alfred Sisley c. 1881"
+    leftImageUrl: /assets/effet-de-neige-a-louvecienne-alfred-sisley.jpg
+    leftImageTitle: Sisley's Effet de Neige a Louveciennes, from 1874, holds the
+      world record for the most expensive painting by this artist
   middleImage:
-    middleImageTitle: "'Alfred Sisley and his Wife', painted by Pierre-Auguste Renoir in 1868"
-    middleImageUrl: /assets/alfred-sisley-by-pierre-auguste-renoir.jpg
+    middleImageTitle: A Renoir portrait of Alfred Sisley
+    middleImageUrl: /assets/renoir-portrait-alfred-sisley.jpg
   rightImage:
-    rightImageTitle: A 1882 photograph of Alfred Sisley (1839–1899)
-    rightImageUrl: /assets/alfred-sisley-photo.jpg
+    rightImageTitle: Alfred Sisley's The Lock at Saint Mammes
+    rightImageUrl: /assets/alfred-sisley-the-lock-at-saint-mammes.jpg
 textSections:
   - textTitle: Sisley’s early years
     text: >-
@@ -267,15 +269,15 @@ textSections:
         imageUrl: /assets/alfred-sisley-seaside-langland-1887.jpg
     buttonToggle: true
 ---
+### Alfred Sisley (1839-1899) did not paint people or urban scenes. Instead, he dedicated himself entirely to painting landscapes.
 
-## Alfred Sisley did not paint people or urban scenes. Instead, he dedicated himself entirely to painting landscapes. During his life, from 1839-1899, he developed his own distinct style that was both delicate and intense.
+Alfred Sisley:
 
-Sisley embraced influences from earlier styles of English and French landscape painting, revelling in his own form of [impressionism](/) that set his work apart from his peers.
+* Was born in Paris to English parents, studied in England, and retained British citizenship throughout his life.
+* Painted landscapes that are every bit as intense and beautiful as those produced by his more famous colleagues like [Claude Monet](claude-monet-biography/) and [Auguste Renoir](pierre-auguste-renoir-biography/).
+* Was not recognised as a great painter during his life and remains an under-appreciated member of the impressionist movement.
+* Has an [auction record](most-expensive-impressionist-paintings/) of $9,064,733, set when his *Effet de neige à Louveciennes* (1874) was sold by Sotheby's in March 2017.   
 
-Sisley was a pioneer in the landscape painting genre, creating a visual vocabulary that was highly radical at the time. By presenting ordinary life through his landscapes, Sisley remained faithful to the [impressionist movement](/) that he had helped to begin, whilst forging his own path in his use of colour and subject matter.
+Art scholars have attributed Sisley’s lack of fame to a range of factors: **(1)** His lack of deviation or daring led to his works falling out of favour. **(2)** Sisley was influenced by English painters, which went down badly in the French market (even though Sisley was born and spent most of his life in France).  **(3)** Art historians ignore Sisley's work because they focus on social history, which Sisley’s people-less landscapes largely ignore. 
 
-Unfortunately, Sisley's works did not sell well until after his death in 1899 and over time, his contributions to Impressionism have been diminished.
-
-Art scholars have attributed Sisley’s lack of fame to a range of factors. One is that his lack of deviation or daring led to his works falling out of favour. Another is that the influence of English painters on his artworks led to dislike in the French market (even though Sisley was born and spent most of his life in France).
-
-A third places Sisley’s downfall in the 1970s, when art historians began focussing on social history and Sisley’s people-less landscapes were largely ignored. Whatever the reason, Sisley’s works deserve to be revisited, if not for their role in starting the[ Impressionist movement](/) then for the sole reason that many of them are beautiful, sensitive depictions of a French landscape that has all but disappeared.
+Whatever the reason, Sisley’s works deserve to be revisited, if not for their role in starting the[ Impressionist movement](/) then for the sole reason that many of them are beautiful, sensitive depictions of a French landscape that has all but disappeared.

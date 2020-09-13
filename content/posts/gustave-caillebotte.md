@@ -1,5 +1,6 @@
 ---
 id: post-9X0UT2vmK
+showOnIndex: true
 path: gustave-caillebotte-biography
 date: 2020-06-02T12:58:00.419Z
 subTitle: Biography of
@@ -11,8 +12,7 @@ links:
   - post-ugwaRKKHQ
 upperGalleryImages:
   topImage:
-    topImageTitle:
-      "'Boating on the Yerres', by Gustave Caillebotte (1848-1894) in
+    topImageTitle: "'Boating on the Yerres', by Gustave Caillebotte (1848-1894) in
       1878, oil on canvas"
     topImageUrl: /assets/gustave-caillebotte-boating-on-the-yerres.jpg
   leftImage:
@@ -65,12 +65,10 @@ textSections:
     sideGalleryImages:
       - imageTitle: A photo of Gustave Caillebotte, about age 30, c. 1878
         imageUrl: /assets/gustave-caillebotte-1878.jpg
-      - imageTitle:
-          A photo of Gustave Caillebotte (1848-1894) in his greenhouse Petit
+      - imageTitle: A photo of Gustave Caillebotte (1848-1894) in his greenhouse Petit
           Gennevilliers, in February 1892
         imageUrl: /assets/gustave-caillebotte-1892.jpg
-      - imageTitle:
-          "'Yellow Roses in a Vase' by Gustave Caillebotte (1848-1894) in
+      - imageTitle: "'Yellow Roses in a Vase' by Gustave Caillebotte (1848-1894) in
           1882, oil on canvas"
         imageUrl: /assets/gustave-caillebotte-yellow-roses-in-a-vase.jpg
     buttonToggle: true
@@ -94,17 +92,14 @@ textSections:
 
       In doing so, he sustained the movement and propelled it forward, even as the impressionists faced severe criticism from the Parisian mainstream.
     sideGalleryImages:
-      - imageTitle:
-          "'Portraits in the Countryside'(Caillebotte's mother along with his
+      - imageTitle: "'Portraits in the Countryside'(Caillebotte's mother along with his
           aunt, cousin, and a family friend) by Gustave Caillebotte (1848–1894)
           in 1876, oil on canvas"
         imageUrl: /assets/gustave-caillebotte-portraits-a-la-campagne.jpg
-      - imageTitle:
-          "'Homme portant une blouse', by Gustave Caillebotte (1848–1894),
+      - imageTitle: "'Homme portant une blouse', by Gustave Caillebotte (1848–1894),
           date unkown, oil on canvas"
         imageUrl: /assets/gustave-caillebotte-homme-portant-une-blouse.jpg
-      - imageTitle:
-          "'Le jardin du Petit Gennevilliers en hiver', by Gustave Caillebotte
+      - imageTitle: "'Le jardin du Petit Gennevilliers en hiver', by Gustave Caillebotte
           (1848–1894) in 1894, oil on canvas"
         imageUrl: /assets/gustave-caillebotte-le-jardin-du-petit-gennevilliers-en-hiver.jpg
     buttonToggle: true
@@ -159,16 +154,13 @@ textSections:
 
       The colour of this fabric is the most radical aspect of the composition as the black-suited individual stands motionless and the buildings are fixed and formal. However, it also denotes the drama of the city’s redesign and the stark divide between the old and the new, the wealthy and the poor. The figure is both powerful and lonely, epitomising the Modern Man but his true emotions remain out of sight for the viewer.
     sideGalleryImages:
-      - imageTitle:
-          "'The Yerres, Effect of Rain' by Gustave Caillebotte (1848–1894) in
+      - imageTitle: "'The Yerres, Effect of Rain' by Gustave Caillebotte (1848–1894) in
           1875, oil on canvas"
         imageUrl: /assets/gustave-caillebotte-l-yerres.jpg
-      - imageTitle:
-          "'Le pont de l'Europe', by Gustave Caillebotte (1848–1894) in c.
+      - imageTitle: "'Le pont de l'Europe', by Gustave Caillebotte (1848–1894) in c.
           1876, oil on canvas"
         imageUrl: /assets/gustave-caillebotte-pont-de-l-europe-geneva.jpg
-      - imageTitle:
-          "'Les raboteurs de parquet (The floor planers)', a controversial
+      - imageTitle: "'Les raboteurs de parquet (The floor planers)', a controversial
           realist subject by Gustave Caillebotte (1848–1894) in 1875, oil on
           canvas"
         imageUrl: /assets/gustave-caillebotte-the-floor-planers.jpg
@@ -212,18 +204,14 @@ textSections:
 
       Images of nude men were extremely rare and marginalised during the 19th century and even now many scholarly works discuss the paintings with a conservative and self-conscious turn of phrase that is missing from analysis of similar female nudes. Caillebotte’s in-depth studies of the male form are considered unique in avant-garde art.
     sideGalleryImages:
-      - imageTitle:
-          "'Nude Lying on a Couch' by Gustave Caillebotte (1848–1894) in 1873,
-          oil on canvas"
-        imageUrl: /assets/gustave-caillebotte-nude-lying-on-couch-1873.jpg
-      - imageTitle:
-          "'Boulevard des Italiens' by Gustave Caillebotte (1848–1894) in
-          1880, oil on canvas"
-        imageUrl: /assets/gustave-caillebotte-boulevard-des-italiens.jpg
-      - imageTitle:
-          "'Man at His Bath', by Gustave Caillebotte (1848–1894) in 1884, oil
+      - imageTitle: "'Man at His Bath', by Gustave Caillebotte (1848–1894) in 1884, oil
           on canvas"
         imageUrl: /assets/gustave-caillebotte-man-at-his-bath.jpg
+      - imageTitle: "'Nude Lying on a Couch' by Gustave Caillebotte (1848–1894) in 1873,
+          oil on canvas"
+        imageUrl: /assets/gustave-caillebotte-nude-lying-on-couch-1873.jpg
+      - imageUrl: /assets/gustave-caillebotte-man-drying-his-leg.jpg
+        imageTitle: Caillebotte's Man Drying His Leg from 1884
     buttonToggle: true
   - textTitle: Caillebotte’s later works
     text: >-
@@ -260,16 +248,13 @@ textSections:
 
       By the 1890s, Caillebotte’s painting had tailed off considerably. He painted infrequently, choosing to focus more on gardening, collecting and building yachts. He died suddenly from a stroke in 1894, collapsing in his garden in Petit Gennevilliers. [Renoir](/pierre-auguste-renoir-biography) was the executor of his estate.
     sideGalleryImages:
-      - imageTitle:
-          "'Paris Street in Rainy Weather' by Gustave Caillebotte (1848–1894)
+      - imageTitle: "'Paris Street in Rainy Weather' by Gustave Caillebotte (1848–1894)
           in 1877, oil on canvas"
         imageUrl: /assets/gustave-caillebotte-paris-street-rainy-day.jpg
-      - imageTitle:
-          "'Rooftops in the Snow' by Gustave Caillebotte (1848–1894), oil on
+      - imageTitle: "'Rooftops in the Snow' by Gustave Caillebotte (1848–1894), oil on
           canvas"
         imageUrl: /assets/gustave-caillebotte-rooftops-in-the-snow.jpg
-      - imageTitle:
-          "'Halévy Street, View from the Sixth Floor' (La Rue Halévy, Vue Du
+      - imageTitle: "'Halévy Street, View from the Sixth Floor' (La Rue Halévy, Vue Du
           Sixième Étage) by Gustave Caillebotte, 1878, oil on canvas, 23.5 by
           28.75 in.; 59.5 by 73 cm"
         imageUrl: /assets/gustave-caillebotte-rue-halevy-from-the-sixth-floor.jpg
@@ -311,8 +296,7 @@ textSections:
     sideGalleryImages:
       - imageTitle: Caillebotte (right) with friends between 1877 and 1878
         imageUrl: /assets/gustave-caillebotte-with-friends.jpg
-      - imageTitle:
-          The garden of Gustave Caillebotte at Petit Gennevilliers (winter
+      - imageTitle: The garden of Gustave Caillebotte at Petit Gennevilliers (winter
           1891-1892); on the right the big house, on the left, the little house
           and the workshop with the greenhouse in front.
         imageUrl: /assets/gustave-caillebotte-petit-gennevilliers.jpg
@@ -320,13 +304,16 @@ textSections:
         imageUrl: /assets/gustave-caillebotte-with-brother.jpg
     buttonToggle: true
 ---
+### **A collector, patron, organiser and painter, Gustave Caillebotte played a number of key roles in the Impressionist movement.**
 
-## A collector, patron and painter, Gustave Caillebotte played a number of roles in the Impressionist movement. His support of [impressionism](/) came not just from his art but also his financial backing. Sadly, his career was short lived and he died at the age of just 45.
+Sadly, his career was short lived and he died suddenly in 1894 at the age of just 45.
 
-Born into a wealthy Parisian family in 1848, Caillebotte grew up in a life of privilege and commerce. Art came much later in his life and when it did, he embraced a classic, academic style before gradually incorporating [impressionist themes](/gustave-caillebotte-biography#3) into his works.
+Born into a wealthy Parisian family in 1848, the dashing Caillebotte grew up in a life of privilege and commerce. Art came much later in his life and, when it did, he embraced a classic, academic style before gradually incorporating [impressionist themes](/gustave-caillebotte-biography#3) into his works.
 
-As a result, he is a liminal figure in the movement, remaining relatively unknown outside of his close circle of friends and associates whilst playing an instrumental role in the support and promotion of [impressionist art](/).
+As a result, he is an under-appreciated figure in the movement, remaining relatively unknown outside of his close circle of friends and associates whilst playing an instrumental role in the support and promotion of [impressionist art](/).
 
 In his own paintings—most famously [Floor Scrapers](/gustave-caillebotte-biography#3), [Pont de l'Europe](/gustave-caillebotte-biography#3), [Man at His Bath](/gustave-caillebotte-biography#4), and [Paris Street, Rainy Day](/gustave-caillebotte-biography#5)—Caillebotte’s distinct style presents a fresh combination of detailed drawing and vivid colours, created with short, animated brushstrokes. Like other Impressionist artists, he paid attention to natural light and introduced original, inventive perspectives into his works.
 
-However, he also favoured realism. He experimented with a range of subjects, fearlessly pursuing themes that interested him rather than being led by the art market at the time. This is evident in his lesser-known [nude paintings](/gustave-caillebotte-biography#4) as well as the photorealistic works that are some of his most famous.
+However, Caillebotte also favoured realism. He experimented with a range of subjects, fearlessly pursuing themes that interested him rather than being led by the art market at the time. This is evident in his lesser-known [nude paintings](/gustave-caillebotte-biography#4) as well as the photorealistic works that are some of his most famous.
+
+The record price paid for a Caillebotte work is $18 million for *Le pont d'Argenteuil et la Seine* (2020 price: $23.2 million), making it the [23rd most expensive](most-expensive-impressionist-paintings) impressionist painting sold.

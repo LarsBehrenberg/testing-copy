@@ -1,5 +1,6 @@
 ---
 id: post-dc9PX7vYN
+showOnIndex: true
 path: paul-gauguin-biography
 date: 2020-06-03T05:23:26.295Z
 subTitle: Biography of

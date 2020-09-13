@@ -1,5 +1,6 @@
 ---
 id: post-Zm4QxVNT6
+showOnIndex: true
 path: emile-zola-biography
 date: 2020-06-02T12:26:14.817Z
 subTitle: Biography of
