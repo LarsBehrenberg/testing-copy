@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import '../preview-styles/preview-styles.css'
 
 const AboutUsPreview = ({ entry, widgetFor }) => {
@@ -133,13 +132,6 @@ const AboutUsPreview = ({ entry, widgetFor }) => {
       </div>
     </>
   )
-}
-
-AboutUsPreview.propTypes = {
-  entry: PropTypes.shape({
-    getIn: PropTypes.func,
-  }),
-  widgetFor: PropTypes.func,
 }
 
 export default AboutUsPreview

@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import styled from '@emotion/styled'
 import { Layout, Newsletter } from 'layouts'
@@ -251,10 +250,6 @@ const Index = ({ data }) => {
 }
 
 export default Index
-
-Index.propTypes = {
-  data: PropTypes.object.isRequired,
-}
 
 export const query = graphql`
   query {

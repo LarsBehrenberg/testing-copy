@@ -3,7 +3,6 @@
 /* eslint-disable no-undef */
 import React, { useEffect } from 'react'
 import { graphql } from 'gatsby'
-import PropTypes from 'prop-types'
 import { SEO, TextSection, Header, Suggestion, Video } from 'components'
 import { Newsletter, Layout } from 'layouts'
 import { Helmet } from 'react-helmet'
@@ -315,15 +314,6 @@ const Post = ({ data, pageContext }) => {
 }
 
 export default Post
-
-Post.propTypes = {
-  pageContext: PropTypes.shape({
-    prev: PropTypes.object,
-    next: PropTypes.object,
-  }).isRequired,
-  // eslint-disable-next-line react/forbid-prop-types
-  data: PropTypes.object.isRequired,
-}
 
 export const query = graphql`
   query($pathSlug: String!, $sideBarLinks: [String]) {

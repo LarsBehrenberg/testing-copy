@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import '../preview-styles/preview-styles.css'
 
 const BlogPostPreview = ({ entry, widgetFor, widgetsFor }) => {
@@ -214,13 +213,6 @@ const BlogPostPreview = ({ entry, widgetFor, widgetsFor }) => {
       </div>
     </>
   )
-}
-
-BlogPostPreview.propTypes = {
-  entry: PropTypes.shape({
-    getIn: PropTypes.func,
-  }),
-  widgetFor: PropTypes.func,
 }
 
 export default BlogPostPreview

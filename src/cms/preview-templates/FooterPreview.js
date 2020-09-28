@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import '../preview-styles/preview-styles.css'
 import { SocialIcon } from 'react-social-icons'
 
@@ -172,12 +171,6 @@ const FooterPreview = ({ entry }) => {
       </div>
     </footer>
   )
-}
-
-FooterPreview.propTypes = {
-  entry: PropTypes.shape({
-    getIn: PropTypes.func,
-  }),
 }
 
 export default FooterPreview

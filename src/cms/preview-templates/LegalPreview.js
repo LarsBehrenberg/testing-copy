@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import '../preview-styles/preview-styles.css'
 
 const LegalPreview = ({ widgetFor }) => {
@@ -10,10 +9,6 @@ const LegalPreview = ({ widgetFor }) => {
       </main>
     </div>
   )
-}
-
-LegalPreview.propTypes = {
-  widgetFor: PropTypes.func,
 }
 
 export default LegalPreview

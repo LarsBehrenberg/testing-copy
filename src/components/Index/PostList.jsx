@@ -1,9 +1,7 @@
-/* eslint-disable react/forbid-prop-types */
 import React from 'react'
 import { Link } from 'gatsby'
 import Img from 'gatsby-image'
 import styled from '@emotion/styled'
-import PropTypes from 'prop-types'
 
 const Wrapper = styled(Link)`
   margin-bottom: 2rem;
@@ -204,10 +202,3 @@ const PostList = ({ date, cover, path, title, excerpt, view, subTitle }) => (
 )
 
 export default PostList
-
-PostList.propTypes = {
-  cover: PropTypes.object.isRequired,
-  path: PropTypes.string.isRequired,
-  excerpt: PropTypes.string.isRequired,
-  title: PropTypes.string.isRequired,
-}

@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import '../preview-styles/preview-styles.css'
 
 const ImageCarouselPreview = ({ entry }) => {
@@ -32,12 +31,6 @@ const ImageCarouselPreview = ({ entry }) => {
         : null}
     </div>
   )
-}
-
-ImageCarouselPreview.propTypes = {
-  entry: PropTypes.shape({
-    getIn: PropTypes.func,
-  }),
 }
 
 export default ImageCarouselPreview

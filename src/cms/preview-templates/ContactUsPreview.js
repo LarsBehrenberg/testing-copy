@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import '../preview-styles/preview-styles.css'
 import '../preview-styles/contact-preview.css'
 
@@ -41,10 +40,6 @@ const ContactUsPreview = ({ entry, widgetFor, getAsset }) => {
       </div>
     </div>
   )
-}
-
-ContactUsPreview.propTypes = {
-  widgetFor: PropTypes.func,
 }
 
 export default ContactUsPreview
