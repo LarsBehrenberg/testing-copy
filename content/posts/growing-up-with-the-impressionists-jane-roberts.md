@@ -1,6 +1,6 @@
 ---
 id: post-EAhVw4eET
-showOnIndex: true
+showOnIndex: false
 path: growing-up-with-the-impressionists-book-review
 date: 2020-09-12T04:45:23.965Z
 subTitle: Book Review of
@@ -38,7 +38,7 @@ textSections:
       One of the amazing things about the impressionist movement is the fact that the core participants formed strong and lasting bonds of friendship.  
 
 
-      This is a recurring theme in the book, for example when Monet, Renoir and Degas organise an exhibition of Morisot's works after her death; and when [Claude Monet](claude-monet-biography) in particular organises an exhibition and sale of [Alfred Sisley's works](alfred-sisley-biography) after his death to support his impecunious widow. 
+      This is a recurring theme in the book, for example when Monet, Renoir and Degas organise an exhibition of Morisot's works after her death; and when [Claude Monet](/claude-monet-biography) in particular organises an exhibition and sale of [Alfred Sisley's works](/alfred-sisley-biography) after his death to support his impecunious widow. 
 
 
       On this latter point, Julie writes on 29 April 1899 as follows:
@@ -83,7 +83,7 @@ textSections:
       #### 2.  The Dreyfus Affair
 
 
-      The [Dreyfus Affair](impressionism-and-the-dreyfus-affair) was a decade-long political scandal that rocked France in the late 19th century.  In essence, the army framed a Jewish officer when it transpired that military secrets were being leaked to the Germans.  They then covered up, on the instructions of high-ranking politicians, evidence of Dreyfus' innocence.
+      The [Dreyfus Affair](/impressionism-and-the-dreyfus-affair) was a decade-long political scandal that rocked France in the late 19th century.  In essence, the army framed a Jewish officer when it transpired that military secrets were being leaked to the Germans.  They then covered up, on the instructions of high-ranking politicians, evidence of Dreyfus' innocence.
 
 
       The Dreyfus Affair exposed a fault line in the impressionist movement.  Monet and long-time supporter of the impressionists Emile Zola were pro-Dreyfus (or Dreyfusards).  
@@ -150,7 +150,7 @@ textSections:
       If you are looking for a book to introduce you to the impressionist movement, then this is not for you: the story starts after the key impressionist period has come to an end; and there is too much incidental detail about background matters to provide a solid introduction.
 
 
-      We suggest reading the [Timeline page](impressionism-timeline) on this website, and then learning about the six key impressionists: Monet, Manet, Renoir, [Cezanne](paul-cezanne-biography), Degas and [Pissarro](camille-pissarro-biography).  Once you've done that, we would suggest reading Sue Roe's The Private Lives of the Impressionists.  
+      We suggest reading the [Timeline page](/impressionism-timeline) on this website, and then learning about the six key impressionists: Monet, Manet, Renoir, [Cezanne](/paul-cezanne-biography), Degas and [Pissarro](/camille-pissarro-biography).  Once you've done that, we would suggest reading Sue Roe's The Private Lives of the Impressionists.  
 
 
       #### Too much detail?
@@ -177,15 +177,15 @@ textSections:
 ---
 ### Growing Up with the Impressionists is a translation of selected extracts from the diary of Julie Manet from between 1893 and 1899.
 
-Julie Manet was the only daughter of the impressionist painter [Berthe Morisot](berthe-morisot-biography) and her husband Eugene Manet (Edouard's younger brother).  She wrote the diary between the ages of 14 and 21. 
+Julie Manet was the only daughter of the impressionist painter [Berthe Morisot](/berthe-morisot-biography) and her husband Eugene Manet (Edouard's younger brother).  She wrote the diary between the ages of 14 and 21. 
 
 The diary starts shortly after the death of Julie's father, and spans a period including Berthe Morisot's death in January 1895 and the Dreyfus Affair, ending in December 1899 (shortly before Julie's marriage).
 
 The book has lots of plus points:
 
 * it gives insight into the impressionist circle, in particular the worlds of the Manets, Renoir and Degas; 
-* it reveals the anti-semitism of [Edgar Degas](edgar-degas-biography) and, surprisingly, [Auguste Renoir](pierre-auguste-renoir-biography); 
+* it reveals the anti-semitism of [Edgar Degas](/edgar-degas-biography) and, surprisingly, [Auguste Renoir](/pierre-auguste-renoir-biography); 
 * it shows how Julie's parents' friends, including Degas and Renoir, cared for Berthe after she became an orphan; and 
 * it gives you the feel of Paris just before the turn of the 20th century.
 
-On the other hand, this is not a book for the beginner.  It starts in 1893, a decade after [Edouard Manet's death](edouard-manet-biography) and seven years after the [final impressionist exhibition](eighth-impressionist-exhibition).  And, whilst there are definitely insights into the movement, there is also quite a lot of Julie recounting how she went to dinner/for a walk/to the theatre/on holiday with various friends.
+On the other hand, this is not a book for the beginner.  It starts in 1893, a decade after [Edouard Manet's death](/edouard-manet-biography) and seven years after the [final impressionist exhibition](/eighth-impressionist-exhibition).  And, whilst there are definitely insights into the movement, there is also quite a lot of Julie recounting how she went to dinner/for a walk/to the theatre/on holiday with various friends.

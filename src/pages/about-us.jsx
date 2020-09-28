@@ -322,10 +322,7 @@ const AboutUs = ({ data }) => {
                             </h5>
                           </Link>
                         ))}
-                        <Link
-                          to="/impressionism-quiz"
-                          className="list-group-item active"
-                        >
+                        <Link to="/quiz" className="list-group-item active">
                           <h4 className="list-group-item-heading">
                             Impressionism Quiz
                           </h4>

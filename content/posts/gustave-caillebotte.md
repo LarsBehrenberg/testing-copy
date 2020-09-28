@@ -316,4 +316,4 @@ In his own paintings—most famously [Floor Scrapers](/gustave-caillebotte-biogr
 
 However, Caillebotte also favoured realism. He experimented with a range of subjects, fearlessly pursuing themes that interested him rather than being led by the art market at the time. This is evident in his lesser-known [nude paintings](/gustave-caillebotte-biography#4) as well as the photorealistic works that are some of his most famous.
 
-The record price paid for a Caillebotte work is $18 million for *Le pont d'Argenteuil et la Seine* (2020 price: $23.2 million), making it the [23rd most expensive](most-expensive-impressionist-paintings) impressionist painting sold.
+The record price paid for a Caillebotte work is $18 million for *Le pont d'Argenteuil et la Seine* (2020 price: $23.2 million), making it the [23rd most expensive](/most-expensive-impressionist-paintings) impressionist painting sold.

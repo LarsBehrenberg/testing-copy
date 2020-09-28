@@ -188,7 +188,7 @@ const Header = ({
                           </h5>
                         </Link>
                         <Link
-                          to="edouard-manet-biography"
+                          to="/edouard-manet-biography"
                           className="list-group-item"
                         >
                           <h5 className="list-group-item-heading">
@@ -197,7 +197,7 @@ const Header = ({
                           </h5>
                         </Link>
                         <Link
-                          to="claude-monet-biography"
+                          to="/claude-monet-biography"
                           className="list-group-item"
                         >
                           <h5 className="list-group-item-heading">
@@ -206,7 +206,7 @@ const Header = ({
                           </h5>
                         </Link>
                         <Link
-                          to="pierre-auguste-renoir-biography"
+                          to="/pierre-auguste-renoir-biography"
                           className="list-group-item"
                         >
                           <h5 className="list-group-item-heading">
@@ -215,7 +215,7 @@ const Header = ({
                           </h5>
                         </Link>
                         <Link
-                          to="edgar-degas-biography"
+                          to="/edgar-degas-biography"
                           className="list-group-item"
                         >
                           <h5 className="list-group-item-heading">

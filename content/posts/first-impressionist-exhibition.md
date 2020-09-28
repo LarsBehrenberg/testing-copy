@@ -2,7 +2,7 @@
 id: post-ZhQwecaum
 showOnIndex: true
 path: first-impressionist-exhibition
-date: 2020-06-04T06:32:12.754Z
+date: 2020-09-17T11:55:05.233Z
 subTitle: The 1874
 title: First Impressionist Exhibition
 tags: Exhibitions
@@ -47,7 +47,7 @@ textSections:
       Here are a few examples of the shocking comments made by art critics between 1864 and 1873:
 
 
-      * “never has a painting received more laughter, mockery and catcalls” (of Monet’s Olympia).
+      * “never has a painting received more laughter, mockery and catcalls” (of Manet’s Olympia).
 
       * “painted with a pistol” (of Cezanne’s portrait of Antony Velabregue).
 
@@ -63,8 +63,7 @@ textSections:
 
       > “Why don’t you stay with me? Can’t you see I’m on a winning streak?’
 
-
-
+      >
 
       > “I will never exhibit in the shack next door \[to the Salon]. I enter the Salon through the main door, and fight alongside the others.”
 
@@ -173,13 +172,22 @@ textSections:
       This work, of a rowing boat and setting sun at Le Havre, is one of our top 10 impressionist paintings. It ticks all the impressionist boxes: short unblended brushstrokes; a bright setting sun; and a thoroughly modern scene.
 
 
-      Degas submitted 10 works in total, including Dance Class, Laundress, After the Bath and Carraige at the Races.
+      As for the other impressionists:
 
 
-      Monet submitted nine works. Aside from Impression Sunrise, his most notable entry was Boulevard des Capucines.
+      * **Degas** submitted 10 works in total, including Dance Class, Laundress, After the Bath and Carriage at the Races.
 
+      * **Monet** submitted nine works. Aside from Impression Sunrise, his most notable entry was Boulevard des Capucines.
 
-      Pissarro showed five works (including Hoar-Frost and Chestnut Trees at Osny); Renoir seven works (including the Theatre Box and Dancer); Cezanne three (including Modern Olympia and a view of Auvers-sur-Oise entitled The House of the Hanged Man); Sisley five landscapes; and Berthe Morisot nine works (including The Cradle and Hide-and-Seek).
+      * **Pissarro** showed five works (including Hoar-Frost and Chestnut Trees at Osny); 
+
+      * **Renoir** seven works (including the Theatre Box and Dancer); 
+
+      * **Cezanne** three (including Modern Olympia and a view of Auvers-sur-Oise entitled The House of the Hanged Man); 
+
+      * **Sisley** five landscapes; and 
+
+      * **Berthe Morisot** nine works (including The Cradle and Hide-and-Seek).
 
 
       The full list of other artists whose work was on display is as follows (in alphabetical order): Attendu, Beliard, Boudin, Bracquemond, Brandon, Bureau, Cals, Colin, Debras, Latouche, Lepic, Lepine, Levert, Meyer, de Molins, Mulot-Durivage, de Nittis, A. Ottin, L. Ottin, Robert, and Rouart.
@@ -261,13 +269,25 @@ textSections:
       But things for the rest of the group were soon to go from bad to worse as [Paul Durand-Ruel](/paul-durand-ruel-biography) suspended the payments on instalment that he was making to the group.
 
 
+      #### How did Manet fare?
+
+
       Manet’s focus on the Salon also backfired. Of the three works he submitted to the 1874 exhibition, two were summarily rejected. The third, a heart-warming depiction of a mother and daughter at a railway station entitled The Railroad, was lambasted by critics (eg, the figures were “both cut out of sheet-tin”).
 
 
       Ironically, given his refusal to get involved, many reviewers placed the blame for the first exhibition on [Edouard Manet](/edouard-manet-biography). A rude review in La Presse described the group as ‘disciples of Monsieur Manet’; and a caricature in Les Contemporains showed Manet wearing a crown under the title ‘Manet, King of the Impressionists’.
 
 
+      #### Liquidation of the company
+
+
       In December 1874, Renoir chaired a meeting of the company’s shareholders. It had liabilities of 3,713 francs and cash in hand of a mere 278 francs. Each exhibitor owed 184 francs 50 centimes. The group made the unanimous decision to liquidate the company.
+
+
+      #### An auction and seven more exhibitions
+
+
+      The Impressionists, however, were not ones to give up.  They organised an auction at the Hotel Drouot in 1875 and, when that did not go as planned, held a [second exhibition in 1876](/second-impressionist-exhibition) and six more exhibitions in the years 1879 to 1886.
     sideGalleryImages:
       - imageTitle: "'Railway' by Edouard Manet, 1873 currently at the National Gallery
           of Art, Washington, DC, US"
@@ -280,11 +300,12 @@ textSections:
         imageUrl: /assets/first-exhibition-manet-luncheon-on-the-grass.jpg
     buttonToggle: true
 ---
-
-## The First Impressionist Exhibition took place in April-May 1874 in a gallery on Rue du Capucines in Paris.
+### The First Impressionist Exhibition took place in April-May 1874 in a gallery on Rue du Capucines in Paris.
 
 Organised by Monet, Pissarro, Degas, Renoir, Sisley and Berthe Morisot, the exhibition displayed [165 works by 30 artists](/first-impressionist-exhibition#3). They included Monet’s Impression Sunrise, the painting which was responsible for coining the term ‘impressionism’.
 
-But the exhibition was a failure: although 3,500 people came (paying 1 franc each), most attended to sneer and scoff at the works on display. And the newspaper critics were, on the whole, [remarkably hostile](/first-impressionist-exhibition#4). One remarked of Impression Sunrise that:
+But the exhibition was a failure: although 3,500 people came (paying 1 franc each), most attended to sneer and scoff at the works on display. And the newspaper critics were, on the whole, [remarkably hostile](/first-impressionist-exhibition#4). 
+
+One remarked of Impression Sunrise that:
 
 > “Wallpaper in its early stages is much more finished than that.”

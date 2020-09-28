@@ -5,7 +5,7 @@ path: paul-cezanne-and-aix-en-provence
 date: 2020-08-22T11:01:30.734Z
 subTitle: Learn About
 title: Cezanne and Aix-en-Provence
-tags: Impressionists
+tags: More
 cover: /assets/expensive-paintings-paul-cezanne-mont-sainte-victoire-chateaux-noir.jpg
 links:
   - post-YHib0YkbQ
@@ -27,14 +27,14 @@ upperGalleryImages:
 textSections:
   - textTitle: Cezanne's Childhood in Aix
     text: >-
-      ### [Paul Cezanne](paul-cezanne-biography/) was born in Aix-en-Provence on
+      ### [Paul Cezanne](/paul-cezanne-biography) was born in Aix-en-Provence on
       19 January 1839.  
 
 
       In Paris, he was immediately recognisable as being from Provence.
 
 
-      Cezanne had the lilting accent of the Midi region and he cut a curious figure in the studio of ‘Pere’ Suisse, where he first met [Camille Pissarro](camille-pissarro-biography/). His reputation was such that he was known as the ‘strange Provençal’ and Pissarro first made a special visit to the studio in the morning to meet him, as that was the only time he would attend the drawing classes.
+      Cezanne had the lilting accent of the Midi region and he cut a curious figure in the studio of ‘Pere’ Suisse, where he first met [Camille Pissarro](/camille-pissarro-biography). His reputation was such that he was known as the ‘strange Provençal’ and Pissarro first made a special visit to the studio in the morning to meet him, as that was the only time he would attend the drawing classes.
 
 
       #### Cezanne Senior
@@ -52,7 +52,7 @@ textSections:
       #### Depression
 
 
-      As a child and young man, Cézanne struggled frequently with depression. After moving to Paris in 1861, he told his close childhood friend, [Émile Zola](emile-zola-biography/): 
+      As a child and young man, Cézanne struggled frequently with depression. After moving to Paris in 1861, he told his close childhood friend, [Émile Zola](/emile-zola-biography): 
 
 
       > “I thought when I left Aix, I would leave behind the depression that I can’t shake off, but all I’ve really done is change places. I’m still depressed. I’ve just left my parents, my friends and some of my routines, that’s all.”
@@ -169,7 +169,7 @@ textSections:
       > “remarkable displays of their sun-drenched land \[…] One needs a lot of subtlety in the eyes and delicacy in the brush in order to extract the luminous harmony characteristic of these rocky and dry landscapes”.
 
 
-      Many of the Impressionists were not exempt from this myth-making in rural France in the 19th century. [Renoir](pierre-auguste-renoir-biography/), [Pissarro](camille-pissarro-biography/) and [Van Gogh](van-gogh-biography/) also painted their own versions of untouched and unchanged landscapes. There was a significant market for Provençal landscapes and artists keen to take advantage of it. 
+      Many of the Impressionists were not exempt from this myth-making in rural France in the 19th century. [Renoir](/pierre-auguste-renoir-biography), [Pissarro](/camille-pissarro-biography) and [Van Gogh](/van-gogh-biography) also painted their own versions of untouched and unchanged landscapes. There was a significant market for Provençal landscapes and artists keen to take advantage of it. 
 
 
       In the case of Cézanne, he was captivated by a nostalgia for simpler times and so, in his art, he reinforced the cultural stereotypes of Provence. This is evident in both his subjects and his style. In paintings like ‘Mont Sainte-Victoire and the Viaduct of the Arc River Valley’ (1882-85) and ‘The Brook’ (1900), as well as many more, it is possible to read the efforts of Cézanne to capture the “the boundless things of nature, \[which] attract me and give me the chance to look with pleasure.” 

@@ -1292,7 +1292,7 @@ Cezanne's The Card Players tops our list, having been sold for $259 million in 2
 
 #### Most popular artists
 
-[Paul Cezanne](paul-cezanne-biography) has three works in the top five, with works by [Pierre-Auguste Renoir](pierre-auguste-renoir-biography), Claude Monet and [Edouard Manet](edouard-manet-biography) all making the top ten. And the list of the top 20 dearest impressionist paintings is dominated by [Claude Monet](claude-monet-biography), with 12 entries.
+[Paul Cezanne](/paul-cezanne-biography) has three works in the top five, with works by [Pierre-Auguste Renoir](/pierre-auguste-renoir-biography), Claude Monet and [Edouard Manet](/edouard-manet-biography) all making the top ten. And the list of the top 20 dearest impressionist paintings is dominated by [Claude Monet](/claude-monet-biography), with 12 entries.
 
 Other entries in the list are by lesser known impressionists including Berthe Morisot, Gustave Caillebotte and Alfred Sisley.
 

@@ -223,7 +223,7 @@ textSections:
       </div>
 
 
-      **1876:** The [second impressionist exhibition](second-impressionist-exhibition/) is held.[ Gustave Caillebotte](/gustave-caillebotte-biography) (1848-1894, who was independently wealthy and had joined the group) provided the finance and attended to most of the organisation. The main impressionists all exhibited with the exception of Manet. And, again, the exhibition was a failure: there were few sales and the reviews were terrible.
+      **1876:** The [second impressionist exhibition](/second-impressionist-exhibition) is held.[ Gustave Caillebotte](/gustave-caillebotte-biography) (1848-1894, who was independently wealthy and had joined the group) provided the finance and attended to most of the organisation. The main impressionists all exhibited with the exception of Manet. And, again, the exhibition was a failure: there were few sales and the reviews were terrible.
 
 
       <div class="interesting">
@@ -238,7 +238,7 @@ textSections:
       </div>
 
 
-      **1877:** The [third impressionist exhibition](third-impressionist-exhibition/) is held, at impressive premises on rue Le Peletier. It was organised and financed by Caillebotte. Exhibitors included Monet (with 30 works, including 17 of [Gare Saint Lazare](/top-10-impressionist-paintings#5)), Renoir (with 17 works), Cezanne (16 works), Degas, Sisley, Berthe Morisot and Caillebotte himself.
+      **1877:** The [third impressionist exhibition](/third-impressionist-exhibition) is held, at impressive premises on rue Le Peletier. It was organised and financed by Caillebotte. Exhibitors included Monet (with 30 works, including 17 of [Gare Saint Lazare](/top-10-impressionist-paintings#5)), Renoir (with 17 works), Cezanne (16 works), Degas, Sisley, Berthe Morisot and Caillebotte himself.
 
 
       But the reviews were again mainly hostile. For example, the Arts Chronicle said that
@@ -250,7 +250,7 @@ textSections:
       Another said that the impressionist effect was similar to "worm-eaten Roquefort cheese".
 
 
-      **1879:** The [fourth impressionist exhibition](fourth-impressionist-exhibition/) is held. Cezanne, Renoir and Morisot decline to participate. On the other hand, 15,000 people attend (almost four times the number that saw the first exhibition); Monet's Rue Montorgueil is the star of the show. American impressionist [Mary Cassatt](/mary-cassatt-biography) paticipates for the first time.
+      **1879:** The [fourth impressionist exhibition](/fourth-impressionist-exhibition) is held. Cezanne, Renoir and Morisot decline to participate. On the other hand, 15,000 people attend (almost four times the number that saw the first exhibition); Monet's Rue Montorgueil is the star of the show. American impressionist [Mary Cassatt](/mary-cassatt-biography) paticipates for the first time.
 
 
       **5 September 1879:** [Camille Monet](/claude-monet-biography#4), Monet's first wife, dies aged just 32, leaving Monet with two children to care for. Camille's death came during a terrible period for Monet: one of his main patrons, Ernest Horschede, was declared bankrupt a few years earlier and the Monet and Horschede families had moved in together to economise. Monet was left sending scores of letters to friends and collectors begging for money.
@@ -271,20 +271,20 @@ textSections:
   - textTitle: "1880-86: More exhibitions; glimmers of hope"
     text: >-
       **1880:** The [fifth impressionist
-      exhibition](fifth-impressionist-exhibition/) is held. Monet refuses to
+      exhibition](/fifth-impressionist-exhibition) is held. Monet refuses to
       participate, preferring to give the Salon another go. His work, Sunset on
       the Seine at Lavacourt (pictured), is accepted, but it is "skied" (i.e.
       placed near the ceiling so that it was difficult for visitors to see).
       Renoir, Sisley and Cezanne also decide not to participate.
 
 
-      **1881:** The [sixth impressionist exhibition](sixth-impressionist-exhibition/) is held.  It marked a low point for the cohesion of the impressionist movement.  Degas assumed command and insisted on **(1)** excluding artists who also wanted to show their works at the Salon and **(2)** including many of his artist friends even though they weren't impressionists.  As a result, the only core impressionists who exhibited were Pissarro, Morisot and Degas himself.  On the other hand, Pissarro received positive reviews, Degas unveiled his first sculpture of a ballerina, and [Mary Cassatt](mary-cassatt-biography/) burnished her reputation.   
+      **1881:** The [sixth impressionist exhibition](/sixth-impressionist-exhibition) is held.  It marked a low point for the cohesion of the impressionist movement.  Degas assumed command and insisted on **(1)** excluding artists who also wanted to show their works at the Salon and **(2)** including many of his artist friends even though they weren't impressionists.  As a result, the only core impressionists who exhibited were Pissarro, Morisot and Degas himself.  On the other hand, Pissarro received positive reviews, Degas unveiled his first sculpture of a ballerina, and [Mary Cassatt](/mary-cassatt-biography) burnished her reputation.   
 
 
       **1881:** Manet finally wins a medal at the Salon, awarded for a portrait of a political figure called [Henri Rochefort](/edouard-manet-biography). Whilst the medal is only second class, it provides some vindication for Manet's strategy of refusing to participate in the independent exhibitions. It also meant that Manet could participate in future Salons without having to have his works approved by the Jury. Later that year, Manet is awarded the legion d'honneur by the French state (thanks to his childhood friend Antonin Proust, who had become Minister for Fine Arts).
 
 
-      **1882:** The [seventh impressionist exhibition](seventh-impressionist-exhibition/) is held.  Monet, Renoir and Sisley all participate, largely at the insistence of Paul Durand-Ruel (who had fallen on hard times).  Degas refuses to participate because the other artist's insist that the seventh exhibition should be for impressionists only.  Pissarro and Morisot participate as usual.  The exhibition is a success, resulting in positive reviews and sales.  The most famous work displayed was Renoir's Luncheon at the Boating Lake.  
+      **1882:** The [seventh impressionist exhibition](/seventh-impressionist-exhibition) is held.  Monet, Renoir and Sisley all participate, largely at the insistence of Paul Durand-Ruel (who had fallen on hard times).  Degas refuses to participate because the other artist's insist that the seventh exhibition should be for impressionists only.  Pissarro and Morisot participate as usual.  The exhibition is a success, resulting in positive reviews and sales.  The most famous work displayed was Renoir's Luncheon at the Boating Lake.  
 
 
       **1882:** Manet's last major work, [The Bar at the Folies Bergere](/top-10-impressionist-paintings#7), is exhibited at the Salon. The reviews are mainly negative.
@@ -299,10 +299,10 @@ textSections:
       **1884:** A posthumous exhibition of Manet's works is held at the Louvre.
 
 
-      **1886:** The eighth and [final impressionist exhibition](eighth-impressionist-exhibition/) is held. But Monet, Renoir and Sisley refuse to participate.  As such, the final exhibition is not a glorious fanfare to a decade of independent exhibitions - though Morisot and Pissarro exhibit as usual.  The most famous work to be shown was Georges Seurat's La Grande Jatte.   
+      **1886:** The eighth and [final impressionist exhibition](/eighth-impressionist-exhibition) is held. But Monet, Renoir and Sisley refuse to participate.  As such, the final exhibition is not a glorious fanfare to a decade of independent exhibitions - though Morisot and Pissarro exhibit as usual.  The most famous work to be shown was Georges Seurat's La Grande Jatte.   
 
 
-      **1886-8:** [Vincent van Gogh](van-gogh-biography/), the leading post-impressionist and perhaps the most famous painter of all time, spends time with Pissarro, [Gauguin](/paul-gauguin-biography) and [Seurat](/georges-seurat-biography) in Paris. This results in him lightning his palette from the earthy tones that are used in early van Goghs such as the [Potato Eaters](/van-gogh-biography#2).
+      **1886-8:** [Vincent van Gogh](/van-gogh-biography), the leading post-impressionist and perhaps the most famous painter of all time, spends time with Pissarro, [Gauguin](/paul-gauguin-biography) and [Seurat](/georges-seurat-biography) in Paris. This results in him lightning his palette from the earthy tones that are used in early van Goghs such as the [Potato Eaters](/van-gogh-biography#2).
     sideGalleryImages:
       - imageUrl: /assets/monet-sunset-on-the-seine-at-lavacourt.jpg
         imageTitle: Claude Monet's Sunset on the Seine at Lavacourt

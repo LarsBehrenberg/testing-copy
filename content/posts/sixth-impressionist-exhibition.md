@@ -2,7 +2,7 @@
 id: post-pR18nLTkn
 showOnIndex: true
 path: sixth-impressionist-exhibition
-date: 2020-08-27T05:02:34.372Z
+date: 2020-09-17T04:47:20.379Z
 subTitle: The 1881
 title: Sixth Impressionist Exhibition
 tags: Exhibitions
@@ -36,7 +36,7 @@ textSections:
       driving force behind the organising of a sixth group exhibition.
 
 
-      By the New Year of 1881, he was already asking around to see which artists would be willing to exhibit under the banner of the [Impressionists](/discover-the-impressionists) again. However, the rest of the group was heavily resistant to the idea.
+      By the New Year of 1881, he was already asking around to see which artists would be willing to exhibit under the banner of the [Impressionists](/what-is-impressionism) again. However, the rest of the group was heavily resistant to the idea.
 
 
       #### Discussions around the exhibition
@@ -151,7 +151,7 @@ textSections:
       #### Original group members
 
 
-      Only [Morisot](/berthe-morisot-biography), Pissarro and Degas remained of the original [Impressionist](/discover-the-impressionists) artists. Caillebotte declined to take part in Degas’ exhibition. Degas himself exhibited fewer than ten artworks, most of which were just sketches. Morisot also contributed only a small number of works. Pissarro was represented by 27 paintings and pastels, the largest collection from the Impressionist group and he displayed his works in frames of complimentary colours.
+      Only [Morisot](/berthe-morisot-biography), Pissarro and Degas remained of the original [Impressionist](/what-is-impressionism) artists. Caillebotte declined to take part in Degas’ exhibition. Degas himself exhibited fewer than ten artworks, most of which were just sketches. Morisot also contributed only a small number of works. Pissarro was represented by 27 paintings and pastels, the largest collection from the Impressionist group and he displayed his works in frames of complimentary colours.
 
 
       As in the Fifth Impressionist Exhibition, a glass case placed centre stage in the exhibition remained empty for much of the show’s opening. However, at some point, a small sculpture of a dancer was placed there. This was the long awaited sculpture by Degas that he had been working on for many months. 
@@ -367,9 +367,9 @@ textSections:
 ---
 ### The Sixth Impressionist Exhibition, held in 1881, marked a low-point for the cohesion of the impressionist movement.
 
-The problem was two-fold.  **First**, a number of the core impressionists did not want to exhibit, preferring instead to try their luck at the Salon.  **Secondly**, [Edgar Degas](edgar-degas-biography/) wanted strictly to control the artists who could exhibit.  
+The problem was two-fold.  **First**, a number of the core impressionists did not want to exhibit, preferring instead to try their luck at the Salon.  **Secondly**, [Edgar Degas](/edgar-degas-biography) wanted strictly to control the artists who could exhibit.  
 
-This led to civil war between [Gustave Caillebotte](gustave-caillebotte-biography/) and Degas.  In the end, Degas got his way and flooded the exhibition with works from the realism school.  
+This led to civil war between [Gustave Caillebotte](/gustave-caillebotte-biography) and Degas.  In the end, Degas got his way and flooded the exhibition with works from the realism school.  
 
 On the other hand, there were a number of positive signs:
 

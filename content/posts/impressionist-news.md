@@ -40,7 +40,7 @@ textSections:
       #### Monet and Chicago
 
 
-      On **5 September 2020**, the Art Institute of Chicago opens its exhibition [Monet and Chicago](https://www.artic.edu/exhibitions/9036/monet-and-chicago).  Showing 70 Monet canvasses, including the Institute's own holding of 33 paintings, the exhibition charts how Monet's work was enthusiastically embraced by the Chicago elite from the early 1890s.  This was in large part thanks to the efforts of Monet's main dealer [Paul Durand-Ruel](paul-durand-ruel-biography).  Works on display include several versions of Haystacks and Monet's Water Lilies, together with Bordighera, Gare St-Lazare, Pourville and the Houses of Parliament.
+      On **5 September 2020**, the Art Institute of Chicago opens its exhibition [Monet and Chicago](https://www.artic.edu/exhibitions/9036/monet-and-chicago).  Showing 70 Monet canvasses, including the Institute's own holding of 33 paintings, the exhibition charts how Monet's work was enthusiastically embraced by the Chicago elite from the early 1890s.  This was in large part thanks to the efforts of Monet's main dealer [Paul Durand-Ruel](/paul-durand-ruel-biography).  Works on display include several versions of Haystacks and Monet's Water Lilies, together with Bordighera, Gare St-Lazare, Pourville and the Houses of Parliament.
 
 
       #### Postdam: Museum Barberini
@@ -56,6 +56,12 @@ textSections:
       * The whole collection has been donated to the Barberini, housed in a palace built by Frederick the Great in the late 18th century.  It is arguably Europe's best impressionist collection outside of Paris.   
 
 
+      #### BBC commissions 60-minute Monet show
+
+
+      This autumn will see the BBC (British Broadcasting Corporation) launch *Art on the BBC*, with a four-part series focusing on Dali, [Van Gogh](/van-gogh-biography), Monet and Turner.  The show on Van Gogh will focus on how his mental health influenced his work, whilst the [Claude Monet](/claude-monet-biography) episode will address "how his commercial success has blinded us to \[Monet's] revolutionary talent".  Show times TBA.  
+
+
       ### August 2020
 
 
@@ -68,7 +74,7 @@ textSections:
       On **7 August 2020**, the first major London exhibition post-lockdown opens its doors.  The Royal Academy's [Gauguin and the Impressionists: Masterpieces from the Ordrupgaard Collection](https://www.royalacademy.org.uk/exhibition/gauguin-and-the-impressionists-ordrupgaard) promises to be a cracker.  
 
 
-      The controversial [Gaugin's](paul-gaugin-biography/) bold subject matter, such as Tahitian Woman, is on display next to more conventional impressionist fare such as Manet's *Basket of Pears*, Sisley's *Barges from Berry*, and Pissarro's *Morning Sun in the Rue St-Honore*.  
+      The controversial [Gaugin's](/paul-gauguin-biography) bold subject matter, such as Tahitian Woman, is on display next to more conventional impressionist fare such as Manet's *Basket of Pears*, Sisley's *Barges from Berry*, and Pissarro's *Morning Sun in the Rue St-Honore*.  
 
 
       The collection was originally put together by Danish insurance magnate Wilhelm Hansen.  He used to show the Manet work after dinner parties, explaining to guests that it:
@@ -89,7 +95,7 @@ textSections:
       ### July 2020
 
 
-      The [US National Gallery of Art](https://www.nga.gov/index.html) in Washington re-opened on Monday 20 July, but requires face masks to be worn and social distancing.  It is the latest museum to re-open its doors following Covid shutdown.  Visitors can check out a [van Gogh](van-gogh-biography/) self-portrait, a version of Monet's Japanese Footbridge, Cezanne's The Peppermint Bottle and Manet's The Railway.  
+      The [US National Gallery of Art](https://www.nga.gov/index.html) in Washington re-opened on Monday 20 July, but requires face masks to be worn and social distancing.  It is the latest museum to re-open its doors following Covid shutdown.  Visitors can check out a [van Gogh](/van-gogh-biography) self-portrait, a version of Monet's Japanese Footbridge, Cezanne's The Peppermint Bottle and Manet's The Railway.  
 
 
       The Washington Post published a fascinating article on [Manet's The Dead Toreador](https://www.washingtonpost.com/graphics/2020/entertainment/edouard-manet-the-dead-toreador/) on 15 July 2020.  It includes the observation

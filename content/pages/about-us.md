@@ -33,7 +33,7 @@ They were ridiculed for the best part of the 1860s and 1870s, but they kept goin
 
 And so I've slowly put this website together ...
 
-Reading (Sue Roe's The Private Lives of the Impressionists is a good place to start), writing, reading some more, updating, learning some CSS and HTML, buying an impressionist reproduction from Hong Kong (for $540, but it is 2 metres wide!), learning some javascript (I'm very proud of my [quiz page](/impressionism-quiz)!), checking my google rankings, reading (I've been through Rewald's The History of Impressionism, which should impress you--it is no page-turner!), and so on and so forth.
+Reading (Sue Roe's The Private Lives of the Impressionists is a good place to start), writing, reading some more, updating, learning some CSS and HTML, buying an impressionist reproduction from Hong Kong (for $540, but it is 2 metres wide!), learning some javascript (I'm very proud of my [quiz page](/quiz)!), checking my google rankings, reading (I've been through Rewald's The History of Impressionism, which should impress you--it is no page-turner!), and so on and so forth.
 
 I hope you like the site.  Any comments, information, updates, musings, complaints, rants can be emailed to info@impressionistarts.com. 
 

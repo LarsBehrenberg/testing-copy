@@ -63,7 +63,7 @@ textSections:
       #### Setting up studio
 
 
-      [Edouard Manet](edouard-manet-biography/), [Edgar Degas](edgar-degas-biography/), [Auguste Renoir](pierre-auguste-renoir-biography/), [Camille Pissarro](camille-pissarro-biography/) and [Paul Cézanne](paul-cezanne-biography/) all had studios in Montmartre. Their favourite places tended to be at the top of the hill or butte, where the cafés and cabarets were situated. 
+      [Edouard Manet](/edouard-manet-biography), [Edgar Degas](/edgar-degas-biography), [Auguste Renoir](/pierre-auguste-renoir-biography), [Camille Pissarro](/camille-pissarro-biography) and [Paul Cézanne](/paul-cezanne-biography) all had studios in Montmartre. Their favourite places tended to be at the top of the hill or butte, where the cafés and cabarets were situated. 
 
 
       This was also where the rents were cheapest.
@@ -81,7 +81,7 @@ textSections:
       As well as cafés, the artists would often visit paint shops with temporary exhibitions of art on display. One of the most popular of these was Père Tanguy’s paint shop where aspiring artists would spend entire days talking and critiquing the exhibitions. 
 
 
-      Tanguy agreed to display some of [Vincent Van Gogh ](vincent-van-gogh-biography/)and Cézanne’s paintings, one of the few venues in Paris that did, as well as works by [Georges Seurat](georges-seurat-biography/) and [Paul Gauguin](paul-gaugin-biography/). 
+      Tanguy agreed to display some of [Vincent Van Gogh ](/van-gogh-biography)and Cézanne’s paintings, one of the few venues in Paris that did, as well as works by [Georges Seurat](/georges-seurat-biography) and [Paul Gauguin](/paul-gauguin-biography). 
 
 
       Other venues known to display Impressionist work included the Restaurant la Fourche and the Cabaret du Tambourine, both in Montmartre.
@@ -109,7 +109,7 @@ textSections:
       Of Montmartre’s dance halls, Élysées-Montmartre was arguably the most famous. This particular dance hall also boasted gambling rooms and a restaurant. It was an important venue for the Impressionists, especially during the 1870s, forming the centre of many social gatherings. 
 
 
-      [Émile Zola](emile-zola-biography/) held a party there in 1874 to celebrate his novel ‘L’Assommoir’, about working-class Parisians. Zola also admitted that he had drawn L’Assomoir’s imagery from many of Degas’ paintings from the neighbourhood, saying 
+      [Émile Zola](/emile-zola-biography) held a party there in 1874 to celebrate his novel ‘L’Assommoir’, about working-class Parisians. Zola also admitted that he had drawn L’Assomoir’s imagery from many of Degas’ paintings from the neighbourhood, saying 
 
 
       > “I quite plainly described some of your pictures in more than one place in my pages."
@@ -118,7 +118,7 @@ textSections:
       #### Moulin de la Galette
 
 
-      The Moulin de la Galette was another a dance hall popular among the Impressionists, especially [Renoir](auguste-renoir-biography/). 
+      The Moulin de la Galette was another a dance hall popular among the Impressionists, especially [Renoir](/pierre-auguste-renoir-biography). 
 
 
       The Galette had long been catering to a working-class customer base but was “discovered” by the new avant-garde arrivals in the neighbourhood and quickly became a hotspot for artists. Named after one of the last remaining windmills in Paris, the Galette was partly open air, with a large garden and trees. 
@@ -166,7 +166,7 @@ textSections:
       At the Moulin Rouge, dancers performed raucous shows on the centre stage whilst customers drank and danced themselves. An eroticised version of the can-can, known as ‘le chahut’ was a particularly popular dance where the performers would kick their legs and lift up their skirts to show their underwear. 
 
 
-      A depiction of this dance can be seen in [Seurat’s](georges-seurat-biography/) pointillist work, ‘Le Chachut’ from 1889. By the 1890s, African American dancers were also performing the cakewalk, helping to popularise a pre-American civil war plantation dance in Europe.
+      A depiction of this dance can be seen in [Seurat’s](/georges-seurat-biography) pointillist work, ‘Le Chachut’ from 1889. By the 1890s, African American dancers were also performing the cakewalk, helping to popularise a pre-American civil war plantation dance in Europe.
 
 
       Henri de Toulouse-Lautrec was the Post-Impressionist who is best known for his works set in the Moulin Rouge. He became fascinated with the venue and immortalised the dancers in his paintings. Lautrec was such a fan that he became an almost permanent customer, spending consecutive nights drinking absinthe and socialising with the dancers. Over time, he recreated the raucous world of the dance halls in his art, painting dancers, singers, musicians and prostitutes.
@@ -269,7 +269,7 @@ textSections:
       #### Cirque Fernando
 
 
-      Paris had three permanent circuses but the most popular among the Impressionists was the Cirque Fernando, founded in 1875 and conveniently located in Montmartre. This venue features in numerous artworks from the Impressionist period. Perhaps the most famous of the collection are the works by [Degas](edgar-degas-biography/) who once again captured the energy of the venue with masterful ability.
+      Paris had three permanent circuses but the most popular among the Impressionists was the Cirque Fernando, founded in 1875 and conveniently located in Montmartre. This venue features in numerous artworks from the Impressionist period. Perhaps the most famous of the collection are the works by [Degas](/edgar-degas-biography) who once again captured the energy of the venue with masterful ability.
 
 
       One such painting is ‘Lady La La’ from 1879. This ambitious piece was painted from the perspective of an audience member looking upwards towards a performer. Lady La La, or Olga, was one of the most popular performers at the Cirque Fernando, known for her superhuman strength. Part of her act was being suspended from the dome with a rope which she clenched between her teeth. It is in this pose that Degas paints her.
@@ -278,7 +278,7 @@ textSections:
       #### Renoir's The Jugglers
 
 
-      Similarly, [Renoir](pierre-auguste-renoir-biography/) also chose the Cirque Fernando as the setting for his painting ‘The Jugglers’, from 1879. Renoir’s work features two juggling sisters, Francisca and Angelina Wartenberg. His image does not show the sisters during a performance, however, instead they stand in the centre of the ring as though waiting to begin their act. 
+      Similarly, [Renoir](/pierre-auguste-renoir-biography) also chose the Cirque Fernando as the setting for his painting ‘The Jugglers’, from 1879. Renoir’s work features two juggling sisters, Francisca and Angelina Wartenberg. His image does not show the sisters during a performance, however, instead they stand in the centre of the ring as though waiting to begin their act. 
 
 
       This relatively still image drives the viewer to take in the form of the performers themselves, not the spectacle of the act or the crowd. The male figure in the background mimics the viewer, observing the jugglers. In this painting we can read the erotic undertones that were a factor in making circuses popular during this period. 

@@ -5,7 +5,7 @@ path: claude-monet-and-giverny
 date: 2020-08-19T14:09:52.610Z
 subTitle: Discover
 title: Claude Monet and Giverny
-tags: Impressionists
+tags: More
 cover: /assets/lunch-party-at-giverny-1900.jpg
 links:
   - post-EqJRP4k4i
@@ -37,7 +37,7 @@ textSections:
       #### Camile Doncieux and Ernest Hoschedé
 
 
-      [Claude Monet](claude-monet-biography/) married his first wife, **Camille Doncieux**, in 1870 and had two sons with her: Jean (born three years earlier, in 1867) and Michel (born in 1878).  
+      [Claude Monet](/claude-monet-biography) married his first wife, **Camille Doncieux**, in 1870 and had two sons with her: Jean (born three years earlier, in 1867) and Michel (born in 1878).  
 
 
       Tragically, Camille developed pelvic cancer at about the same time Michel was born and became gravely ill. She died in September 1879.  
@@ -237,7 +237,7 @@ textSections:
       Unlike in the Clos Normand garden, Monet drew heavily on Japanese prints as inspiration for his floating garden. He had a Japanese bridge built over the pond, mimicking the bridges from ukiyo-e prints such as ‘Wisteria at Kameido Tenjin Shrine’ (1856) by Hiroshige. 
 
 
-      When construction of the bridge was completed, Monet painted three works depicting the structure through 1895 and even more in 1899. An exhibition at [Paul Durand-Ruel’s](paul-durand-ruel/) gallery in 1900 featured 12 paintings of the bridge, largely from the same view.
+      When construction of the bridge was completed, Monet painted three works depicting the structure through 1895 and even more in 1899. An exhibition at [Paul Durand-Ruel’s](/paul-durand-ruel-biography) gallery in 1900 featured 12 paintings of the bridge, largely from the same view.
 
 
       #### Monet's industry
@@ -272,7 +272,7 @@ textSections:
       purchased a house in Petit Gennevilliers in 1881.
 
 
-      Located in a quiet suburb set across the River Seine from Argentiul, the house was well-situated but lacked a large plot of land. To counter this problem, [Gustave Caillebotte](gustave-caillebotte-biography/) and his brother began buying up surrounding plots in order to extend their garden.  
+      Located in a quiet suburb set across the River Seine from Argentiul, the house was well-situated but lacked a large plot of land. To counter this problem, [Gustave Caillebotte](/gustave-caillebotte-biography) and his brother began buying up surrounding plots in order to extend their garden.  
 
 
       #### Gardening advice

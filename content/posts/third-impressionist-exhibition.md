@@ -2,7 +2,7 @@
 id: post-3Fq1EQ3yS
 showOnIndex: true
 path: third-impressionist-exhibition
-date: 2020-06-09T02:14:16.772Z
+date: 2020-09-17T11:20:15.300Z
 subTitle: The 1877
 title: Third Impressionist Exhibition
 tags: Exhibitions
@@ -42,7 +42,7 @@ textSections:
       The artists quarrelled over how the Third Impressionist Exhibition should proceed. 
 
 
-      [Claude Monet](claude-monet-biography/) and [Edgar Degas](/edgar-degas-biography) disagreed over whether or not to encourage new artists to join the group. Degas felt that new blood was needed to drive the work of the Impressionists forward but Monet staunchly disagreed, fearing that unknown artists would dilute the impact of the group. Meanwhile, [Camille Pissarro](/camille-pissarro-biography) was keen to make the movement more political and he advocated for the group to align themselves with socialist causes.
+      [Claude Monet](/claude-monet-biography) and [Edgar Degas](/edgar-degas-biography) disagreed over whether or not to encourage new artists to join the group. Degas felt that new blood was needed to drive the work of the Impressionists forward but Monet staunchly disagreed, fearing that unknown artists would dilute the impact of the group. Meanwhile, [Camille Pissarro](/camille-pissarro-biography) was keen to make the movement more political and he advocated for the group to align themselves with socialist causes.
 
 
       Similarly, the rivalry between [Caillebotte](/gustave-caillebotte-biography) and Degas for control over the organisation of the exhibition had continued since the Second Impressionist Exhibition. According to some accounts, they argued frequently, but it also appears as though Caillebotte was largely a peacekeeping figure in the group. According to sources, he had the calm temperament needed to diffuse disputes among the other artists and enable the group to work together.
@@ -72,7 +72,7 @@ textSections:
       Degas believed that the group represented the survival of modern art and he felt very strongly that there was a conflict between the Salon and the ‘Exposition des Impressionistes’. This was in stark contrast to his earlier insistences in 1874, which had seen him actively attempt to recruit Salon artists to exhibit with the Impressionists in order to lend the group greater legitimacy. 
 
 
-      Nevertheless, the others agreed to his stipulation, though [Paul Cézanne](paul-cezanne-biography/) was exempted from the rule.
+      Nevertheless, the others agreed to his stipulation, though [Paul Cézanne](/paul-cezanne-biography) was exempted from the rule.
     buttonToggle: true
     sideGalleryImages:
       - imageUrl: /assets/gustave-caillebotte-portrait.jpg
@@ -136,7 +136,7 @@ textSections:
       #### Monet's Gare St Lazare
 
 
-      One of the standout series displayed was that of Monet’s views of [Gare St. Lazare](top-10-impressionist-paintings/), showing the station shrouded in a fog of smoke from the steam trains. He had conceived the idea for the series when staying in a rented apartment in the rue Moncey, close to the station. In order to realise his vision, he dressed in his finery and marched into the office of the director of the station. Not wanting to appear ignorant, the director agreed to his demands, assuming he was a famous and fabulously wealthy painter.
+      One of the standout series displayed was that of Monet’s views of [Gare St. Lazare](/top-10-impressionist-paintings), showing the station shrouded in a fog of smoke from the steam trains. He had conceived the idea for the series when staying in a rented apartment in the rue Moncey, close to the station. In order to realise his vision, he dressed in his finery and marched into the office of the director of the station. Not wanting to appear ignorant, the director agreed to his demands, assuming he was a famous and fabulously wealthy painter.
 
 
       Thanks to his gumption, Monet had been given the entire station to paint from, with the platforms cleared of people, the trains delayed and extra coal added to the fires to create as much smoke and steam as he needed for the effect. The results were an astonishing success and all the Impressionists benefitted from Monet’s stroke of inspiration. 
@@ -361,8 +361,10 @@ textSections:
     buttonToggle: true
     sideGalleryImages: []
 ---
-## It was just one year after the Second Impressionist Exhibition that the artists agreed to stage a third exhibition.
+### It was just one year after the Second Impressionist Exhibition that the artists agreed to stage a third exhibition.
 
 The Third Impressionist Exhibition took place on the Rue Le Peletier in April 1877 and for the first time, the [Impressionists](/) embraced the name given to them as an insult. They opened the show as the ‘Exposition des Impressionistes’. 
 
-Much like the previous [Impressionist exhibitions](/second-impressionist-exhibition), this one would be marked by strong criticisms of many of the artists’ work, this time coming from high society as well as the middle classes. The standout artist in the Third Impressionist Exhibition was [Claude Monet](/claude-monet-biography), whose paintings of the Gare St. Lazare were highly praised by critics, though they were also equally shunned by others.
+Much like the previous [Impressionist exhibitions](/second-impressionist-exhibition), this one would be marked by strong criticisms of many of the artists’ work, this time coming from high society as well as the middle classes. 
+
+The standout artist in the Third Impressionist Exhibition was [Claude Monet](/claude-monet-biography), whose paintings of the Gare St. Lazare were highly praised by critics, though they were also equally shunned by others.

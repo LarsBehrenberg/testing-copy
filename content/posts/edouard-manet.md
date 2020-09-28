@@ -199,7 +199,7 @@ textSections:
       > “never has a painting received more laughter, mockery and catcalls”.
 
 
-      Another said Olympia resembled a female gorilla. A lot of the criticism was hypocritical: at this time many aristocratic men visited [prostitutes on a regular basis](impressionism-and-prostitution/).
+      Another said Olympia resembled a female gorilla. A lot of the criticism was hypocritical: at this time many aristocratic men visited [prostitutes on a regular basis](/impressionism-and-prostitution).
 
 
       Manet complained that
@@ -317,7 +317,7 @@ textSections:
       He adored people, people watching, debating political and artistic ideas, and making people laugh. The impressionists frequented two cafes in particular: the Cafe Guerbois and later the Cafe Nouvelle Athens.
 
 
-      It was here that a number of the members of the impressionist circle could be found in the early evening.  In addition to Manet, they included Renoir and Degas (and sometimes Monet), and writers such as [Emile Zola](emile-zola-biography/).
+      It was here that a number of the members of the impressionist circle could be found in the early evening.  In addition to Manet, they included Renoir and Degas (and sometimes Monet), and writers such as [Emile Zola](/emile-zola-biography).
 
 
       #### Berthe Morisot
@@ -666,7 +666,7 @@ textSections:
 
       4. The Railway
 
-      5. The Exection of Maximilian
+      5. The Execution of Maximilian
 
       6. Masked Ball at the Opera
 

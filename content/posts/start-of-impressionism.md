@@ -39,16 +39,16 @@ textSections:
       #### Coming to Paris
 
 
-      [Edouard Manet](edouard-manet-biography/) and [Edgar Degas](edgar-degas-biography/) were born and grew up in Paris.  As for the remaining four members of the core impressionist group:
+      [Edouard Manet](/edouard-manet-biography) and [Edgar Degas](/edgar-degas-biography) were born and grew up in Paris.  As for the remaining four members of the core impressionist group:
 
 
-      * [Auguste Renoir](pierre-auguste-renoir-biography/) was born in Limoges in 1841 but came to Paris with his parents at a young age.  He was an apprentice porcelain painter in the late 1850s, and applied to become a copyist in the Louvre in 1860.
+      * [Auguste Renoir](/pierre-auguste-renoir-biography) was born in Limoges in 1841 but came to Paris with his parents at a young age.  He was an apprentice porcelain painter in the late 1850s, and applied to become a copyist in the Louvre in 1860.
 
-      * [Claude Monet](claude-monet-biography/) was born in Paris but moved with his family to Le Havre in Normandy when he was a young child.  He returned to Paris in May 1859, but left again to do his military service in 1861.  He returned to Paris for good in November 1862.
+      * [Claude Monet](/claude-monet-biography) was born in Paris but moved with his family to Le Havre in Normandy when he was a young child.  He returned to Paris in May 1859, but left again to do his military service in 1861.  He returned to Paris for good in November 1862.
 
-      * [Paul Cezanne](paul-cezanne-biography/) was born and brought up in Aix-en-Provence, in the south of France.  He wanted to follow his childhood friend Emile Zola to Paris in 1860, but his father persuaded him to study law first.  That was a complete failure and Cezanne hen-pecked his father into letting him go the next year. 
+      * [Paul Cezanne](/paul-cezanne-biography) was born and brought up in Aix-en-Provence, in the south of France.  He wanted to follow his childhood friend Emile Zola to Paris in 1860, but his father persuaded him to study law first.  That was a complete failure and Cezanne hen-pecked his father into letting him go the next year. 
 
-      * [Camille Pissarro](camille-pissarro-biography/) was born in the Dutch West Indies in 1830 and, after dabbling in painting there, arrived in Paris in 1855. 
+      * [Camille Pissarro](/camille-pissarro-biography) was born in the Dutch West Indies in 1830 and, after dabbling in painting there, arrived in Paris in 1855. 
 
 
       #### Paris
@@ -63,10 +63,10 @@ textSections:
       Seven years earlier, [Baron Haussmann](https://en.wikipedia.org/wiki/Georges-Eug%C3%A8ne_Haussmann) had been elected Prefect of the Seine and had begun making plans to modernise the city but it was very much a work in progress. One of his first actions was to tear down the inner city wall, opening up the suburbs surrounding Paris and making them part of the city. 
 
 
-      The newly connected suburb of [Montmartre](montmartre-and-impressionism/) was a favourite among artists. They gathered in the cafes and brasseries that huddled together in the still largely rural district, chatting and socialising. This was the setting in which the strong social bonds that allowed the impressionists to support each other developed.  
+      The newly connected suburb of [Montmartre](/montmartre-and-impressionism) was a favourite among artists. They gathered in the cafes and brasseries that huddled together in the still largely rural district, chatting and socialising. This was the setting in which the strong social bonds that allowed the impressionists to support each other developed.  
 
 
-      This is not to say that all the impressionists lived a hand-to-mouth Bohemian existence.  This was certainly the lot of Monet, Pissarro and Renoir.  But Cezanne, Degas and Manet had family money behind them—and Manet often [doled it out ](edouard-manet-biography/#6)to others in the group when times got tough.
+      This is not to say that all the impressionists lived a hand-to-mouth Bohemian existence.  This was certainly the lot of Monet, Pissarro and Renoir.  But Cezanne, Degas and Manet had family money behind them—and Manet often [doled it out ](/edouard-manet-biography#6)to others in the group when times got tough.
     buttonToggle: true
     sideGalleryImages:
       - imageUrl: /assets/edouard_willmann_paris_1860.jpg
@@ -96,7 +96,7 @@ textSections:
       #### Salon favourites
 
 
-      Some of the most popular artists, all Salon favourites, were [Jean-Auguste-Dominique Ingres](jean-auguste-dominique-ingres-biography), Jean-Louis-Ernest Meissonier, Jean-Léon Gérôme, and Gustave Moreau. These painters followed the expectations of the Institut in their themes and even in their style, which was also governed by the École des Beaux-Arts. 
+      Some of the most popular artists, all Salon favourites, were [Jean-Auguste-Dominique Ingres](/jean-auguste-dominique-ingres-biography), Jean-Louis-Ernest Meissonier, Jean-Léon Gérôme, and Gustave Moreau. These painters followed the expectations of the Institut in their themes and even in their style, which was also governed by the École des Beaux-Arts. 
 
 
       Their work was finely painted using extreme detail. The brushworks were invisible and the light and colour palette of the paintings drew on the technique of contrasts - lightness for high drama, darkness for grandeur and solemnity. 
@@ -105,7 +105,7 @@ textSections:
       #### Delacroix
 
 
-      The only rogue among them was [Eugène Delacroix](eugene-delacroix-biography), whose intense colour palette and quick, expressive brushstrokes were seen as radical to the art establishment and audiences who came to the Salon. Nonetheless, Delacroix did not push the boundaries beyond the upper limits of acceptability and, thus, he did not fall foul of the Institut de France. 
+      The only rogue among them was [Eugène Delacroix](/eugene-delacroix-biography), whose intense colour palette and quick, expressive brushstrokes were seen as radical to the art establishment and audiences who came to the Salon. Nonetheless, Delacroix did not push the boundaries beyond the upper limits of acceptability and, thus, he did not fall foul of the Institut de France. 
 
 
       He was daring but not so daring that he risked being excluded from the Salon.

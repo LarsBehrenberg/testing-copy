@@ -78,7 +78,7 @@ textSections:
       Quickly becoming a young man and with a new found freedom, Signac began spending more time exploring the nightlife of Paris. Here he began socialising with artists, writers and musicians. His location at the centre of a thriving creative neighbourhood at a young age made him hungry for debate, politics and intellectual discussion.
 
 
-      Most notably, he frequented Le Chat Noir in [Montmartre](montmartre-and-impressionism), a favourite cabaret among the artistic community of Paris. The characters he met in these bars, cafes and clubs would go on to be strong supporters of his work in the future. It was also around this time the Signac produced his first paintings, in the winter of 1881 and 1882.
+      Most notably, he frequented Le Chat Noir in [Montmartre](/montmartre-and-impressionism), a favourite cabaret among the artistic community of Paris. The characters he met in these bars, cafes and clubs would go on to be strong supporters of his work in the future. It was also around this time the Signac produced his first paintings, in the winter of 1881 and 1882.
 
 
       #### Self-taught
@@ -141,7 +141,7 @@ textSections:
       In addition to the evidence of Impressionism in his artworks, Signac also shared his political views with certain prominent Impressionists. He publicly endorsed anarchism in 1888 and he contributed to the pro-anarchist and communist newspaper ‘Les Temps Nouveaux’ or ‘The New Times’.
 
 
-      In doing so, he aligned himself with painters such as [Camille Pissarro](/camille-pissarro-biography), who was also a strong supporter of anarchism. During the [Dreyfus Affair](impressionism-and-the-dreyfus-affair), Signac signed a collective statement publicly supporting Zola, who was incidentally one of his literary idols.
+      In doing so, he aligned himself with painters such as [Camille Pissarro](/camille-pissarro-biography), who was also a strong supporter of anarchism. During the [Dreyfus Affair](/impressionism-and-the-dreyfus-affair), Signac signed a collective statement publicly supporting Zola, who was incidentally one of his literary idols.
 
 
       #### In the Time of Anarchy/Harmony
@@ -212,7 +212,7 @@ textSections:
       Pointillism involved applying paint to the canvas as small daubs or spots of colour in a precise manner, using the theory of optical mixing to create a cohesive whole that appears as solid, intense colour when viewed by the human eye.
 
 
-      Despite the clear division between Impressionism and this Neo-Impressionist technique, both Signac and Seurat exhibited at the [Eighth Impressionist Exhibition](eighth-impressionist-exhibition) and the Salon des Indépendants, alongside Impressionist artworks. Their works were largely met with positive criticism, aside from protests by Edgar Degas and Eugene Manet, Édouard's brother.
+      Despite the clear division between Impressionism and this Neo-Impressionist technique, both Signac and Seurat exhibited at the [Eighth Impressionist Exhibition](/eighth-impressionist-exhibition) and the Salon des Indépendants, alongside Impressionist artworks. Their works were largely met with positive criticism, aside from protests by Edgar Degas and Eugene Manet, Édouard's brother.
 
 
       #### A symbiotic relationship

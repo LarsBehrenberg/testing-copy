@@ -18,9 +18,9 @@ menuLinkList:
       - label: Auguste Renoir
         path: /pierre-auguste-renoir-biography
     path: /
-  - label: Gallery
+  - label: Our Gallery
     path: /gallery
-  - label: Quiz
+  - label: The Impressionism Quiz
     path: /quiz
   - label: More
     dropdown:

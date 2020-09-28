@@ -87,7 +87,7 @@ textSections:
       </div>
 
 
-      Though interesting, such debates miss the real point. [Manet](edouard-manet-biography/) was making a controversial statement with this work. He was challenging the orthodoxy and showcasing his new techniques. And it worked: the whole of Paris started to talk about him.
+      Though interesting, such debates miss the real point. [Manet](/edouard-manet-biography) was making a controversial statement with this work. He was challenging the orthodoxy and showcasing his new techniques. And it worked: the whole of Paris started to talk about him.
 
 
       #### Where can I see it for myself?
@@ -96,7 +96,7 @@ textSections:
       Le Dejuner Sur l’Herbe is found in the permanent collection of the [Musee D’Orsay](https://thingstodoeverywhere.com/things-to-do-in-paris-france.html) in Paris. London’s [Courtauld Gallery](https://thingstodoeverywhere.com/central-london-attractions.html) has a smaller earlier version of the work.
 
 
-      You might also enjoy our page on [Manet's life story](/edouard-manet-biography.html).
+      You might also enjoy our page on [Manet's life story](/edouard-manet-biography.html).  Did you know that he fought a duel in February 1870?
     sideGalleryImages:
       - imageTitle: Monet's Dejeuner sur l'Herbe sparked uproar when it was shown at the
           Salon des Refuses in 1861
@@ -219,7 +219,7 @@ textSections:
       Impression Sunrise is found in Paris' Marmottan Monet Museum, a small museum displaying more than 300 of Monet's works. It was [stolen](/top-10-impressionist-art-thefts) by five masked gunmen in 1985 and not recovered for five years (having been hidden in a small Corsican villa).
 
 
-      You might also enjoy our page on [Monet's life story](/claude-monet-biography).
+      You might also enjoy our page on [Monet's life story](/claude-monet-biography).  Did you know that he was often penniless and once tried to commit suicide?
     sideGalleryImages:
       - imageTitle: Monet's Impression Sunrise was the work that earned the
           Impressionists their name
@@ -284,6 +284,9 @@ textSections:
 
 
       Versions of Degas’ Dance Class are found in the Metropolitan Museum of Art in New York and in Paris’ [Musee D’Orsay](https://thingstodoeverywhere.com/things-to-do-in-paris-france.html).
+
+
+      You might also enjoy our page on [Degas' life story](/edgar-degas-biography).  Did you know that Degas was an Anti-Semite?
     sideGalleryImages:
       - imageTitle: Edgar Degas loved and was given special access to the Parisian
           Ballet, where he painted Dancing Class
@@ -405,7 +408,7 @@ textSections:
       </div>
 
 
-      To learn more, check out our [August Renoir biography](/pierre-auguste-renoir-biography) page.
+      To learn more, check out our [August Renoir biography](/pierre-auguste-renoir-biography) page.  Did you know that Renoir started his career by painting porcelain in a factory?  
 
 
       #### Where can I see it for myself?
@@ -529,7 +532,7 @@ textSections:
       Cézanne completed many studies before painting the five works, with the usual assumption being that the larger three player pictures came first.
 
 
-      To learn more, check out our [Paul Cezanne biography](/paul-cezanne-biography) page.
+      To learn more, check out our [Paul Cezanne biography](/paul-cezanne-biography) page.  Did you know that Cezanne hid the fact that he had a son from his father for nine years?
 
 
       #### Where can I see it for myself?
@@ -579,7 +582,7 @@ textSections:
       Pissarro's daytime scenes are remarkable for their variety. The two examples we give show a bustling street on an overcast spring morning and a warm sunset later in the year once the trees are in blossom.
 
 
-      To learn more, check out our [Camille Pissarro biography](/camille-pissarro-biography) page.
+      To learn more, check out our [Camille Pissarro biography](/camille-pissarro-biography) page.  Did you know that van Gogh called Pissarro the "father to us all"?
 
 
       #### Where can I see them for myself?
@@ -649,7 +652,7 @@ textSections:
       <h4><img src="logo/palette.png" alt="A painters pallete"> Interesting fact...</h4>
 
 
-      Monet continued to paint Water Lilies notwithstanding that his vision was from about 1908 impaired by cataracts (he eventually agreed to have them surgically removed). Monet used much more red and orange during his cataract years.
+      Monet continued to paint Water Lilies notwithstanding that his vision was from about 1908 impaired by cataracts (he eventually agreed to have them surgically removed). Monet used much more red and orange during his [cataract years](/did-claude-monet-go-blind-from-cataracts).
 
 
       </div>
@@ -696,6 +699,9 @@ textSections:
       He checked himself into a sanatorium after he severed his left ear in December 1888, following an argument with Gaugin, and delivered the bloody mess to a brothel that he frequented. And he shot himself in chest with a revolver in July 1890, dying of his injuries two days later.
 
 
+      To learn more, check out our page on [van Gogh's life story](/van-gogh-biography).  Did you know that van Gogh trained to be a priest?
+
+
       #### van Gogh's work
 
 
@@ -723,7 +729,7 @@ textSections:
         imageUrl: /assets/10-paintings-van-gogh-sunflowers.jpg
     buttonToggle: true
 ---
-## Our list of the top 10 impressionist paintings contains three entries from Manet, three from Monet, and one each from Pissarro, Renoir, Cezanne and Degas.
+### Our list of the top 10 impressionist paintings contains three entries from Manet, three from Monet, and one each from Pissarro, Renoir, Cezanne and Degas.
 
 <p class="text-large">We have chosen paintings using three criteria: <b>(i)</b> historical importance to the impressionist movement; <b>(ii)</b> value; and <b>(iii)</b> beauty.  Paintings are arranged in chronological order.</p>
 

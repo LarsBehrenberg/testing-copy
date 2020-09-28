@@ -3,8 +3,8 @@ id: post-NTXL4qCmt
 showOnIndex: true
 path: what-is-impressionism
 date: 2020-06-05T08:56:20.813Z
-subTitle: What is
-title: Impressionism
+subTitle: Discover
+title: What Is Impressionism?
 tags: More
 cover: /assets/claude-monet-impression-sunrise.jpg
 links:

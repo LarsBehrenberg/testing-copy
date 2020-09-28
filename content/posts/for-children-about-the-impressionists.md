@@ -37,7 +37,7 @@ textSections:
       At this time, there was only one official exhibition of paintings in Paris, known as [the Salon](https://en.wikipedia.org/wiki/Salon_(Paris)). A judging panel decided which paintings were allowed to be shown and which weren’t. They rejected any artists who didn’t fit their ideas of what a painting should look like.
 
 
-      When the Impressionists started painting in their new style, the Salon judges refused to accept most of their art into their exhibition. Determined not to give up, [the Impressionists](/discover-the-impressionists) organised their own, independent exhibition to show off their work. This had a huge impact on French art as suddenly, artists were given an opportunity to paint what they wanted, not what the Salon said was good or bad. 
+      When the Impressionists started painting in their new style, the Salon judges refused to accept most of their art into their exhibition. Determined not to give up, [the Impressionists](/what-is-impressionism) organised their own, independent exhibition to show off their work. This had a huge impact on French art as suddenly, artists were given an opportunity to paint what they wanted, not what the Salon said was good or bad. 
 
 
       Impressionism changed art in the 19th and 20th century by breaking free of the rules of normal painting. They showed that painting didn’t have to be really realistic and perfect, instead it could be painted quickly, outdoors and in natural light, with lots of brushstrokes and bold colours.

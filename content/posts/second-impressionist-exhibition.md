@@ -2,7 +2,7 @@
 id: post-NQyxiWkC5
 showOnIndex: true
 path: second-impressionist-exhibition
-date: 2020-06-09T01:17:30.748Z
+date: 2020-09-17T11:54:31.852Z
 subTitle: The 1876
 title: Second Impressionist Exhibition
 tags: Exhibitions
@@ -210,6 +210,9 @@ textSections:
           Renoir, created in 1870. The work depicts a young couple on an
           excursion outside of the city, walking on a path through a woodland.
         imageUrl: /assets/second-exhibition-renoir-the-promenade.jpg
+      - imageUrl: /assets/degas-cotton-exchange-new-orleans.jpg
+        imageTitle: Edgar Degas' The Cotton Office was a controversial work displayed at
+          the second exhibition.
   - textTitle: Critics of the Second Impressionist Exhibition
     text: >-
       ### In the newspapers, the critical response to the Second Impressionist
@@ -289,7 +292,7 @@ textSections:
       Similarly, [Monet](/claude-monet-biography) set upon a new series of works in which he found a novel direction among the smoke and the trains in the railway station of St. Lazare in Paris.
 
 
-      Meanwhile, [Pissarro](camille-pissarro-biography/) became very depressed and Cézanne, worried about his friend, invited him to go and stay with him in L’Estaque where he was working on a commission for Chocquet. He encouraged Pissarro to try painting the sea in order to find a new direction for his work and provide him with some much needed inspiration.
+      Meanwhile, [Pissarro](/camille-pissarro-biography) became very depressed and Cézanne, worried about his friend, invited him to go and stay with him in L’Estaque where he was working on a commission for Chocquet. He encouraged Pissarro to try painting the sea in order to find a new direction for his work and provide him with some much needed inspiration.
 
 
       #### Money worries
@@ -325,7 +328,7 @@ textSections:
       #### The Third Exhibition
 
 
-      The [Third Impressionist Exhibition](third-impressionist-exhibition/) would open the following year, in 1877, thanks once again to the generosity of [Caillebotte](/gustave-caillebotte-biography). After the modest financial success of the Second Impressionist Exhibition, the Impressionists reserved the space in [Durand-Ruel’s](/paul-durand-ruel-biography) gallery once more. This exhibition would see Cézanne return to the group and be marked by many more rivalries and disputes as the pressures on the group mounted.
+      The [Third Impressionist Exhibition](/third-impressionist-exhibition) would open the following year, in 1877, thanks once again to the generosity of [Caillebotte](/gustave-caillebotte-biography). After the modest financial success of the Second Impressionist Exhibition, the Impressionists reserved the space in [Durand-Ruel’s](/paul-durand-ruel-biography) gallery once more. This exhibition would see Cézanne return to the group and be marked by many more rivalries and disputes as the pressures on the group mounted.
     buttonToggle: true
     sideGalleryImages:
       - imageTitle: Paul Cézanne's L'Estaque in 1883–1885. Cézanne, worried about
@@ -337,7 +340,7 @@ textSections:
       - imageTitle: One of Monet's 16 paintings of the Gare Saint-Lazare
         imageUrl: /assets/10-paintings-monet-gare-saint-lazare.jpg
 ---
-## In the spring of 1876, the Impressionists gathered for the Second Impressionist Exhibition.
+### In the spring of 1876, the Impressionists gathered for the Second Impressionist Exhibition.
 
 Though the[ First Impressionist Exhibition ](/first-impressionist-exhibition)had been widely criticised, [Auguste Renoir ](/pierre-auguste-renoir-biography)and [Claude Monet](/claude-monet-biography) were eager to organise a follow up. Gradually, the other artists joined in their enthusiasm and it was widely agreed to stage the event again.
 

@@ -5,7 +5,7 @@ path: impressionism-and-prostitution
 date: 2020-08-14T05:42:44.356Z
 subTitle: Learn About
 title: Impressionism and Prostitution
-tags: Impressionists
+tags: More
 cover: /assets/degas-absinthe-drinker.jpg
 links:
   - post-usLfIVIvG
@@ -83,7 +83,7 @@ textSections:
       Rather than having the appearance of poverty-stricken streetwalkers, another popular image, the courtesan was well-dressed and elegant. They were a particular favourite of Edouard Manet, who painted courtesans in Masked Ball at the Opera and in Nana.  
 
 
-      Indeed, Olympia -- the prostitute featured in Manet's 1865 painting of the same name -- was also probably a courtesan.  She had a maid, is lying in an expensively decorated boudoir, and is being handed flowers sent by one of her clients.  Olympia was probably the most [controversial painting](top-10-impressionist-paintings/) of the 19th century.
+      Indeed, Olympia -- the prostitute featured in Manet's 1865 painting of the same name -- was also probably a courtesan.  She had a maid, is lying in an expensively decorated boudoir, and is being handed flowers sent by one of her clients.  Olympia was probably the most [controversial painting](/top-10-impressionist-paintings) of the 19th century.
     buttonToggle: true
     sideGalleryImages:
       - imageUrl: /assets/10-paintings-manet-dejuner-sur-lherbe.jpg
@@ -273,4 +273,4 @@ The impressionists were no exception.  On occasion, they made no secret of the f
 
 In modernised Paris, female sexuality and morality was seen to be less stable and less governable than ever before and the Impressionists fed into these themes and anxieties.
 
-[Edgar Degas](edgar-degas-biography/) was the impressionist who used prostitution most in his works, including in his paintings of the Absinthe Drinker, Ballerinas, Milliners and Laundresses.  And [Edouard Manet](edouard-manet-biography/) used a prostitute as the central figure in the most shocking work of the impressionist era and indeed of the 19th Century: Olympia.  [Pierre-Auguste Renoir](pierre-auguste-renoir-biography/) was a third impressionist who used prostitution as a theme in his works.
+[Edgar Degas](/edgar-degas-biography) was the impressionist who used prostitution most in his works, including in his paintings of the Absinthe Drinker, Ballerinas, Milliners and Laundresses.  And [Edouard Manet](/edouard-manet-biography) used a prostitute as the central figure in the most shocking work of the impressionist era and indeed of the 19th Century: Olympia.  [Pierre-Auguste Renoir](/pierre-auguste-renoir-biography) was a third impressionist who used prostitution as a theme in his works.

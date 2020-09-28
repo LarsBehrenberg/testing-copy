@@ -2,7 +2,7 @@
 id: post-FYNvaI_mU
 showOnIndex: true
 path: seventh-impressionist-exhibition
-date: 2020-06-10T03:30:18.335Z
+date: 2020-09-17T04:46:01.833Z
 subTitle: The 1882
 title: Seventh Impressionist Exhibition
 tags: Exhibitions
@@ -54,7 +54,7 @@ textSections:
       #### Gaugin backs Caillebotte
 
 
-      Pissarro, who had previously gone along with Degas' demands, subsequently wrote to [Paul Gauguin](paul-gaugin-biography/) to inform him of the dilemma. 
+      Pissarro, who had previously gone along with Degas' demands, subsequently wrote to [Paul Gauguin](/paul-gauguin-biography) to inform him of the dilemma. 
 
 
       Gauguin, perhaps to Pissarro’s surprise, agreed with Caillebotte. He confessed: 
@@ -211,7 +211,7 @@ textSections:
 
       * **Monet** exhibited 35 paintings, including *Sunset on the Seine, Winter Effect*, and *Debacles*.  
 
-      * **Renoir** submitted 25 works. They included [The Luncheon of the Boating Party](top-10-impressionist-paintings/), one of Renoir's most famous and enduring works, *Two Sisters (On the Terrace)* and *Jugglers at the Cirque Fernando*. 
+      * **Renoir** submitted 25 works. They included [The Luncheon of the Boating Party](/top-10-impressionist-paintings), one of Renoir's most famous and enduring works, *Two Sisters (On the Terrace)* and *Jugglers at the Cirque Fernando*. 
 
       * **Sisley** sent 27 works, including *Saint-Mammes, Cloudy Weather*, which Pissarro described as “canvasses of a very British savouriness.” 
 
@@ -402,6 +402,6 @@ textSections:
 
 [Claude Monet](/claude-monet-biography), [Auguste Renoir](/pierre-auguste-renoir-biography) and [Alfred Sisley](/alfred-sisley-biography) all agreed to contribute artworks to the show, largely thanks to the insistence of Impressionist dealer [Paul Durand-Ruel](/paul-durand-ruel-biography). 
 
-They joined [Camille Pissarro](camille-pissarro-biography/) (who exhibited in all eight exhibitions) and [Berthe Morisot ](berthe-morisot-biography/)(who exhibited in seven).  Together, they staged an exhibition worthy of the Impressionist name, without the influence of any ‘outsiders’ introduced by [Edgar Degas](/edgar-degas-biography) (who refused to exhibit in protest). 
+They joined [Camille Pissarro](/camille-pissarro-biography) (who exhibited in all eight exhibitions) and [Berthe Morisot ](/berthe-morisot-biography)(who exhibited in seven).  Together, they staged an exhibition worthy of the Impressionist name, without the influence of any ‘outsiders’ introduced by [Edgar Degas](/edgar-degas-biography) (who refused to exhibit in protest). 
 
 The public attended in droves, the reviews were largely positive, and Durand-Ruel sold a large number of works to eager buyers.

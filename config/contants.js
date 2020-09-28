@@ -7,6 +7,8 @@ export const pinnedPosts = {
   'post-fJGAQGq0k': 6, // Camille Pissarro
   'post-UHZfRNmAH': 7, // Edouard Manet
   'post-usLfIVIvG': 8, // Edgar Degas
+  'post-JcdFACMUe': 9, // Impressionist News
+  'post-ihanCCs6U': 10, // Most Expensive Paintings
 }
 
 export const orderedCategories = {

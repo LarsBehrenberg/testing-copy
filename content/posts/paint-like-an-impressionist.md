@@ -1,6 +1,6 @@
 ---
 id: post-ZvqtcCzsI
-showOnIndex: true
+showOnIndex: false
 path: how-to-paint-like-an-impressionist
 date: 2020-06-11T01:58:48.758Z
 subTitle: How to

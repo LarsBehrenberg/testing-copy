@@ -274,9 +274,9 @@ textSections:
 Alfred Sisley:
 
 * Was born in Paris to English parents, studied in England, and retained British citizenship throughout his life.
-* Painted landscapes that are every bit as intense and beautiful as those produced by his more famous colleagues like [Claude Monet](claude-monet-biography/) and [Auguste Renoir](pierre-auguste-renoir-biography/).
+* Painted landscapes that are every bit as intense and beautiful as those produced by his more famous colleagues like [Claude Monet](/claude-monet-biography) and [Auguste Renoir](/pierre-auguste-renoir-biography).
 * Was not recognised as a great painter during his life and remains an under-appreciated member of the impressionist movement.
-* Has an [auction record](most-expensive-impressionist-paintings/) of $9,064,733, set when his *Effet de neige à Louveciennes* (1874) was sold by Sotheby's in March 2017.   
+* Has an [auction record](/most-expensive-impressionist-paintings) of $9,064,733, set when his *Effet de neige à Louveciennes* (1874) was sold by Sotheby's in March 2017.   
 
 Art scholars have attributed Sisley’s lack of fame to a range of factors: **(1)** His lack of deviation or daring led to his works falling out of favour. **(2)** Sisley was influenced by English painters, which went down badly in the French market (even though Sisley was born and spent most of his life in France).  **(3)** Art historians ignore Sisley's work because they focus on social history, which Sisley’s people-less landscapes largely ignore. 
 

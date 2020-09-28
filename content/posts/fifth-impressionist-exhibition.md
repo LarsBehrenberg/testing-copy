@@ -2,15 +2,9 @@
 id: post-ZYmBWzAUS
 showOnIndex: true
 path: fifth-impressionist-exhibition
-date: 2020-06-09T05:51:03.999Z
+date: 2020-09-17T04:48:39.747Z
 subTitle: The 1880
 title: Fifth Impressionist Exhibition
-tags: Exhibitions
-cover: /assets/fifth-exhibition-jean-francois-raffaelli.jpg
-links:
-  - post-ZhQwecaum
-  - post-8AeNSHrko
-  - post-pR18nLTkn
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/fifth-exhibition-jean-francois-raffaelli.jpg
@@ -27,6 +21,12 @@ upperGalleryImages:
     rightImageUrl: /assets/fifth-exhibition-young-girl-in-a-ball-gown-1879.jpg
     rightImageTitle: Young girl in a ball gown by Berthe Morisot in 1879
 videoUrl: ""
+tags: Exhibitions
+cover: /assets/fifth-exhibition-jean-francois-raffaelli.jpg
+links:
+  - post-ZhQwecaum
+  - post-8AeNSHrko
+  - post-pR18nLTkn
 textSections:
   - textTitle: The loss of Monet
     text: >-
@@ -58,7 +58,7 @@ textSections:
       Degas was stung by what he saw as Monet’s betrayal. 
 
 
-      He severed his ties with Monet and publicly condemned his infidelity. The loss of Monet from the Impressionist camp meant that very few of the original group remained: only Morisot, [Camille Pissarro](camille-pissarro-biography/), Degas, and Caillebotte, with the addition of Armand Guillaumin and Henri Rouart. 
+      He severed his ties with Monet and publicly condemned his infidelity. The loss of Monet from the Impressionist camp meant that very few of the original group remained: only Morisot, [Camille Pissarro](/camille-pissarro-biography), Degas, and Caillebotte, with the addition of Armand Guillaumin and Henri Rouart. 
 
 
       Pissarro, the oldest in the group, was the only individual who depended on painting for his livelihood; he made enormous financial sacrifices, living in poverty in order to maintain his loyalty to the Impressionists. Caillebotte, the youngest in the group at just 32, supported him when he could.
@@ -231,7 +231,7 @@ textSections:
       > “representing beings and things dissolved in the powdery sparkles of light, or of showing them in crude colours, without gradations, without half tones, beneath certain rays of the sun which shorten and almost suppress shadows, as in Japanese prints.” 
 
 
-      He went on to criticise the work of [Berthe Morisot](berthe-morisot-biography/) in particular.
+      He went on to criticise the work of [Berthe Morisot](/berthe-morisot-biography) in particular.
 
 
       #### More divisions

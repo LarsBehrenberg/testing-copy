@@ -34,10 +34,10 @@ textSections:
       another.
 
 
-      Some of the impressionists grew up in Paris.  They included [Edouard Manet ](edouard-manet-biography/)and [Edgar Degas ](edgar-degas-biography/)(who had both lived in Paris from birth) and [Pierre-Auguste Renoir](pierre-auguste-renoir-biography/) (who had moved with his family when he was just three).
+      Some of the impressionists grew up in Paris.  They included [Edouard Manet ](/edouard-manet-biography)and [Edgar Degas ](/edgar-degas-biography)(who had both lived in Paris from birth) and [Pierre-Auguste Renoir](/pierre-auguste-renoir-biography) (who had moved with his family when he was just three).
 
 
-      The others converged on Paris from other parts of the country and indeed further afield.  [Claude Monet](claude-monet-biography/) was born in Paris but moved to Normandy when a young child.  His artistic ability was evident from a young age-he earned good money sketching caricatures. [Paul Cezanne](paul-cezanne-biography/) was born and brought up in Southern France; and [Camille Pissarro](camille-pissarro-biography/) was born on the Island of St Thomas, where he had returned after attending a boarding school outside Paris.
+      The others converged on Paris from other parts of the country and indeed further afield.  [Claude Monet](/claude-monet-biography) was born in Paris but moved to Normandy when a young child.  His artistic ability was evident from a young age-he earned good money sketching caricatures. [Paul Cezanne](/paul-cezanne-biography) was born and brought up in Southern France; and [Camille Pissarro](/camille-pissarro-biography) was born on the Island of St Thomas, where he had returned after attending a boarding school outside Paris.
 
 
       #### Painting lessons
@@ -73,7 +73,7 @@ textSections:
       It was their rough treatment at the hands of the Academy that led the impressionists to first moot the idea of holding an independent exhibition in the 1860s.  But lack of funds, a hope that things would improve and then the 1870-71 Franco-Prussian war meant that these plans were put on hold.
 
 
-      It was not until 1874 that the [first impressionist exhibition](first-impressionist-exhibition/) was held.  All of the key impressionists exhibited with the exception of Manet (he decided to keep taking on the Academy by submitting works to its annual Salon).   
+      It was not until 1874 that the [first impressionist exhibition](/first-impressionist-exhibition) was held.  All of the key impressionists exhibited with the exception of Manet (he decided to keep taking on the Academy by submitting works to its annual Salon).   
 
 
       In total, 165 works from 30 artists were displayed.  And about 3,000 people attended the exhibition over the course of a month, paying a franc each to gain entry.  
@@ -110,10 +110,10 @@ textSections:
       #### The Seventh Exhibition in 1882
 
 
-      The [penultimate impressionist exhibition](seventh-impressionist-exhibition/) was held in 1882.  Though by this stage Cezanne had long-since stopped exhibiting with the others, and Degas also missed this year, the exhibition included works by Monet, Pissarro, Renoir and other impressionists such as [Gustave Caillebotte](gustave-caillebotte-biography/) and [Berthe Morisot](berthe-morisot-biography/).
+      The [penultimate impressionist exhibition](/seventh-impressionist-exhibition) was held in 1882.  Though by this stage Cezanne had long-since stopped exhibiting with the others, and Degas also missed this year, the exhibition included works by Monet, Pissarro, Renoir and other impressionists such as [Gustave Caillebotte](/gustave-caillebotte-biography) and [Berthe Morisot](/berthe-morisot-biography).
 
 
-      The Seventh Exhibition was a divisive affair, with Degas refusing to contribute because his desire to include non-impressionists in the exhibition had been ignored.  On the other hand, the exhibition received a number of positive reviews and achieved a large number of sales (largely through the efforts of the impressionists' main dealer at this time [Paul Durand-Ruel](paul-durand-ruel-biography/)).
+      The Seventh Exhibition was a divisive affair, with Degas refusing to contribute because his desire to include non-impressionists in the exhibition had been ignored.  On the other hand, the exhibition received a number of positive reviews and achieved a large number of sales (largely through the efforts of the impressionists' main dealer at this time [Paul Durand-Ruel](/paul-durand-ruel-biography)).
 
 
       So, whilst the Seventh Exhibition showed that there were cracks within the impressionist group, it also demonstrates that the impressionist period had not come to an end.
@@ -146,7 +146,7 @@ textSections:
       Manet had died three years earlier; Cezanne had not exhibited since he received particularly cruel reviews following the third exhibition; and Monet and Renoir decided not to be involved without the support of Durard-Ruel, who was busy preparing for an overseas exhibition.
 
 
-      On the other hand, Mary Cassatt and Berthe Morisot exhibited along with pointillists [Georges Seurat](georges-seurat-biography/) and [Paul Signac](paul-signac-biography/).
+      On the other hand, Mary Cassatt and Berthe Morisot exhibited along with pointillists [Georges Seurat](/georges-seurat-biography) and [Paul Signac](/paul-signac-biography).
 
 
       On balance, the involvement of Degas, Pissarro, Cassatt and Morisot convinces us that the impressionist era continued until 1886 but no further.  
@@ -161,7 +161,7 @@ textSections:
       The genres that follow impressionism are called post-impressionism and expressionism.  To be honest, it is often hard to distinguish between the two.  
 
 
-      **Post-impressionism** has two main differences from impressionism.  First, painters like [Vincent van Gogh](vincent-van-gogh-biography/) used even broader brush strokes (as can be seen in many of van Gogh's works).  Secondly, painters like van Gogh and Cezanne stopped trying to depict the scene in front of them -- they often painted things that were not there or structured their compositions.  Van Gogh's [Starry Night](top-10-impressionist-paintings/#8), Wheatfield with Cypresses and [Cezanne's The Bathers](paul-cezanne-biography/#5) are good examples.  
+      **Post-impressionism** has two main differences from impressionism.  First, painters like [Vincent van Gogh](/van-gogh-biography) used even broader brush strokes (as can be seen in many of van Gogh's works).  Secondly, painters like van Gogh and Cezanne stopped trying to depict the scene in front of them -- they often painted things that were not there or structured their compositions.  Van Gogh's [Starry Night](/top-10-impressionist-paintings#8), Wheatfield with Cypresses and [Cezanne's The Bathers](/paul-cezanne-biography#5) are good examples.  
 
 
       **Expressionism** started in the early 20th century in Germany.  Here the artists is not concerned by representing the physical reality in front of him.  Instead, he seeks to convey his subjective emotions.  Edvard Munch's [The Scream](https://en.wikipedia.org/wiki/The_Scream) is probably the most famous example.

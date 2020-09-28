@@ -49,7 +49,7 @@ textSections:
       #### Manet's Woman Reading
 
 
-      [Edouard Manet’s](edouard-manet-biography/) Impressionist painting **Woman Reading** from 1880-81 depicts a woman seated in a café, reading a magazine. Whilst the work was painted in Manet’s studio - the painting behind the woman is one of his own - it demonstrates the prevalence and acceptance of women in cafés. 
+      [Edouard Manet’s](/edouard-manet-biography) Impressionist painting **Woman Reading** from 1880-81 depicts a woman seated in a café, reading a magazine. Whilst the work was painted in Manet’s studio - the painting behind the woman is one of his own - it demonstrates the prevalence and acceptance of women in cafés. 
 
 
       #### Classes of Cafe
@@ -153,7 +153,7 @@ textSections:
       Baron Haussman’s redesign of Paris introduced wide boulevards that cut across the city and these lighter, straighter streets provided an ideal location for tables and chairs to be placed outside. As a result, outdoor seating offered even more chance to sit and observe life as it passed by. 
 
 
-      [Edgar Degas](edgar-degas-biography/)’ painting ‘Femmes à la Terrasse d'un café’ from 1877 features a group of prostitutes seated outside a café on the boulevard Montmarte. Haussmann’s expansion of gaslighting throughout much of Paris meant that patrons could continue to sit outside even late into the night.
+      [Edgar Degas](/edgar-degas-biography)’ painting ‘Femmes à la Terrasse d'un café’ from 1877 features a group of prostitutes seated outside a café on the boulevard Montmarte. Haussmann’s expansion of gaslighting throughout much of Paris meant that patrons could continue to sit outside even late into the night.
     buttonToggle: true
     sideGalleryImages:
       - imageUrl: /assets/manet-at-cafe-guerbois.jpg
@@ -183,10 +183,10 @@ textSections:
       #### Absinthe
 
 
-      Closely tied with the café culture in Paris during the 19th century was the consumption of absinthe. Manet, [Paul Gauguin](paul-gaugin-biography/) and Degas would frequently drink absinthe and it became a feature of their work as well. 
+      Closely tied with the café culture in Paris during the 19th century was the consumption of absinthe. Manet, [Paul Gauguin](/paul-gauguin-biography) and Degas would frequently drink absinthe and it became a feature of their work as well. 
 
 
-      Henri Toulouse-Lautrec and [Vincent van Gogh](van-gogh-biography/) were among the artists most heavily affected by alcoholism, with Van Gogh being the most notorious. A still life from 1886 depicts a table, presumably in front of where he was seated, with a glass of absinthe and a water decanter. This early work was painted in the pastel colours of the Impressionist style.
+      Henri Toulouse-Lautrec and [Vincent van Gogh](/van-gogh-biography) were among the artists most heavily affected by alcoholism, with Van Gogh being the most notorious. A still life from 1886 depicts a table, presumably in front of where he was seated, with a glass of absinthe and a water decanter. This early work was painted in the pastel colours of the Impressionist style.
 
 
       Manet’s ‘The Absinthe Drinker’ from 1859 and Degas’ ‘L’Absinthe’ from 1875 are two of the most famous depictions of the pervasiveness of the drink during this period. ‘L’Absinthe’ was painted as the interior of La Nouvelle Athènes, though it was created in a studio. Degas drew on Japanese prints as inspiration for the off-centre framing and empty spaces seen in the work. 

@@ -130,8 +130,6 @@ textSections:
       > “both supple and firm. Softly it drags, it is alive, it tells us quite clearly something about the woman”.
 
 
-
-
       The critic of La Lune (The Moon) said:
 
 
@@ -139,8 +137,6 @@ textSections:
 
 
       This probably irked Manet. But it was a compliment. He had given the other impressionists the confidence to paint in their own way and not conform with what the conservative Academy des Beaux-Arts expected.
-
-
 
 
       #### And failures ...
@@ -165,6 +161,9 @@ textSections:
 
 
       In 1869 (there was no Salon in 1868), both of Monet’s entries—the Magpie and a seascape—were rejected. So too were his entries for 1870.
+
+
+      ![Monet's The Magpie is now regarded as his finest snowscape](/assets/claude-monet-the-magpie.jpg "Monet's The Magpie is now regarded as his finest snowscape")
 
 
       #### Money problems
@@ -226,7 +225,7 @@ textSections:
       #### The first impressionist exhibition
 
 
-      The [first impressionist exhibitions](first-impressionist-exhibition/) was held in 1874 at the studio of the photographer known as Nadar on the Rue du Capucines. The lead-up to the exhibition saw wrangling amongst the artists about the articles of association for a company formed for the occasion called the Anonymous Society of Painters, Sculptors and Engravers etc.
+      The [first impressionist exhibition](/first-impressionist-exhibition) was held in 1874 at the studio of the photographer known as Nadar on the Rue du Capucines. The lead-up to the exhibition saw wrangling amongst the artists about the articles of association for a company formed for the occasion called the Anonymous Society of Painters, Sculptors and Engravers etc.
 
 
       Once the company was incorporated the exhibition came together. Thirty painters exhibited 165 works in all. The leading contributors were Monet, Renoir, Pissarro, [Degas](/edgar-degas-biography) and Berthe Morisot (Manet helped behind the scenes but refused to exhibit, focussing on the Salon).
@@ -253,10 +252,13 @@ textSections:
       #### The second exhibition
 
 
-      The [second impressionist exhibition](second-impressionist-exhibition/), held two years later, did little to improve matters. Durand-Ruel lent the group his gallery on the Rue Le Pelletier.
+      The [second impressionist exhibition](/second-impressionist-exhibition), held two years later, did little to improve matters. Durand-Ruel lent the group his gallery on the Rue Le Pelletier.
 
 
-      [Gustave Caillebotte](/gustave-caillebotte-biography) largely funded the exhibition and took over much of the organisation (much to Degas’ irritation). Manet again refused to be involved. And Caillebotte’s *The Floor Strippers* stole the show.
+      [Gustave Caillebotte](/gustave-caillebotte-biography) largely funded the exhibition and took over much of the organisation (much to Degas’ irritation). Manet again refused to be involved. And Caillebotte’s *The Floor Planers* stole the show.
+
+
+      ![Caillebotte's The Floor Planers](/assets/gustave-caillebotte-the-floor-planers.jpg "Caillebotte's The Floor Planers")
 
 
       Monet has some success too. His colourful *Japanese Girl*s old for 2,000 francs. And the press was not all bad. Henry James wrote a positive article in the New York Tribune. But Woolf again was implacably opposed to the movement. He wrote:
@@ -293,7 +295,10 @@ textSections:
       Monet’s father had died in 1871 and he sold a number of paintings at the start of the decade for good prices.
 
 
-      But Monet was a spendthrift. The rented house that Manet found for him in Argenteuil following his return from London did not come cheap. And Monet engaged household staff, gardeners and bought the latest luxuries (an expensive imported tea set can be seen in *The Luncheon* (1873)).
+      But Monet was a spendthrift. The rented house that Manet found for him in Argenteuil following his return from London did not come cheap. And Monet engaged household staff, gardeners and bought the latest luxuries (an expensive  tea set, bag and linen can be seen in *The Luncheon* (1873)).
+
+
+      ![Claude Monet's The Luncheon (1873)](/assets/claude-monet-the-luncheon.jpg " Claude Monet's The Luncheon (1873)")
 
 
       Realising that he had to economise, Monet moved first to a smaller rented house in Argenteuil and then to a modest home in Vetheuil in 1878.
@@ -302,7 +307,7 @@ textSections:
       #### Begging letters
 
 
-      This period is characterised by Monet sending letters to [Paul Durand-Ruel](paul-durand-ruel-biography/), Caillebotte, Manet and others begging for handouts. Sometimes he asked for as little as 20 francs.
+      This period is characterised by Monet sending letters to [Paul Durand-Ruel](/paul-durand-ruel-biography), Caillebotte, Manet and others begging for handouts. Sometimes he asked for as little as 20 francs.
 
 
       A typical letter, sent to Manet in 1876, is as follows:
@@ -403,7 +408,7 @@ textSections:
       </div>
 
 
-      Monet gradually won the locals over. He purchased the Giverny house in 1889, bought a field at the bottom of the garden in 1891 and set about turning it into a water garden. Soon Monet was employing a number of gardeners to tend to his personal Eden.
+      Monet gradually won the locals over. He purchased the [Giverny house in 1889](/claude-monet-and-giverny), bought a field at the bottom of the garden in 1891 and set about turning it into a water garden. Soon Monet was employing a number of gardeners to tend to his personal Eden.
 
 
       #### The Water Lily series
@@ -414,7 +419,7 @@ textSections:
 
       * First, there is the diverse subject matter: there are works of whole ponds, of the Japanese bridge, of ponds and adjacent gardens, and extreme close-ups of only a few water lilies (or Nympheas)
 
-      * Second, there is the range of colours: greens, blues, yellows and aquamarines gave way to a far redder palette when [Monet's eyesight deteriorated ](did-claude-monet-go-blind-from-cataracts/)in the 1910s as he developed cataracts.
+      * Second, there is the range of colours: greens, blues, yellows and aquamarines gave way to a far redder palette when [Monet's eyesight deteriorated](/did-claude-monet-go-blind-from-cataracts) in the 1910s as he developed cataracts.
 
       * Third, there is the range of size. The early works were typically a metre square (or thereabouts), but later on Monet produced huge canvasses (largely to donate to the French nation) which often measures 6 by 2 metres.
 
@@ -533,7 +538,10 @@ textSections:
   - textTitle: Legacy and resources
     text: >-
       ### Monet is rightly regarded as the greatest impressionist painter, for a
-      number of reasons:
+      number of reasons.
+
+
+      #### Monet's key qualities
 
 
       **Industry**: Monet's productive period spanned about six decades. Over that time, he produced some 2,500 works (the true figure is probably higher as he destroyed a number that he deemed substandard). His output was usually of landscapes, though Monet knew how to produce a good portrait as well (we mention *Woman in the Green Dress* and *Camille on her Deathbed* above)
@@ -545,7 +553,35 @@ textSections:
       **Popularity**: Today, Monet exhibitions are big ticket or blockbuster events. And Monet works do exceptionally well at auction. Of the [20 most expensive](/most-expensive-impressionist-paintings) impressionist paintings, eleven are by Monet (the others are by Cezanne, Renoir and Manet). The most expensive Monet to go under the hammer is *Le Bassin aux Nymphéas*, sold by Christie's London in 2008 for £40.9 million (giving it an inflation-adjusted price of $113.2 million).
 
 
-      **Involvement**: Though it might be argued that Manet was the first to take on the conservative art establishment, Monet was heavily involved in the impressionist movement. For instance, he exhibited at and played a large role in the organisation of the first two independent impressionist exhibitions. He also produced the painting, Impression Sunrise, that got the impressionists their name
+      **Involvement**: Though Manet was the first to take on the conservative art establishment, Monet was heavily involved in the impressionist movement. For instance, he exhibited at and played a large role in the organisation of the first two independent impressionist exhibitions. He also produced the painting, Impression Sunrise, that got the impressionists their name
+
+
+      #### Monet's Top 10 Paintings
+
+
+      Our selection of Monet's Top 10 Paintings is as follows:
+
+
+      1. The Woman in the Green Dress (1866)
+
+      2.  The Magpie (1869)
+
+      3.  The Frogpond (1869)
+
+      4.  Impression Sunrise (1874)
+
+      5. Gare St-Lazare (1877)
+
+      6. Bordighera (1883)
+
+      7.  Haystacks (1889-1892)
+
+      8.  Rouen Cathedral (1892-3)
+
+      9.  Houses of Parliament (1899-1900)
+
+      10. Water Lilies (1889 onwards)
+
 
 
       #### Resources
@@ -557,16 +593,23 @@ textSections:
           repeatedly returned to London to paint versions of both this subject
           and Westminster bridge.
         imageUrl: /assets/claude-monet-houses-of-parliament.jpg
+      - imageUrl: /assets/claude-monet-bordighera.jpg
+        imageTitle: Claude Monet's Bordighera (1883)
+      - imageUrl: /assets/monet-in-front-of-his-water-lily-pond.jpg
+        imageTitle: Claude Monet in front of his beloved water lilies in the early 20th
+          century
     buttonToggle: true
 ---
-## Claude Monet is probably the most famous impressionist today. 
+### Claude Monet (1840-1926) was one of the leaders of the impressionist movement and is the most famous impressionist today.
 
-If you asked a man on the street to name an impressionist painting he would probably reply “water lilies”.
+Monet: 
 
-Unlike Edouard Manet who died young, Monet lived to the age of 86. That meant he lived to enjoy acclaim and the financial success of his works.
+* Is best known for his paintings of Water Lilies, Haystacks (or Wheatstacks), Poplars, the Houses of Parliament, Rouen Cathedral and Venice.
+* Lived to the age of 86. This meant that, unlike fellow impressionist [Edouard Manet](/edouard-manet-biography), he lived to enjoy acclaim and the financial success of his works.
+* Now sells for tens of millions of dollars (for example, a version of Haystacks sold in May 2019 for $110.7 million).   Monet's works dominate our list of the [most expensive](/most-expensive-impressionist-paintings) impressionist paintings.
 
 But the road to recognition was anything but smooth: Monet was often rejected by the conservative [art establishment](/claude-monet-biography#2 "Monet's early years"); his [Impression Sunrise](/claude-monet-biography#3 "The impressionist exhibitions") was mocked when the impressionists first exhibited together in 1874; he often lived from hand to mouth and frequently had to beg his friends and supporters for money; his first wife, [Camille Doncieux](/claude-monet-biography#4 "Camille Doncieux"), died aged 32, leaving him with two young sons to care for; he almost died when he was swept into the sea trying to finish a painting; and he once even tried to commit suicide.
 
 Thank goodness he did not succeed. Monet may have been the best painter of light—perhaps the best painter—the world has ever seen: he produced sparkling seascapes, [modern scenes](/claude-monet-biography#4) (such as the Gare Saint-Lazare) and pictures of the Seine and Venice; he produced glimmering [water lilies](/claude-monet-biography#5 "Monet's water lilies"); and he produced collections of the same subject at different times of day—including [Haystacks](/claude-monet-biography#7), Poplars, [Rouen Cathedral](/claude-monet-biography#7), and the Houses of Parliament.
 
-Monet's art now sells for tens of millions of dollars (for example, a version of Haystacks sold in May 2019 for $110.7 million). He is rightly regarded as the greatest of the impressionists.
+ He is rightly regarded as the greatest of the impressionists.

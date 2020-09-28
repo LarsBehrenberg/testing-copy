@@ -2,7 +2,7 @@
 id: post-5QVO_CFYK
 showOnIndex: true
 path: eighth-impressionist-exhibition
-date: 2020-06-10T05:59:34.698Z
+date: 2020-09-17T04:45:39.716Z
 subTitle: The 1886
 title: Eighth & Final Impressionist Exhibition
 tags: Exhibitions
@@ -282,7 +282,7 @@ textSections:
       As well as a large number of paintings by Monet, Pissarro, Renoir, Manet, Morisot, Sisley and Degas, Pissarro had also been successful in convincing Durand-Ruel to take some pre-Pointillist works from Signac and Seurat with him too. Durand-Ruel’s grand American exhibition was announced as ‘Works in Oil and Pasel by the Impressionists of Paris’.
 
 
-      His return to Paris, shortly after the closing of the Eighth Impressionist Exhibition, was met with great speculation. In fact, Durand-Ruel was able to report that America promised a bright future for the [Impressionists](/discover-the-impressionists). 
+      His return to Paris, shortly after the closing of the Eighth Impressionist Exhibition, was met with great speculation. In fact, Durand-Ruel was able to report that America promised a bright future for the [Impressionists](/what-is-impressionism). 
 
 
       His exhibition had been far more successful than he had dared hope and he wrote to [Henri Fantin](https://en.wikipedia.org/wiki/Henri_Fantin-Latour): 

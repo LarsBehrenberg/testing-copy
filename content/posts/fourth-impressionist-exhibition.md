@@ -2,7 +2,7 @@
 id: post-8AeNSHrko
 showOnIndex: true
 path: fourth-impressionist-exhibition
-date: 2020-06-09T04:52:21.205Z
+date: 2020-09-17T11:17:21.664Z
 subTitle: The 1879
 title: Fourth Impressionist Exhibition
 tags: Exhibitions
@@ -27,10 +27,9 @@ upperGalleryImages:
       Charpentier and Her Children’ (1878) to the Salon and made the difficult
       decision to privilege the official exhibition over the Impressionists.
   rightImage:
-    rightImageUrl: /assets/fourth-exhibition-cassatt-woman-bathing.jpg
-    rightImageTitle: Woman Bathing (La Toilette) by Mary Cassatt, 1890-1, is a
-      drypoint and aquatint print. A technique she developed in her later
-      career.
+    rightImageUrl: /assets/mary-cassatt-woman-with-pearl-necklace.jpg
+    rightImageTitle: Mary Cassatt's Woman with Pearl Nacklace has a luminous quality
+      that reminds one of Renoir.
 textSections:
   - textTitle: "The Background to Exhibition #4"
     text: >-
@@ -71,7 +70,7 @@ textSections:
       #### Alfred Sisley
 
 
-      Caught in the same dilemma, [Alfred Sisley](alfred-sisley-biography/) also began to retreat from the group. 
+      Caught in the same dilemma, [Alfred Sisley](/alfred-sisley-biography) also began to retreat from the group. 
 
 
       He had begun painting landscapes around Marly but was in dire financial difficulty. Several times he was forced to move to smaller lodgings in ever cheaper locations in order to continue to afford his rent payments. In this perpetual state of instability, he quickly became depressed. 
@@ -89,7 +88,7 @@ textSections:
       #### Paul Cezanne
 
 
-      Meanwhile, disillusioned with the state of the Impressionist movement, [Paul Cézanne ](paul-cezanne-biography/)left Paris. He was horrified by Monet and Renoir’s disloyalty to the group and he shut himself away, withdrawing once more to Provence. 
+      Meanwhile, disillusioned with the state of the Impressionist movement, [Paul Cézanne ](/paul-cezanne-biography)left Paris. He was horrified by Monet and Renoir’s disloyalty to the group and he shut himself away, withdrawing once more to Provence. 
 
 
       Despite his geographical distance, Cézanne did maintain close ties with Pissarro, his original teacher and mentor, but he did not exhibit with the group again.
@@ -356,7 +355,7 @@ textSections:
         imageTitle: Under the Horse Chestnut Tree by Mary Cassatt, 1898, is another
           drypoint and aquatint print
 ---
-## Marked by divisions and desertions within the group, the Fourth Impressionist Exhibition was held from April to May in 1879.
+### Marked by divisions and desertions within the group, the Fourth Impressionist Exhibition was held from April to May in 1879.
 
 There were notable absences from the exhibition catalogue, including [Auguste Renoir](/pierre-auguste-renoir-biography) and [Alfred Sisley](/alfred-sisley-biography). On the other hand, this exhibition saw the grand arrival of [Mary Cassatt](/mary-cassatt-biography) into the Impressionists’ circle, with a range of paintings that impressed viewers and critics alike. 
 

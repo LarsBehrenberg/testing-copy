@@ -41,7 +41,7 @@ textSections:
       Berthe was one of four children - three girls and a boy.  Her parents firmly supported her artistic ambitions and built Berthe and her sister Edma a studio in the garden of their family home.  
 
 
-      This support is in stark contrast to the parents of Edouard Manet and [Paul Cezanne](paul-cezanne-biography/), who discouraged their children's artistic ambitions.  
+      This support is in stark contrast to the parents of Edouard Manet and [Paul Cezanne](/paul-cezanne-biograph, who discouraged their children's artistic ambitions.  
 
 
       #### Morisot's mother
@@ -177,7 +177,7 @@ textSections:
       #### The Second Exhibition
 
 
-      The [second impressionist exhibition](second-impressionist-exhibition/) of 1876 featured far fewer artists, with only 20 exhibiting, but a larger number of works at 252 pieces.  They included the striking *Hanging the Laundry out to Dry* (pictured).
+      The [second impressionist exhibition](/second-impressionist-exhibition) of 1876 featured far fewer artists, with only 20 exhibiting, but a larger number of works at 252 pieces.  They included the striking *Hanging the Laundry out to Dry* (pictured).
 
 
       One scathing critic described the show as
@@ -203,10 +203,10 @@ textSections:
       #### More Misogyny?
 
 
-      Morisot's name was omitted from the publicity posters for the [fifth exhibition](fifth-impressionist-exhibition/) in 1880. [Degas](/edgar-degas-biography) stated that this was ‘Idiotic’ as all 16 of the male contributors were listed. Marie Braquemond and [Mary Cassatt](/mary-cassatt-biography), the two other female painters in the exhibition, were also missing from the poster.
+      Morisot's name was omitted from the publicity posters for the [fifth exhibition](/fifth-impressionist-exhibition) in 1880. [Degas](/edgar-degas-biography) stated that this was ‘Idiotic’ as all 16 of the male contributors were listed. Marie Braquemond and [Mary Cassatt](/mary-cassatt-biography), the two other female painters in the exhibition, were also missing from the poster.
 
 
-      The [final Impressionist exhibition](eighth-impressionist-exhibition/) in 1886 was organised almost entirely by Morisot. Unfortunately, her influence is rarely recognised. 
+      The [final Impressionist exhibition](/eighth-impressionist-exhibition) in 1886 was organised almost entirely by Morisot. Unfortunately, her influence is rarely recognised. 
 
 
       An earlier quote from [Manet](/edouard-manet-biography) is especially revealing:
@@ -360,7 +360,7 @@ textSections:
       A 2012 solo exhibition of her work in Paris at the [Musée Marmottan Monet](https://en.wikipedia.org/wiki/Mus%C3%A9e_Marmottan_Monet) was the first in more than 50 years.
 
 
-      Morisot now features at number 38 on the list of the [most expensive impressionist paintings](most-expensive-impressionist-paintings/): her *In the Country (After Lunch)* sold for £6,985,250 in July 2013, giving it an adjusted price of over $13 million.
+      Morisot now features at number 38 on the list of the [most expensive impressionist paintings](/most-expensive-impressionist-paintings): her *In the Country (After Lunch)* sold for £6,985,250 in July 2013, giving it an adjusted price of over $13 million.
 
 
       #### Feminist Scholars
@@ -394,8 +394,8 @@ textSections:
 
 Morisot:
 
-* Participated in seven of the eight impressionist exhibitions, second only to [Camille Pissarro](camille-pissaro-biography/) (who participated in all eight).
-* Formed a very close relationship with [Edouard Manet](edouard-manet-biography/) in the late 1860s/early 1870s, with the two helping to develop each other's artistic styles.
+* Participated in seven of the eight impressionist exhibitions, second only to [Camille Pissarro](/camille-pissarro-biography) (who participated in all eight).
+* Formed a very close relationship with [Edouard Manet](/edouard-manet-biography) in the late 1860s/early 1870s, with the two helping to develop each other's artistic styles.
 * Is best known for her works of [domestic subjects](#3), in particular *In the Cradle, The Psyche Mirror*, and *Young Girl in a Ball Gown*. 
 * Pushed the boundaries of impressionism with [her later works](#4), including the remarkably daring *Nude Reclining Shepherdess*.
 * [Died suddenly ](#5)at the age of 54, shortly after her husband (Eugene Manet, Edouard's brother), leaving a young daughter (Julie, who kept a diary which provides huge insight into the lives of the impressionists behind closed doors).  

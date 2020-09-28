@@ -5,7 +5,7 @@ path: was-edouard-manet-an-impressionist
 date: 2020-09-06T14:21:19.880Z
 subTitle: Discover
 title: Was Edouard Manet an Impressionist?
-tags: Impressionists
+tags: More
 cover: /assets/edouard-manet-seine-at-argenteuil-1874.jpg
 links:
   - post-UHZfRNmAH
@@ -89,7 +89,7 @@ textSections:
       ![Edouard Manet's Luncheon on the Grass](/assets/10-paintings-manet-dejuner-sur-lherbe.jpg "Edouard Manet's Luncheon on the Grass")
 
 
-      This work was breaking boundaries before the Impressionists had begun to paint in their unique style. In fact, the artists of the Impressionist movement, including [Camille Pissarro](camille-pissarro-biography), [Claude Monet](claude-monet-biography), [Auguste Renoir](pierre-auguste-renoir-biography) and [Alfred Sisley](alfred-sisley-biography), were so amazed by Manet’s work that they went to see it themselves.
+      This work was breaking boundaries before the Impressionists had begun to paint in their unique style. In fact, the artists of the Impressionist movement, including [Camille Pissarro](/camille-pissarro-biography), [Claude Monet](/claude-monet-biography), [Auguste Renoir](/pierre-auguste-renoir-biography) and [Alfred Sisley](/alfred-sisley-biography), were so amazed by Manet’s work that they went to see it themselves.
 
 
       This controversial artist, who was not afraid of being extremely bold in his contemporary subject matter, became a huge source of inspiration for the young Impressionists. Manet gave them something to aim towards, an example of the modern paintings that they longed to produce. 
@@ -128,7 +128,7 @@ textSections:
       ![Berthe Morisot with a Bouquet of Violets (1872)](/assets/edouard-manet-berthe-morisot-boquet-of-violets.jpg "Berthe Morisot with a Bouquet of Violets (1872)")
 
 
-      It is possible that this painting was made to convince [Morisot](berthe-morisot-biography) of the value of black as her work during this period was becoming ever lighter and more Impressionistic. It may also have been simply an attempt to capture the “Spanish beauty” of his brother’s fiancé. 
+      It is possible that this painting was made to convince [Morisot](/berthe-morisot-biography) of the value of black as her work during this period was becoming ever lighter and more Impressionistic. It may also have been simply an attempt to capture the “Spanish beauty” of his brother’s fiancé. 
 
 
       Many of his Manet’s contemporaries praised the painting as being one of his masterpieces. Paul Valery, writing in 1932, agreed: 
@@ -140,7 +140,7 @@ textSections:
       #### 3.  The Impressionist Exhibitions
 
 
-      Another significant boundary between Manet and the other Impressionist artists was his refusal to take part in any of the [independent impressionist exhibitions](first-impressionist-exhibition). Manet did not wish to be associated with the Impressionist movement, preferring to be seen as an independent artist. 
+      Another significant boundary between Manet and the other Impressionist artists was his refusal to take part in any of the [independent impressionist exhibitions](/first-impressionist-exhibition). Manet did not wish to be associated with the Impressionist movement, preferring to be seen as an independent artist. 
 
 
       Despite his close ties with many of the artists, he did not support their aims of breaking free from the Salon and the mainstream art establishment.
@@ -169,7 +169,7 @@ textSections:
       The young artists wanted to break away from the rigid restrictions of academic painting and paint real life in a raw, more immediate way. As the more famous member of the group, Manet became the unofficial head. He cultivated a group of eager artists, pushing for innovation and experimentation in their work.
 
 
-      Manet also fostered close relationships with [Edgar Degas](edgar-degas-biography) and [Berthe Morisot](berthe-morisot-biography). These collaborations were extremely significant for Manet. Both artists inspired Manet’s artistic development and in turn, he influenced theirs.
+      Manet also fostered close relationships with [Edgar Degas](/edgar-degas-biography) and [Berthe Morisot](/berthe-morisot-biography). These collaborations were extremely significant for Manet. Both artists inspired Manet’s artistic development and in turn, he influenced theirs.
 
 
       Manet's unofficial leadership can be seen by this 1870 painting by Henri Fantin-Latour called Un Atelier aux Batignolles (A Studio in the Batignolles).  It shows Manet painting with Renoir, Bazille and Monet looking on.  
@@ -220,7 +220,7 @@ textSections:
       He helped to push the Impressionist movement forward, encouraging many of the artists and Morisot in particular. Manet also doled out money to the impressionists, in particular Claude Monet, when they were in dire financial straits.  
 
 
-      Furthermore, Manet was one of the core members of a group of artists, writers and intellectuals who frequented [Parisian cafes](montmartre-and-impressionism) to debate art, politics and life.  This was another way in which the impressionist group's relationship was solidified.  
+      Furthermore, Manet was one of the core members of a group of artists, writers and intellectuals who frequented [Parisian cafes](/montmartre-and-impressionism) to debate art, politics and life.  This was another way in which the impressionist group's relationship was solidified.  
 
 
       At the same time, Manet helped the Impressionists to gain a reputation for themselves, partly thanks to his controversial paintings and reputation in Parisian society.
