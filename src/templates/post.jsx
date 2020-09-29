@@ -3,10 +3,16 @@
 /* eslint-disable no-undef */
 import React, { useEffect } from 'react'
 import { graphql } from 'gatsby'
-import { SEO, TextSection, Header, Suggestion, Video, Lightbox } from 'components'
+import {
+  SEO,
+  TextSection,
+  Header,
+  Suggestion,
+  Video,
+  Lightbox,
+} from 'components'
 import { Newsletter, Layout } from 'layouts'
 import { Helmet } from 'react-helmet'
-import Img from 'gatsby-image'
 
 let slideIndex = 1
 
@@ -172,13 +178,13 @@ const Post = ({ data, pageContext }) => {
           pathname={path}
           article
         />
-        {/* This is the upprGallery & sideBar */}
+        {/* This is the upperGallery & SideMenu */}
         <Header
           title={title}
           subTitleText={subTitle}
           intro={html}
           bodyTitles={fields.bodyTitle}
-          images={upperGalleryImages}
+          upperGallery={upperGalleryImages}
           showGallery={showSlides}
           openGallery={openModal}
           sideLinks={data.allMarkdownRemark.nodes}
@@ -212,7 +218,11 @@ const Post = ({ data, pageContext }) => {
         <Newsletter />
       </Layout>
       {/* Lightbox showing when opening images */}
-      <Lightbox closeModal={closeModal}  upperGalleryImages={upperGalleryImages} textSections={textSections}  />
+      <Lightbox
+        closeModal={closeModal}
+        upperGalleryImages={upperGalleryImages}
+        textSections={textSections}
+      />
     </>
   )
 }
