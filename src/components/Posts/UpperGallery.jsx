@@ -17,7 +17,7 @@ const UpperGallery = ({
               showGallery(1)
             }}
           >
-            <span className="ttde-gallery-url" data-index="0">
+            <span className="ttde-gallery-url">
               <Img
                 fluid={topImage.topImageUrl.expandedImage.fluid}
                 alt={topImage.topImageTitle}
@@ -30,10 +30,7 @@ const UpperGallery = ({
           </figure>
         </div>
         <div className="ttde-gallery-bottom">
-          <div
-            className="ttde-gallery-col ttde-gallery-col-1 ttdegalleryitem"
-            data-pswp-uid="1"
-          >
+          <div className="ttde-gallery-col ttde-gallery-col-1 ttdegalleryitem">
             <figure
               className="ttde-gallery-col-inner"
               onClick={() => {
@@ -53,10 +50,7 @@ const UpperGallery = ({
               </span>
             </figure>
           </div>
-          <div
-            className="ttde-gallery-col ttde-gallery-col-2 ttdegalleryitem"
-            data-pswp-uid="1"
-          >
+          <div className="ttde-gallery-col ttde-gallery-col-2 ttdegalleryitem">
             <figure
               className="ttde-gallery-col-inner"
               onClick={() => {
@@ -76,10 +70,7 @@ const UpperGallery = ({
               </span>
             </figure>
           </div>
-          <div
-            className="ttde-gallery-col ttde-gallery-col-3 ttdegalleryitem ttde-gallery-open"
-            data-pswp-uid="1"
-          >
+          <div className="ttde-gallery-col ttde-gallery-col-3 ttdegalleryitem ttde-gallery-open">
             <figure
               className="ttde-gallery-col-inner"
               onClick={() => {

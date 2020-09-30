@@ -19,11 +19,8 @@ const Header = ({
           <section className="site-block top">
             <div className="site-title">
               <h1>
-                <span className="page__title-ttd">{subTitleText} </span>
-                <span className="page__title-e" itemProp="name">
-                  {title}
-                  <span />{' '}
-                </span>
+                <span className="page__title-ttd">{subTitleText}</span>
+                <span className="page__title-e">{title}</span>
               </h1>
             </div>
             {/* Upper Gallery here */}
@@ -32,32 +29,14 @@ const Header = ({
               openGallery={openGallery}
               showGallery={showGallery}
             />
-            <div
-              className="site-bb"
-              itemScope=""
-              itemType="http://schema.org/BreadcrumbList"
-            >
+            <div className="site-bb">
               <ul>
-                <li
-                  itemProp="itemListElement"
-                  itemScope=""
-                  itemType="http://schema.org/ListItem"
-                >
-                  <Link itemProp="item" to="/">
-                    <span itemProp="name" style={{ color: '#737373' }}>
-                      Home
-                    </span>
+                <li>
+                  <Link to="/" style={{ color: '#737373' }}>
+                    Home
                   </Link>
-                  <meta itemProp="position" content="1" />
                 </li>
-                <li
-                  itemProp="itemListElement"
-                  itemScope=""
-                  itemType="http://schema.org/ListItem"
-                >
-                  <span itemProp="name">{title}</span>
-                  <meta itemProp="position" content="3" />
-                </li>
+                <li>{title}</li>
               </ul>
             </div>
             {/* Intro text here */}
