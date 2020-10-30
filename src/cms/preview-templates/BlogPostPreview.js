@@ -4,7 +4,6 @@ import '../preview-styles/preview-styles.css'
 
 const BlogPostPreview = ({ entry, widgetFor, widgetsFor }) => {
   const data = entry.getIn(['data']).toJS()
-  console.log(data)
 
   // function ttdeToggleVisibility (self, id, idInner) {
   //     document.getElementById("site-text-more-button-"+(index+1)).remove()
