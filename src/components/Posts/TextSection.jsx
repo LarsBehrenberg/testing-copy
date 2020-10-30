@@ -68,9 +68,10 @@ const TextSection = ({
                             >
                               <span className="smallery-item-uri">
                                 <Img
-                                  fixed={image.imageUrl.thumbImage.fixed}
+                                  fluid={image.imageUrl.expandedImage.fluid}
                                   alt={image.imageTitle}
                                   className="smallery-item-img"
+                                  loading="eager"
                                   style={{
                                     width: '100%',
                                     height: '100%',

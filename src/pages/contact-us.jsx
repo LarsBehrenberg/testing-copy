@@ -147,7 +147,6 @@ const ContactUs = ({ data }) => {
         ...state,
       }),
     })
-      .then(data => console.log(data))
       .then(() => navigate(form.getAttribute('action')))
       .catch(error => alert(error))
   }

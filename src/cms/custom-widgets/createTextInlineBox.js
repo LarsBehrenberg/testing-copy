@@ -24,7 +24,6 @@ const createTextInlineBox = {
   pattern: /^<div className="interesting"> ([\s\S]*?) <\/div><\/div>$/,
   // Function to extract data elements from the regexp match
   fromBlock: function (match) {
-    console.log(match)
     return {
       title: match[1],
       text: match[2],

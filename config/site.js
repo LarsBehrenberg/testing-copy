@@ -12,7 +12,7 @@ module.exports = {
   favicon: 'static/logo/favicon.png', // Used for manifest favicon generation
   shortName: 'ImpressionistArts', // shortname for manifest. MUST be shorter than 12 characters
   author: 'Tim', // Author for schemaORGJSONLD
-  themeColor: '#161C2E',
+  themeColor: '#64736F',
   backgroundColor: '#ffffff',
   twitter: '', // Twitter Username
   adsenseId: '', //eg: ca-pub-7292810486004926

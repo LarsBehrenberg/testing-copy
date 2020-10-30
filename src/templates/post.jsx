@@ -29,15 +29,6 @@ const Post = ({ data, pageContext }) => {
   let touchendX = 0
 
   let altTitles = []
-  altTitles.push(
-    topImage.topImageTitle,
-    leftImage.leftImageTitle,
-    middleImage.middleImageTitle,
-    rightImage.rightImageTitle,
-    textSections
-      .filter(section => section.sideGalleryImages !== null)
-      .map(section => section.sideGalleryImages.map(image => image.imageTitle))
-  )
 
   function keyListener(event) {
     if (event.keyCode === 39) {
@@ -54,16 +45,16 @@ const Post = ({ data, pageContext }) => {
     }
   }
 
-  // React Hook to initiate and clean up eventlisteners after mounting
+  let lightboxImagesLength = 0
+
   useEffect(() => {
+    // initiate and clean up eventlisteners after mounting
     window.addEventListener('keydown', keyListener)
 
+    // Create inline images with title displayed beneath
     let insertAfter = (referenceNode, newNode) => {
       referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling)
     }
-
-    const imageCaptions = []
-
     const inlineImage = document
       .querySelectorAll('.site-text p img')
       .forEach(node => {
@@ -71,10 +62,43 @@ const Post = ({ data, pageContext }) => {
         el.classList.add('inline-image-caption')
         el.innerHTML = node.title
         node.parentElement.classList.add('inline-image-container')
+        node.classList.add('lightbox-image')
         insertAfter(node, el)
       })
+    lightboxImagesLength = document.querySelectorAll(
+      '.post-content .gatsby-image-wrapper picture img, .lightbox-image'
+    ).length
+    const lightboxImages = document
+      .querySelectorAll(
+        '.post-content .gatsby-image-wrapper picture img, img.lightbox-image'
+      )
+      .forEach((node, index) => {
+        if (index < lightboxImagesLength - 3) {
+          const clone = node.cloneNode(true)
+          clone.style.opacity = 1
+          clone.style.objectFit = 'contain'
+          clone.style.position = 'absolute'
+          clone.style.top = 0
+          clone.style.right = 0
+          clone.style.width = '100%'
+          clone.style.height = '100%'
 
-    // console.log(document.querySelector('.site-text p img').parentNode)
+          altTitles.push(clone.alt)
+
+          const galleryImageContainer = document.createElement('div')
+          galleryImageContainer.classList.add('gallery-image-container')
+          galleryImageContainer.appendChild(clone)
+
+          const mySlide = document.createElement('div')
+          mySlide.classList.add('mySlides')
+          mySlide.appendChild(galleryImageContainer)
+
+          const append = document
+            .getElementById('lightbox-container')
+            .appendChild(mySlide)
+        }
+      })
+
     // Specify how to clean up after this effect:
     return function cleanup() {
       window.removeEventListener('keydown', keyListener)
@@ -111,11 +135,11 @@ const Post = ({ data, pageContext }) => {
     }
     slides[slideIndex - 1].style.display = 'block'
 
-    captionText.innerHTML = altTitles.flat(2)[slideIndex - 1]
-      ? altTitles.flat(2)[slideIndex - 1]
+    captionText.innerHTML = altTitles[slideIndex - 1]
+      ? altTitles[slideIndex - 1]
       : 'An image description is missing'
 
-    numberText.innerHTML = `${slideIndex} / ${altTitles.flat(2).length}`
+    numberText.innerHTML = `${slideIndex} / ${lightboxImagesLength}`
 
     if (touchListen === false) {
       Array.from(slides).forEach(slide => {
@@ -158,20 +182,21 @@ const Post = ({ data, pageContext }) => {
     }
   }
 
-  function fillModals(arr) {
-    return arr !== null
-      ? arr.map((modalImage, index) => (
-          <div
-            className="mySlides"
-            key={modalImage.imageUrl.expandedImage.fluid.src}
-          >
-            {returnModalImage(
-              modalImage.imageUrl.expandedImage.fluid,
-              modalImage.imageTitle
-            )}
-          </div>
-        ))
-      : null
+  function fillModals(arr, index) {
+    if (arr !== null) {
+      return arr.map((modalImage, index) => (
+        <div
+          className="mySlides"
+          key={modalImage.imageUrl.expandedImage.fluid.src}
+        >
+          {returnModalImage(
+            modalImage.imageUrl.expandedImage.fluid,
+            modalImage.imageTitle
+          )}
+        </div>
+      ))
+    }
+    return null
   }
 
   const returnModalImage = (image, alt) => (
@@ -209,41 +234,45 @@ const Post = ({ data, pageContext }) => {
           article
         />
         {/* This is the upprGallery & sideBar */}
-        <Header
-          title={title}
-          subTitleText={subTitle}
-          intro={html}
-          bodyTitles={fields.bodyTitle}
-          images={upperGalleryImages}
-          showGallery={showSlides}
-          openGallery={openModal}
-          sideLinks={data.allMarkdownRemark.nodes}
-        />
-        <div className="site-content">
-          <main className="site-main">
-            {/* These are the TextSections */}
-            {videoId !== null && videoId !== '' ? (
-              <Video videoId={videoId} />
-            ) : null}
-            {fields.bodyTitle.map((value, index) => {
-              return (
-                <TextSection
-                  key={`section-${index}`}
-                  showGallery={showSlides}
-                  openGallery={openModal}
-                  index={index}
-                  title={textSections[index].textTitle}
-                  text={fields.bodyText[index]}
-                  textSectionImageArray={textSections[index].sideGalleryImages}
-                  buttonToggle={textSections[index].buttonToggle}
-                />
-              )
-            })}
-            <Suggestion
-              links={data.allMarkdownRemark.nodes}
-              contextPages={pageContext}
-            />
-          </main>
+        <div className="post-content">
+          <Header
+            title={title}
+            subTitleText={subTitle}
+            intro={html}
+            bodyTitles={fields.bodyTitle}
+            images={upperGalleryImages}
+            showGallery={showSlides}
+            openGallery={openModal}
+            sideLinks={data.allMarkdownRemark.nodes}
+          />
+          <div className="site-content">
+            <main className="site-main">
+              {/* These are the TextSections */}
+              {videoId !== null && videoId !== '' ? (
+                <Video videoId={videoId} />
+              ) : null}
+              {fields.bodyTitle.map((value, index) => {
+                return (
+                  <TextSection
+                    key={`section-${index}`}
+                    showGallery={showSlides}
+                    openGallery={openModal}
+                    index={index}
+                    title={textSections[index].textTitle}
+                    text={fields.bodyText[index]}
+                    textSectionImageArray={
+                      textSections[index].sideGalleryImages
+                    }
+                    buttonToggle={textSections[index].buttonToggle}
+                  />
+                )
+              })}
+              <Suggestion
+                links={data.allMarkdownRemark.nodes}
+                contextPages={pageContext}
+              />
+            </main>
+          </div>
         </div>
         <Newsletter />
       </Layout>
@@ -257,7 +286,8 @@ const Post = ({ data, pageContext }) => {
           &times;
         </button>
         <div className="modal-content">
-          <div className="mySlides" key="slide-1">
+          <div id="lightbox-container" />
+          {/* <div className="mySlides" key="slide-1">
             {returnModalImage(
               topImage.topImageUrl.expandedImage.fluid,
               topImage.topImageTitle
@@ -282,10 +312,10 @@ const Post = ({ data, pageContext }) => {
             )}
           </div>
 
-          {textSections.map(section => {
+          {textSections.map((section, index) => {
             const { sideGalleryImages } = section
-            return fillModals(sideGalleryImages)
-          })}
+            return fillModals(sideGalleryImages, index)
+          })} */}
 
           <div className="caption-container">
             <p id="caption" />
@@ -358,8 +388,11 @@ export const query = graphql`
             topImageTitle
             topImageUrl {
               expandedImage: childImageSharp {
-                fluid(srcSetBreakpoints: [800]) {
-                  ...GatsbyImageSharpFluid
+                fluid(
+                  srcSetBreakpoints: [400, 800]
+                  traceSVG: { color: "#161C2E" }
+                ) {
+                  ...GatsbyImageSharpFluid_tracedSVG
                 }
               }
             }
@@ -367,14 +400,12 @@ export const query = graphql`
           leftImage {
             leftImageTitle
             leftImageUrl {
-              thumbImage: childImageSharp {
-                fixed(width: 400) {
-                  ...GatsbyImageSharpFixed
-                }
-              }
               expandedImage: childImageSharp {
-                fluid(srcSetBreakpoints: [800]) {
-                  ...GatsbyImageSharpFluid
+                fluid(
+                  srcSetBreakpoints: [400, 800]
+                  traceSVG: { color: "#161C2E" }
+                ) {
+                  ...GatsbyImageSharpFluid_tracedSVG
                 }
               }
             }
@@ -382,14 +413,12 @@ export const query = graphql`
           middleImage {
             middleImageTitle
             middleImageUrl {
-              thumbImage: childImageSharp {
-                fixed(width: 400) {
-                  ...GatsbyImageSharpFixed
-                }
-              }
               expandedImage: childImageSharp {
-                fluid(srcSetBreakpoints: [800]) {
-                  ...GatsbyImageSharpFluid
+                fluid(
+                  srcSetBreakpoints: [400, 800]
+                  traceSVG: { color: "#161C2E" }
+                ) {
+                  ...GatsbyImageSharpFluid_tracedSVG
                 }
               }
             }
@@ -397,14 +426,12 @@ export const query = graphql`
           rightImage {
             rightImageTitle
             rightImageUrl {
-              thumbImage: childImageSharp {
-                fixed(width: 400) {
-                  ...GatsbyImageSharpFixed
-                }
-              }
               expandedImage: childImageSharp {
-                fluid(srcSetBreakpoints: [800]) {
-                  ...GatsbyImageSharpFluid
+                fluid(
+                  srcSetBreakpoints: [400, 800]
+                  traceSVG: { color: "#161C2E" }
+                ) {
+                  ...GatsbyImageSharpFluid_tracedSVG
                 }
               }
             }
@@ -416,14 +443,12 @@ export const query = graphql`
           sideGalleryImages {
             imageTitle
             imageUrl {
-              thumbImage: childImageSharp {
-                fixed(width: 200) {
-                  ...GatsbyImageSharpFixed
-                }
-              }
               expandedImage: childImageSharp {
-                fluid(srcSetBreakpoints: [800]) {
-                  ...GatsbyImageSharpFluid
+                fluid(
+                  srcSetBreakpoints: [400, 800]
+                  traceSVG: { color: "#161C2E" }
+                ) {
+                  ...GatsbyImageSharpFluid_tracedSVG
                 }
               }
             }
@@ -436,7 +461,7 @@ export const query = graphql`
               quality: 90
               duotone: { highlight: "#386eee", shadow: "#d3d3d3", opacity: 20 }
             ) {
-              ...GatsbyImageSharpFluid
+              ...GatsbyImageSharpFluid_tracedSVG
             }
           }
         }

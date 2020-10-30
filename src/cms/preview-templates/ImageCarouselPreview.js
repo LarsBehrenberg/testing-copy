@@ -4,7 +4,6 @@ import '../preview-styles/preview-styles.css'
 
 const ImageCarouselPreview = ({ entry }) => {
   const { carouselImages } = entry.getIn(['data']).toJS()
-  console.log(carouselImages)
   return (
     <div>
       {carouselImages !== undefined

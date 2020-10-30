@@ -46,6 +46,7 @@ const Header = ({
                         <Img
                           fluid={topImage.topImageUrl.expandedImage.fluid}
                           alt={topImage.topImageTitle}
+                          loading="eager"
                           style={{
                             width: '100%',
                             height: '100%',
@@ -68,8 +69,9 @@ const Header = ({
                       >
                         <span className="ttde-gallery-url" data-index="1">
                           <Img
-                            fixed={leftImage.leftImageUrl.thumbImage.fixed}
+                            fluid={leftImage.leftImageUrl.expandedImage.fluid}
                             alt={leftImage.leftImageTitle}
+                            loading="eager"
                             style={{
                               width: '100%',
                               height: '100%',
@@ -91,8 +93,11 @@ const Header = ({
                       >
                         <span className="ttde-gallery-url" data-index="2">
                           <Img
-                            fixed={middleImage.middleImageUrl.thumbImage.fixed}
+                            fluid={
+                              middleImage.middleImageUrl.expandedImage.fluid
+                            }
                             alt={middleImage.middleImageTitle}
+                            loading="eager"
                             style={{
                               width: '100%',
                               height: '100%',
@@ -117,8 +122,9 @@ const Header = ({
                             <span>More images 20+</span>
                           </span>
                           <Img
-                            fixed={rightImage.rightImageUrl.thumbImage.fixed}
+                            fluid={rightImage.rightImageUrl.expandedImage.fluid}
                             alt={rightImage.rightImageTitle}
+                            loading="eager"
                             style={{
                               width: '100%',
                               height: '100%',
