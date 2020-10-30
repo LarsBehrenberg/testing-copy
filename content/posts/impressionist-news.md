@@ -34,6 +34,76 @@ textSections:
       <p class="large-text">But things are starting to open up again; and many museums have improved their online resources.</p>
 
 
+      ### October 2020
+
+
+      #### Auctions
+
+
+      Christie's 20th Century Evening Sale, held on 6 October, had only a few impressionist pieces.  But they included a simple Cezanne still-life painted with watercolour and gouache called 'Nature morte avec pot au lait, melon et sucrier'.  
+
+
+      It fetched a remarkable $28,650,000, which is in line with prices paid for Cezanne's still-lifes over the past five years, and demonstrates that Covid-19 has not dulled the top-end market for impressionist works.  
+
+
+      This sale capped Christie's 20 Century Week, which amassed a whopping $387 million of sales.  The demand was driven by Christie's embracing social media: 280,000 people tuned into the auctions through Christie's website, YouTube, Facebook and other channels.
+
+
+      Sotheby's New York's Impressionism and Modern Art Evening Sale on 28 October 2020 has a number of stand-out pieces.  They include:
+
+
+      * Claude Monet's Les Iles a Port-Villez (pictured), at a $2.5-3.5 million estimate.
+
+      * Camille Pissarro's Femme a la Brouette, at a $1.5-2.5 million estimate.
+
+      * Vincent van Gogh's Fleurs Dans un Verre, with an estimate $14-18 million.  
+
+
+      ![Monet's Les Iles a Port-Villez](/assets/claude-monet-les-iles-a-port-villez.jpg "Monet's Les Iles a Port-Villez")
+
+
+      #### Vans and MoMA
+
+
+      You may be forgiven for thinking that footwear brand Vans has little in common with impressionism.
+
+
+      But Vans has teamed up with MoMA to produce a range of special edition products inspired by Salvador Dali, Vasily Kandinsky and Claude Monet.  The Monet [shoes, hoodie and cap](https://www.vans.co.uk/news/vans-x-moma.html) feature a print from his Water Lilies.
+
+
+      #### Polish film about a stolen Monet
+
+
+      [Claude Monet's](/claude-monet-biography) Beach in Pourville was stolen from the National Museum in Poznan, Poland, in April 2000.  The theft was audacious: the thief stole the painting in plain view on a quiet Sunday afternoon.
+
+
+      It went like this: the thief applied for a permit to sketch in the museum, pretending to be an art student; when the gallery attendant left the gallery, he cut a portion of the painting away from its frame; and after this paint-staking exercise had been completed, he replaced the Monet with a serviceable forgery.  He then walked out with the Monet canvas in his backpack.  
+
+
+      The Polish-language film, called [Tarapaty 2](https://www.youtube.com/watch?v=psiVtskxLkU), is a teen detective movie in which young detectives and their dog go on a search for the painting.  But the truth is probably more remarkable! 
+
+
+      **Learn more** by checking out our [impressionist thefts page](/top-10-impressionist-art-thefts).
+
+
+      #### Show me the Monet
+
+
+      Banky's 2005 work *Show me the Monet*, a painting of Monet's Japanese Bridge at Giverny with shopping trolleys and a traffic cone dumped in the pond, was sold be Sotheby's on 21 October.  
+
+
+      The work had an estimate of £3-5 million, and was toured internationally before going on sale in a live-streamed auction from the company's London and Paris auction rooms.  
+
+
+      The auction turned into an eight-minute bidding battle between five collectors determined to secure the piece.  The winning bid of £7.55 million equates to $9.8 million -- the second highest price ever paid for a Banksy work (the highest price was the $12 million paid for *Devolved Parliament*, a painting of monkeys sitting in the House of Commons).
+
+
+      #### Impressionism and Christmas
+
+
+      British up-market department store [John Lewis](https://www.johnlewis.com/content/home/christmas-decorating-ideas-and-trends) launched its festive decoration themes in early October.  They include 'Impressionism', which is said to be a "cool and wintery theme that works particularly well in rural settings ....
+
+
       ### September 2020
 
 
@@ -217,9 +287,9 @@ textSections:
         imageTitle: Check out the 23 versions of Van Gogh's Sunflowers at the Amsterdam
           Van Gogh Museum
 ---
-## On this page, updated on a weekly basis, we give you the latest impressionist news.
+### On this page, updated on a weekly basis, we give you the latest impressionist news.
 
-Learn about the latest impressionist exhibitions, auctions and research. Highlights from the past six months include:
+Learn about the more recent impressionist exhibitions, auctions and research. Highlights from the past six months include:
 
 * Museums and exhibitions are starting to re-open after Covid-19 lockdown.
 * Various museums putting on virtual tours, galleries and other activities to help you cope with Covid-19 lockdown.

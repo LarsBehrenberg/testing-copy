@@ -1,3 +1,5 @@
+/* eslint-disable camelcase */
+/* eslint-disable react/prop-types */
 import React from 'react'
 import { Layout, Newsletter } from 'layouts'
 import { SEO, InstagramGallery } from 'components'

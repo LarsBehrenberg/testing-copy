@@ -400,8 +400,8 @@ textSections:
 ---
 ### The Seventh Impressionist Exhibition, held in 1882, saw a glorious return to the early days of the Impressionist Exhibitions
 
-[Claude Monet](/claude-monet-biography), [Auguste Renoir](/pierre-auguste-renoir-biography) and [Alfred Sisley](/alfred-sisley-biography) all agreed to contribute artworks to the show, largely thanks to the insistence of Impressionist dealer [Paul Durand-Ruel](/paul-durand-ruel-biography). 
+[Claude Monet](/claude-monet-biography), [Auguste Renoir](/pierre-auguste-renoir-biography) and [Alfred Sisley](/alfred-sisley-biography) all agreed to contribute artworks to the show, largely thanks to the insistence of Impressionist dealer [Paul Durand-Ruel](/paul-durand-ruel-biography).  Those works included Renoir's Luncheon of the Boating Party, Renoir's most famous work today.  
 
-They joined [Camille Pissarro](/camille-pissarro-biography) (who exhibited in all eight exhibitions) and [Berthe Morisot ](/berthe-morisot-biography)(who exhibited in seven).  Together, they staged an exhibition worthy of the Impressionist name, without the influence of any ‘outsiders’ introduced by [Edgar Degas](/edgar-degas-biography) (who refused to exhibit in protest). 
+Monet, Renoir and Sisley joined [Camille Pissarro](/camille-pissarro-biography) (who exhibited in all eight exhibitions) and [Berthe Morisot ](/berthe-morisot-biography)(who exhibited in seven).  Together, they staged an exhibition worthy of the Impressionist name, without the influence of any ‘outsiders’ introduced by [Edgar Degas](/edgar-degas-biography) (who refused to exhibit in protest). 
 
-The public attended in droves, the reviews were largely positive, and Durand-Ruel sold a large number of works to eager buyers.
+The public attended in droves, the reviews were largely positive, and Durand-Ruel sold a large number of works to eager buyers.  In short, the seventh exhibition was a triumph.

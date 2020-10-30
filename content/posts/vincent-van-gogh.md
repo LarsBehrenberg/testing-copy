@@ -11,7 +11,7 @@ links:
   - post-EqJRP4k4i
   - post-dc9PX7vYN
   - post-jULVowvCw
-videoId: JYFbpniHyJ8
+videoId: ""
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/van-gogh-starry-night.jpg
@@ -288,11 +288,12 @@ textSections:
         imageTitle: The Van Gogh Museum has the world's largest collection of Van Gogh
           artworks. (© Taxiarchos228, CC BY-SA 3.0)
 ---
+### The most famous artist of the post-impressionist movement, Vincent van Gogh reached new heights with his use of colour and expressive artworks. 
 
-### Perhaps the best-known artist of the Post-Impressionist movement, Vincent van Gogh reached new heights with his use of colour and expressive artworks. His paintings are instantly recognisable and tend to linger in the viewer’s mind long after the physical image has passed.
+His paintings are instantly recognisable and tend to linger in the viewer’s mind long after the physical image has passed.
 
-Van Gogh is best known for works such as Sunflowers, Starry Night and his Self-Portraits. He is perhaps equally famous for being the artist who, in late 1888 while [suffering from mental illness](#4), cut off his left ear and gave the blood-stained flesh to a brothel worker.
+Van Gogh is best known for works such as Sunflowers, Starry Night and his Self-Portraits. He is perhaps equally famous for being the artist who, in late 1888 while [suffering from mental illness](#4), cut off his left ear and gave the blood-stained flesh to a brothel worker.  Van Gogh was to commit suicide less than two years later.  
 
-After a short[](#2)in the company of many prominent [Impressionist artists](/), van Gogh embraced Impressionist painting techniques. However, he used the Impressionist style to create his own, unique form of artistic expression.
+After a short[](#2) stint in Paris in the company of many prominent [impressionist artists](/), van Gogh embraced impressionist painting techniques. However, he built on that style to create his own, unique form of artistic expression.
 
-At the same time, he diverged significantly from the path of other Post-Impressionists including [Georges Seurat](#3) and Paul Gauguin. He did not seek to present an idealised or scientific perspective of the world: he sought to show viewers the gritty reality, brought forth with bold, clashing colour palettes.
+At the same time, van Gogh diverged significantly from the path of other Post-Impressionists including [Georges Seurat](#3) and Paul Gauguin. He did not seek to present an idealised or scientific perspective of the world: he sought to show viewers the gritty reality, brought forth with bold, clashing colours.

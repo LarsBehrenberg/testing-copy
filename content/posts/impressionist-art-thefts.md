@@ -29,21 +29,42 @@ textSections:
   - textTitle: Chez Tortoni (Édouard Manet, 1990)
     text: >-
       ### Part of an astonishing theft that saw 13 artworks taken, Manet’s ‘Chez
-      Tortoni’ was stolen from the[Isabella Stewart Gardner
-      Museum](https://en.wikipedia.org/wiki/Isabella_Stewart_Gardner_Museum)in
+      Tortoni’ was stolen from the [Isabella Stewart Gardner
+      Museum](https://en.wikipedia.org/wiki/Isabella_Stewart_Gardner_Museum) in
       1990.
 
 
-      As well as[Manet](/edouard-manet-biography)’s 1887 work, the Boston museum also lost pieces by Rembrant, Vermeer and five works on paper by[Degas](/edgar-degas-biography). In total, the works stolen had a value of a cool $500 million.
+      As well as [Manet](/edouard-manet-biography)’s 1887 work, the Boston museum also lost pieces by Rembrant, Vermeer and five works on paper by [Degas](/edgar-degas-biography). In total, the works stolen had a value of a cool $500 million.
 
 
-      The theft was audacious and extreme - on March 18th 1990, two men disguised as police officers buzzed the door to the museum in Boston. It was 1.24 am and they said they had been called out about a disturbance. The security guard let them in and the men handcuffed him and the other guard on duty.
+      #### The theft
+
+
+      The theft was audacious and extreme - on March 18th 1990 (which happened to be St Partick's day), two men disguised as police officers buzzed the door to the museum in Boston. It was 1.24 am and they said they had been called out about a disturbance. The security guard let them in and the men handcuffed him and the other guard on duty.
 
 
       For 81 minutes, the thieves ransacked the museum’s most valuable artworks, making two trips to the car to load all of their bounty. The reward for the paintings now stands at £7.5 million.
 
 
+      ![An FBI reward poster](/assets/fbi-reward-poster-vermeer-the-concert.jpg "An FBI reward poster")
+
+
       The Gardner robbery is the single largest property theft to date and, so far, none of the artworks have been recovered.
+
+
+      The Gardner Museum still hopes the paintings will be returned, and has three large empty frames in one of its premier galleries.
+
+
+      #### Behind a wall in west Dublin?
+
+
+      A new BBC Four documentary has been commissioned called the Billion Dollar Art Hunt.  Former Met detective Charley Hill and Art Journalist John Wilson give chase.  Hill has information from a source (a criminal wanted for tax evasion).  
+
+
+      The source has said that the missing paintings are:
+
+
+      > "... in West Dublin, behind a wall. He’s 99% certain.”
     sideGalleryImages:
       - imageTitle: "Chez Tortoni by Edouard Manet, 1870s, 1990: stolen from Isabella
           Stewart Gardner Museum"
@@ -54,7 +75,7 @@ textSections:
       - imageTitle: "The Concert by Vermeer, c. 1664, 1990: stolen from Isabella Stewart
           Gardner Museum"
         imageUrl: /assets/art-thefts-vermeer-the-concert.jpg
-    buttonToggle: false
+    buttonToggle: true
   - textTitle: Impression Sunrise (Claude Monet, 1985)
     text: >-
       ### In total, nine Impressionist paintings were stolen from the [Marmottan
@@ -62,26 +83,47 @@ textSections:
       in 1985.
 
 
-      The loot included five paintings by [Monet](/claude-monet-biography) and two by [Auguste Renoir](/pierre-auguste-renoir-biography), with a combined value of hundreds of millions of dollars. Among the missing paintings was ‘Impression, Sunrise’ by Monet, one of the 10 most important impressionist works, which has been credited with giving the Impressionist group their name.
+      #### The loot
 
 
-      At 10am on October 27th, two men paid for their entrance to the museum where they were then joined by three more accomplices. Threatening the guards at gunpoint, they grabbed the paintings they were looking for and left quickly. The theft was made easier by the fact the museum alarm system was only turned on at night.
+      The loot included five paintings by [Claude Monet](/claude-monet-biography) and two by [Auguste Renoir](/pierre-auguste-renoir-biography), with a combined value of hundreds of millions of dollars. 
+
+
+      Among the missing paintings was *Impression: Sunrise* by Monet, one of the 10 most important impressionist works, which has been credited with giving the Impressionist group their name.  as the Curator of the Marmottan said when the painting was recovered, Impression Sunrise 
+
+
+      > "... marks a turning point in the history of modern art."
+
+
+      **Learn more** by checking out our [Impression: Sunrise](/claude-monet-impression-sunrise) page.
+
+
+      #### The raid
+
+
+      At 10am on October 27th 1985, two men paid for their entrance to the museum where they were then joined by three more accomplices. Threatening the guards at gunpoint, and forcing tourists to the floor, they grabbed the paintings they were looking for and left quickly (two had to be removed from a glass case).
+
+
+      The theft was made easier by the fact the museum alarm system was only turned on at night.
+
+
+      #### The recovery
 
 
       For five years the paintings went unrecovered. However, French police managed to link the theft to organised crime in Japan. Through the painstaking study of recorded telephone conversations, the authorities were led to an apartment in Porto-Vecchio, Corsica.
 
 
       All of the works were found stashed in the apartment and were recovered, though some had been damaged during their long journey.
+
+
+      The damage to Impression: Sunrise was relatively slight--it only required treatment against humidity damage.  The damage to Monet's *Field of Tulips in Holland* and Berthe Morisot's *Young Girl at the Ball* was more severe: Monet's painting had been slashed, and Morisot's had two holes in it.
     sideGalleryImages:
-      - imageTitle: The Entrance to the Port of Le Havre by Claude Monet, c. 1867-68,
-          Norton Simon Museum
-        imageUrl: /assets/art-thefts-monet-entrance-to-the-port-of-le-havre.jpg
+      - imageTitle: "Impression, Sunrise by Claude Monet, 1872, 1985: stolen"
+        imageUrl: /assets/art-thefts-monet-sunrise.jpg
       - imageTitle: "A digitally changed black and white version of Impression, Sunrise
           by Claude Monet, 1872, 1985: stolen"
         imageUrl: /assets/art-thefts-monet-sunrise-bw.jpg
-      - imageTitle: "Impression, Sunrise by Claude Monet, 1872, 1985: stolen"
-        imageUrl: /assets/art-thefts-monet-sunrise.jpg
-    buttonToggle: false
+    buttonToggle: true
   - textTitle: Charing Cross Bridge, London (Claude Monet, 2012)
     text: >-
       ### One of Monet’s most famous series, the Charing Cross Bridge works
@@ -277,8 +319,12 @@ textSections:
         imageUrl: /assets/art-thefts-van-gogh-blossoming-chestnut-branches-framed.jpg
     buttonToggle: false
 ---
-## Impressionist art includes many of the world’s best known and most expensive artworks, leading to some of the most shocking art thefts in living memory.
+### Impressionist art includes many of the world’s best known and most expensive artworks, leading to some of the most shocking art thefts in living memory.
 
-From a [string of missing Van Goghs](#4) to the possible burning of a [Monet masterpiece](#3), impressionist works have been under threat from criminal activity for decades. Happily, most of the artworks on this list were recovered after the thefts but some are still missing to this day.
+From a [string of missing Van Goghs](#4) to the theft at gunpoint of [Impression: Sunrise](/#2) on a rainy Parisian morning and the possible burning of a [Monet masterpiece](#3), impressionist works have been under threat from criminal activity for decades. 
+
+The year 1990 was a particularly bad year for thefts of impressionist works, with three paintings being stolen from different French museums on the same day in July.  They included Renoir's *Portrait of a Seated Woman*, stolen from the Louvre after being cut from its frame.  
+
+Happily, most of the artworks on this list were recovered after the thefts but some are still missing to this day.
 
 Read on to learn about the top 10 Impressionist art thefts.

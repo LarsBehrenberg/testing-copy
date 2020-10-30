@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import PropTypes from 'prop-types'
 import styled from '@emotion/styled'
 import { Layout } from 'layouts'
 import { SEO } from 'components'
@@ -36,3 +37,7 @@ const ErrorPage = center => (
 )
 
 export default ErrorPage
+
+ErrorPage.propTypes = {
+  center: PropTypes.object,
+}

@@ -8,16 +8,16 @@ carouselImages:
     title: Edouard Manet
     text: Regarded as the father of Impressionism during his lifetime ...
     url: edouard-manet-biography
-  - image: /assets/berthe-morisot-grain-field.jpg
-    title: Berthe Morisot
-    text: The leading female impressionist, Morisot focussed on ...
-    url: berthe-morisot-biography
   - image: /assets/renoir-moulin-de-la-galette.jpg
-    title: Peirre-Auguste Renoir
+    title: Pierre-Auguste Renoir
     text: Renoir is best known for his luminous style and painting joy ...
     url: pierre-auguste-renoir-biography
+  - image: /assets/berthe-morisot-grain-field.jpg
+    title: Berthe Morisot
+    text: The leading female impressionist, Morisot focused on ...
+    url: berthe-morisot-biography
   - image: /assets/van-gogh-starry-night.jpg
-    title: Van Gogh
+    title: Vincent van Gogh
     text: The most famous artist of the Post-Impressionist movement...
     url: van-gogh-biography
 ---

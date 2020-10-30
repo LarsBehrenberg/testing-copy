@@ -552,7 +552,7 @@ textSections:
       - imageTitle: It is a fascinating work of the eponymous popular Parisian nightclub.
         imageUrl: /assets/10-paintings-paul-cezanne-three-card-players.jpg
     buttonToggle: true
-  - textTitle: Boulevard Montmatre (Pissarro, 1897)
+  - textTitle: Boulevard Montmartre (Pissarro, 1897)
     text: >-
       ### Pissarro may not be the most famous impressionist. But he was the glue
       that held the impressionist movement together.
@@ -561,10 +561,13 @@ textSections:
       #### Pissarro
 
 
-      Born in the Danish West Indies (now the US Virgin Islands) in 1830, Camille Pissarro was an essential member of the impressionist group. He was instrumental in arranging the first independent impressionist exhibition in 1874 and his friendly and relaxed approach to life allowed him to mediate between difficult personalities like Degas and Cezanne.
+      Born in the Danish West Indies (now the US Virgin Islands) in 1830, Camille Pissarro was an essential member of the impressionist group. 
 
 
-      Cezanne in fact described Pissarro as:
+      For example, he was instrumental in arranging the [first independent impressionist exhibition](/first-impressionist-exhibition) in 1874, and he was the only impressionist to exhibit in all eight impressionist exhibitions.  
+
+
+      Pissarro's friendly and relaxed approach to life allowed him to mediate between difficult personalities like Degas and Cezanne.  In fact, Cezanne described Pissarro as:
 
 
       > "a good man to consult and a little like the good Lord".
@@ -573,22 +576,44 @@ textSections:
       #### The paintings
 
 
-      In 1897 Pissarro took rooms at the Hotel de Russie and produced a series of 12 paintings of [Boulevard Montmatre](https://en.wikipedia.org/wiki/Boulevard_Montmartre) at different times of day and at different points during the year.
+      Between February and April 1897 Pissarro took rooms at the Hotel de Russie in Paris and produced a series of 14 paintings of [Boulevard Montmartre](https://en.wikipedia.org/wiki/Boulevard_Montmartre) at different times of day and at different points during the year.
 
 
-      Only one of the paintings shows the road at night. Using fairly coarse brush strokes and bold colours, this stunning work depicts the bright lights of shops, theatres, gas lights and taxis on a wet Parisian evening. Pissarro even catches the reflection of the bright lights against the dark sky-an early example of light pollution!
+      Painted from exactly the same position, the collection includes the Boulevard: 
 
 
-      Pissarro's daytime scenes are remarkable for their variety. The two examples we give show a bustling street on an overcast spring morning and a warm sunset later in the year once the trees are in blossom.
+      * in winter (when the trees have no leaves) and in spring (when they are in blossom), 
+
+      * in sun (when the street is bustling) and in rain (when it is fairly deserted), and 
+
+      * in fog, mist and at sunset. 
 
 
-      To learn more, check out our [Camille Pissarro biography](/camille-pissarro-biography) page.  Did you know that van Gogh called Pissarro the "father to us all"?
+      Three members of the series even depict the Boulevard during the Mardi Gras celebrations.
+
+
+      Seven of the paintings are now found in the world's top museums, including London's National Gallery and the Met in New York, with the other seven in private collections.  
+
+
+      *Boulevard Montmartre: Spring* sold for a record £19.1 million in 2014, the [record price](/most-expensive-impressionist-paintings) for a Pissarro.
+
+
+      #### Boulevard Montmartre at Night
+
+
+      Only one of the paintings shows the road at night. Using fairly coarse brush strokes and bold colours, this stunning work depicts the bright lights of shops, theatres, gas lights and taxis on a wet Parisian evening. 
+
+
+      Pissarro even catches the reflection of the bright lights against the dark sky: an early example of light pollution!
 
 
       #### Where can I see them for myself?
 
 
-      Versions of Boulevard Montmatre can be found in London's National Gallery and the Musee D'Orsay in Paris.
+      Versions of Boulevard Montmartre can be found in London's National Gallery, the Met in New York, the Hermitage in St Petersburg, and in other galleries in the US, Switzerland and Australia. 
+
+
+      To **learn more**, check out our [Camille Pissarro biography](/camille-pissarro-biography) and [Boulevard Montmartre](/camille-pissarro-boulevard-montmartre) series pages.  Did you know that van Gogh called Pissarro the "father to us all"?
     sideGalleryImages:
       - imageTitle: Pissarro painted a series of pictures of Boulevard Montmatre. This
           is the only painting of the street at night.
