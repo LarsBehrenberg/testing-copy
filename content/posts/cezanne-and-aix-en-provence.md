@@ -277,6 +277,10 @@ textSections:
       - imageUrl: /assets/paul-cezanne-the-bathers-1906.jpg
         imageTitle: Cezanne's last major work, the Large Bathers, from 1906.
 ---
+<div class="interesting"><h4><img src="logo/palette.png" alt="palette logo" />Interesting fact...</h4><div><p>One of Monet’s most remarkable works is *Camille Monet on her Deathbed* (pictured). Monet painted his dead wife as the first rays of sunlight were entering her bedroom the next day. Monet described his behaviour as follows:
+
+> “... my gaze fixed upon her tragic temples and I caught myself observing the shades and nuances of colour death brought to her countenance. Blues, yellows, greys. The wish came upon me to record the image of her who was departing from us forever. ... my reflexes took possession of me in an unconscious process.”</p></div></div>
+
 ### Cézanne always had a special connection with Aix-en-Provence.
 
 During the years he lived in Paris, he would return often to the [town of his birth](#1), especially during periods of stress or in response to failures in his career. After returning there [permanently in 1886](#2), he continued to live in the Cézanne family home until 1899 and remained in Aix-en-Provence until his death in 1906. 
