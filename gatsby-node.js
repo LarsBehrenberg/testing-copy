@@ -1,5 +1,4 @@
 const path = require('path')
-const { fmImagesToRelative } = require('gatsby-remark-relative-images')
 
 const remark = require('remark')
 const remarkHTML = require('remark-html')
@@ -83,8 +82,6 @@ exports.onCreateWebpackConfig = ({ actions }) => {
 }
 
 exports.onCreateNode = ({ node, actions: { createNodeField } }) => {
-  fmImagesToRelative(node)
-
   if (node.frontmatter) {
     const { textSections } = node.frontmatter
 
