@@ -191,7 +191,6 @@ const PostList = ({ date, cover, path, title, excerpt, view, subTitle }) => (
       <Img
         fluid={cover}
         alt={title}
-        loading="eager"
         backgroundColor={`#040e1895`}
       />
     </Image>

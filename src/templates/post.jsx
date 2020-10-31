@@ -26,8 +26,8 @@ const Post = ({ data, pageContext }) => {
     let insertAfter = (referenceNode, newNode) => {
       referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling)
     }
-    const inlineImage = document
-      .querySelectorAll('.site-text p img')
+    const normalInlineImage = document
+      .querySelectorAll('.site-text p > img')
       .forEach(node => {
         let el = document.createElement('span')
         el.classList.add('inline-image-caption')
@@ -39,6 +39,27 @@ const Post = ({ data, pageContext }) => {
         insertAfter(node, el)
         const parentContent = node.parentElement.innerHTML
         const imageSource = node.getAttribute('src')
+        const newContent =
+          '<a href="' +
+          imageSource +
+          '" data-attribute="SRL">' +
+          parentContent +
+          '</a>'
+        node.parentElement.innerHTML = newContent
+      })
+
+    const gatsbyInlineImage = document
+      .querySelectorAll('.site-text p .gatsby-resp-image-wrapper')
+      .forEach(node => {
+        let el = document.createElement('span')
+        el.classList.add('inline-image-caption')
+        el.innerHTML = node.querySelector('img').title
+
+        const newParent = document.createElement('a')
+        node.parentElement.classList.add('inline-image-container')
+        insertAfter(node, el)
+        const parentContent = node.parentElement.innerHTML
+        const imageSource = node.querySelector('img').getAttribute('src')
         const newContent =
           '<a href="' +
           imageSource +
@@ -153,7 +174,7 @@ export const query = graphql`
             topImageTitle
             topImageUrl {
               expandedImage: childImageSharp {
-                fluid(srcSetBreakpoints: [800]) {
+                fluid(maxWidth: 800) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -162,13 +183,8 @@ export const query = graphql`
           leftImage {
             leftImageTitle
             leftImageUrl {
-              fixedImage: childImageSharp {
-                fixed(width: 450) {
-                  ...GatsbyImageSharpFixed
-                }
-              }
               expandedImage: childImageSharp {
-                fluid(srcSetBreakpoints: [800]) {
+                fluid(maxWidth: 800) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -177,13 +193,8 @@ export const query = graphql`
           middleImage {
             middleImageTitle
             middleImageUrl {
-              fixedImage: childImageSharp {
-                fixed(width: 450) {
-                  ...GatsbyImageSharpFixed
-                }
-              }
               expandedImage: childImageSharp {
-                fluid(srcSetBreakpoints: [800]) {
+                fluid(maxWidth: 800) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -192,13 +203,8 @@ export const query = graphql`
           rightImage {
             rightImageTitle
             rightImageUrl {
-              fixedImage: childImageSharp {
-                fixed(width: 450) {
-                  ...GatsbyImageSharpFixed
-                }
-              }
               expandedImage: childImageSharp {
-                fluid(srcSetBreakpoints: [800]) {
+                fluid(maxWidth: 800) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -212,7 +218,7 @@ export const query = graphql`
             imageTitle
             imageUrl {
               fixedImage: childImageSharp {
-                fixed(width: 250) {
+                fixed(width: 150) {
                   ...GatsbyImageSharpFixed
                 }
               }

@@ -55,7 +55,7 @@ const Header = ({
                         data-attribute="SRL"
                       >
                         <Img
-                          fixed={leftImage.leftImageUrl.fixedImage.fixed}
+                          fluid={leftImage.leftImageUrl.expandedImage.fluid}
                           alt={leftImage.leftImageTitle}
                           className="smallery-item-img"
                           loading="eager"
@@ -75,7 +75,7 @@ const Header = ({
                         data-attribute="SRL"
                       >
                         <Img
-                          fixed={middleImage.middleImageUrl.fixedImage.fixed}
+                          fluid={middleImage.middleImageUrl.expandedImage.fluid}
                           alt={middleImage.middleImageTitle}
                           className="smallery-item-img"
                           loading="eager"
@@ -93,7 +93,7 @@ const Header = ({
                         data-attribute="SRL"
                       >
                         <Img
-                          fixed={rightImage.rightImageUrl.fixedImage.fixed}
+                          fluid={rightImage.rightImageUrl.expandedImage.fluid}
                           alt={rightImage.rightImageTitle}
                           className="smallery-item-img"
                           loading="eager"

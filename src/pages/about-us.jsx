@@ -4,8 +4,7 @@ import Img from 'gatsby-image'
 import { Layout, Newsletter } from 'layouts'
 import { SEO } from 'components'
 import { SEOTitles } from '../../config/contants'
-
-let slideIndex = 1
+import SimpleReactLightbox, { SRLWrapper } from 'simple-react-lightbox'
 
 const AboutUs = ({ data }) => {
   const { title, subTitle } = data.markdownRemark.frontmatter
@@ -17,134 +16,55 @@ const AboutUs = ({ data }) => {
   } = data.markdownRemark.frontmatter.upperGalleryImages
   const artists = data.allMarkdownRemark.nodes
 
-  let touchListen = false
-
-  let touchstartX = 0
-  let touchendX = 0
-
-  function keyListener(event) {
-    if (event.keyCode === 39) {
-      // eslint-disable-next-line no-use-before-define
-      plusSlides(1)
-    }
-    if (event.keyCode === 37) {
-      // eslint-disable-next-line no-use-before-define
-      plusSlides(-1)
-    }
-    if (event.keyCode === 27) {
-      // eslint-disable-next-line no-use-before-define
-      closeModal()
-    }
-  }
-
   // React Hook to initiate and clean up eventlisteners after mounting
   useEffect(() => {
-    window.addEventListener('keydown', keyListener)
-    // Specify how to clean up after this effect:
-    return function cleanup() {
-      window.removeEventListener('keydown', keyListener)
+    // Create inline images with title displayed beneath
+    let insertAfter = (referenceNode, newNode) => {
+      referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling)
     }
-  })
+    const normalInlineImage = document
+      .querySelectorAll('.site-text p > img')
+      .forEach(node => {
+        let el = document.createElement('span')
+        el.classList.add('inline-image-caption')
+        el.innerHTML = node.title
 
-  function openModal() {
-    document.getElementById('myModal').style.display = 'block'
-    document.getElementsByTagName('body')[0].style.overflow = 'hidden'
-  }
-
-  function closeModal() {
-    if (document.getElementById('myModal')) {
-      document.getElementById('myModal').style.display = 'none'
-    }
-    document.getElementsByTagName('body')[0].style.overflow = 'auto'
-  }
-
-  function showSlides(n) {
-    let i
-    slideIndex = n
-    const slides = document.getElementsByClassName('mySlides')
-    const captionText = document.getElementById('caption')
-    const numberText = document.getElementById('numbertext')
-
-    if (n > slides.length) {
-      slideIndex = 1
-    }
-    if (n < 1) {
-      slideIndex = slides.length
-    }
-    for (i = 0; i < slides.length; i += 1) {
-      slides[i].style.display = 'none'
-    }
-    slides[slideIndex - 1].style.display = 'block'
-
-    captionText.innerHTML = document
-      .getElementsByClassName('gallery-image')
-      [slideIndex - 1].querySelectorAll('img')[1].alt
-      ? document
-          .getElementsByClassName('gallery-image')
-          [slideIndex - 1].querySelectorAll('img')[1].alt
-      : 'An image description is missing'
-
-    numberText.innerHTML = `${slideIndex} / ${
-      document.getElementsByClassName('gallery-image').length
-    }`
-
-    if (touchListen === false) {
-      Array.from(slides).forEach(slide => {
-        slide.addEventListener(
-          'touchstart',
-          event => {
-            touchstartX = event.changedTouches[0].screenX
-          },
-          false
-        )
-
-        slide.addEventListener(
-          'touchend',
-          event => {
-            touchendX = event.changedTouches[0].screenX
-            // eslint-disable-next-line no-use-before-define
-            handleGesture()
-          },
-          false
-        )
+        const newParent = document.createElement('a')
+        node.parentElement.classList.add('inline-image-container')
+        node.classList.add('lightbox-image')
+        insertAfter(node, el)
+        const parentContent = node.parentElement.innerHTML
+        const imageSource = node.getAttribute('src')
+        const newContent =
+          '<a href="' +
+          imageSource +
+          '" data-attribute="SRL">' +
+          parentContent +
+          '</a>'
+        node.parentElement.innerHTML = newContent
       })
-      touchListen = true
-    }
-  }
 
-  function plusSlides(n) {
-    if (document.getElementById('myModal')) {
-      slideIndex += n
-      showSlides(slideIndex)
-    }
-  }
+    const gatsbyInlineImage = document
+      .querySelectorAll('.site-text p .gatsby-resp-image-wrapper')
+      .forEach(node => {
+        let el = document.createElement('span')
+        el.classList.add('inline-image-caption')
+        el.innerHTML = node.querySelector('img').title
 
-  function handleGesture() {
-    if (touchendX <= touchstartX) {
-      plusSlides(1)
-    }
-
-    if (touchendX >= touchstartX) {
-      plusSlides(-1)
-    }
-  }
-
-  const returnModalImage = (image, alt) => (
-    <div className="gallery-image-container">
-      <Img
-        fluid={image}
-        className="gallery-image"
-        alt={alt === null ? 'An image title is missing' : alt}
-        style={{
-          width: '100%',
-          height: '100%',
-        }}
-        imgStyle={{
-          objectFit: 'contain',
-        }}
-      />
-    </div>
-  )
+        const newParent = document.createElement('a')
+        node.parentElement.classList.add('inline-image-container')
+        insertAfter(node, el)
+        const parentContent = node.parentElement.innerHTML
+        const imageSource = node.querySelector('img').getAttribute('src')
+        const newContent =
+          '<a href="' +
+          imageSource +
+          '" data-attribute="SRL">' +
+          parentContent +
+          '</a>'
+        node.parentElement.innerHTML = newContent
+      })
+  })
 
   return (
     <>
@@ -154,256 +74,211 @@ const AboutUs = ({ data }) => {
           description={SEOTitles.aboutUs.description}
           banner={topImage.topImageUrl.expandedImage.fluid.src}
         />
-        <div className="container" style={{ paddingTop: '40px' }}>
-          <div className="row">
-            <div className="col-sm-9">
-              <section className="site-block top">
-                <div className="site-title">
-                  <h1>
-                    <span className="page__title-ttd">{subTitle} </span>
-                    <span className="page__title-e" itemProp="name">
-                      {title}
-                      <span />{' '}
-                    </span>
-                  </h1>
-                </div>
-                <div className="site-gallery">
-                  <div className="ttde-gallery">
-                    <div className="ttde-gallery-inner">
-                      <div
-                        className="ttde-gallery-top ttdegalleryitem"
-                        data-pswp-uid="1"
-                      >
-                        <figure
-                          className="ttde-gallery-top-inner"
-                          onClick={() => {
-                            openModal()
-                            showSlides(1)
-                          }}
-                        >
-                          <span className="ttde-gallery-url" data-index="0">
-                            <Img
-                              fixed={topImage.topImageUrl.thumbImage.fixed}
-                              alt={topImage.topImageTitle}
-                              style={{ height: '100%', width: '100%' }}
-                            />
-                          </span>
-                        </figure>
-                      </div>
-                      <div className="ttde-gallery-bottom">
-                        <div
-                          className="ttde-gallery-col ttde-gallery-col-1 ttdegalleryitem"
-                          data-pswp-uid="1"
-                        >
-                          <figure
-                            className="ttde-gallery-col-inner"
-                            onClick={() => {
-                              openModal()
-                              showSlides(2)
-                            }}
-                          >
-                            <span className="ttde-gallery-url" data-index="1">
-                              <Img
-                                fixed={leftImage.leftImageUrl.thumbImage.fixed}
-                                alt={leftImage.leftImageTitle}
-                                style={{ height: '100%', width: '100%' }}
-                              />
-                            </span>
-                          </figure>
-                        </div>
-                        <div
-                          className="ttde-gallery-col ttde-gallery-col-2 ttdegalleryitem"
-                          data-pswp-uid="1"
-                        >
-                          <figure
-                            className="ttde-gallery-col-inner"
-                            onClick={() => {
-                              openModal()
-                              showSlides(3)
-                            }}
-                          >
-                            <span className="ttde-gallery-url" data-index="2">
-                              <Img
-                                fixed={
-                                  middleImage.middleImageUrl.thumbImage.fixed
-                                }
-                                alt={middleImage.middleImageTitle}
-                                style={{ height: '100%', width: '100%' }}
-                              />
-                            </span>
-                          </figure>
-                        </div>
-                        <div
-                          className="ttde-gallery-col ttde-gallery-col-3 ttdegalleryitem ttde-gallery-open"
-                          data-pswp-uid="1"
-                        >
-                          <figure
-                            className="ttde-gallery-col-inner"
-                            onClick={() => {
-                              openModal()
-                              showSlides(4)
-                            }}
-                          >
-                            <span
-                              className="ttde-gallery-url"
-                              href="#top"
-                              data-index="3"
+
+        <SimpleReactLightbox>
+          <SRLWrapper>
+            <div className="container" style={{ paddingTop: '40px' }}>
+              <div className="row">
+                <div className="col-sm-9">
+                  <section className="site-block top">
+                    <div className="site-title">
+                      <h1>
+                        <span className="page__title-ttd">{subTitle} </span>
+                        <span className="page__title-e" itemProp="name">
+                          {title}
+                          <span />{' '}
+                        </span>
+                      </h1>
+                    </div>
+                    <div className="site-gallery">
+                      <div className="ttde-gallery">
+                        <div className="ttde-gallery-inner">
+                          <div className="ttde-gallery-top ttdegalleryitem">
+                            <a
+                              className="ttde-gallery-top-inner"
+                              href={
+                                topImage.topImageUrl.expandedImage.fluid.src
+                              }
+                              data-attribute="SRL"
                             >
-                              <span className="ttde-gallery-open-btn">
-                                <span>More images 20+</span>
-                              </span>
                               <Img
-                                fixed={
-                                  rightImage.rightImageUrl.thumbImage.fixed
-                                }
-                                alt={rightImage.rightImageTitle}
-                                style={{ height: '100%', width: '100%' }}
+                                fluid={topImage.topImageUrl.expandedImage.fluid}
+                                alt={topImage.topImageTitle}
+                                className="smallery-item-img top"
+                                loading="eager"
+                                style={{
+                                  width: '100%',
+                                  height: '100%',
+                                }}
                               />
-                            </span>
-                          </figure>
+                            </a>
+                          </div>
+                          <div className="ttde-gallery-bottom">
+                            <div className="ttde-gallery-col ttde-gallery-col-1 ttdegalleryitem">
+                              <a
+                                className="ttde-gallery-col-inner"
+                                href={
+                                  leftImage.leftImageUrl.expandedImage.fluid.src
+                                }
+                                data-attribute="SRL"
+                              >
+                                <Img
+                                  fluid={
+                                    leftImage.leftImageUrl.expandedImage.fluid
+                                  }
+                                  alt={leftImage.leftImageTitle}
+                                  className="smallery-item-img"
+                                  loading="eager"
+                                  style={{
+                                    width: '100%',
+                                    height: '100%',
+                                  }}
+                                />
+                              </a>
+                            </div>
+                            <div className="ttde-gallery-col ttde-gallery-col-2 ttdegalleryitem">
+                              <a
+                                className="ttde-gallery-col-inner"
+                                href={
+                                  middleImage.middleImageUrl.expandedImage.fluid
+                                    .src
+                                }
+                                data-attribute="SRL"
+                              >
+                                <Img
+                                  fluid={
+                                    middleImage.middleImageUrl.expandedImage
+                                      .fluid
+                                  }
+                                  alt={middleImage.middleImageTitle}
+                                  className="smallery-item-img"
+                                  loading="eager"
+                                  style={{
+                                    width: '100%',
+                                    height: '100%',
+                                  }}
+                                />
+                              </a>
+                            </div>
+                            <div className="ttde-gallery-col ttde-gallery-col-3 ttdegalleryitem ttde-gallery-open">
+                              <a
+                                className="ttde-gallery-col-inner"
+                                href={
+                                  rightImage.rightImageUrl.expandedImage.fluid
+                                    .src
+                                }
+                                data-attribute="SRL"
+                              >
+                                <Img
+                                  fluid={
+                                    rightImage.rightImageUrl.expandedImage.fluid
+                                  }
+                                  alt={rightImage.rightImageTitle}
+                                  className="smallery-item-img"
+                                  loading="eager"
+                                  style={{
+                                    width: '100%',
+                                    height: '100%',
+                                  }}
+                                />
+
+                                <span className="ttde-gallery-open-btn">
+                                  <span>More images 20+</span>
+                                </span>
+                              </a>
+                            </div>
+                          </div>
                         </div>
                       </div>
                     </div>
-                  </div>
-                </div>
-                <div
-                  className="site-bb"
-                  itemScope=""
-                  itemType="http://schema.org/BreadcrumbList"
-                >
-                  <ul>
-                    <li
-                      itemProp="itemListElement"
+                    <div
+                      className="site-bb"
                       itemScope=""
-                      itemType="http://schema.org/ListItem"
+                      itemType="http://schema.org/BreadcrumbList"
                     >
-                      <Link to="/">
-                        <span itemProp="name">Home</span>
-                      </Link>
-                      <meta itemProp="position" content="1" />
-                    </li>
-                    <li
-                      itemProp="itemListElement"
-                      itemScope=""
-                      itemType="http://schema.org/ListItem"
-                    >
-                      <span itemProp="name">About Us</span>
-                      <meta itemProp="position" content="3" />
-                    </li>
-                  </ul>
-                </div>
-                <div
-                  className="site-text"
-                  dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}
-                >
-                  {/* Intro text here */}
-                </div>
-              </section>
-            </div>
-            <div className="col-sm-3">
-              <section className="site-sidebar" id="sidebar-container">
-                <div className="container">
-                  <div className="row">
-                    <div className="col-sm-push-9 col-sm-3" id="sidebar">
-                      <div className="list-group">
-                        <a href="#top" className="list-group-item active">
-                          <h4 className="list-group-item-heading">
-                            Impressionist Painters
-                          </h4>
-                        </a>
-                        {artists.map(artist => (
-                          <Link
-                            to={`/${artist.frontmatter.path}`}
-                            className="list-group-item"
-                            key={artist.frontmatter.title}
-                          >
-                            <h5 className="list-group-item-heading">
-                              {artist.frontmatter.title}
-                            </h5>
+                      <ul>
+                        <li
+                          itemProp="itemListElement"
+                          itemScope=""
+                          itemType="http://schema.org/ListItem"
+                        >
+                          <Link to="/">
+                            <span itemProp="name">Home</span>
                           </Link>
-                        ))}
-                        <Link to="/quiz" className="list-group-item active">
-                          <h4 className="list-group-item-heading">
-                            Impressionism Quiz
-                          </h4>
-                        </Link>
-                        <Link to="/gallery" className="list-group-item active">
-                          <h4 className="list-group-item-heading">
-                            Our Gallery
-                          </h4>
-                        </Link>
-                        <Link to="/" className="list-group-item active">
-                          <h4 className="list-group-item-heading">
-                            The Painters
-                          </h4>
-                        </Link>
+                          <meta itemProp="position" content="1" />
+                        </li>
+                        <li
+                          itemProp="itemListElement"
+                          itemScope=""
+                          itemType="http://schema.org/ListItem"
+                        >
+                          <span itemProp="name">About Us</span>
+                          <meta itemProp="position" content="3" />
+                        </li>
+                      </ul>
+                    </div>
+                    <div
+                      className="site-text"
+                      dangerouslySetInnerHTML={{
+                        __html: data.markdownRemark.html,
+                      }}
+                    >
+                      {/* Intro text here */}
+                    </div>
+                  </section>
+                </div>
+                <div className="col-sm-3">
+                  <section className="site-sidebar" id="sidebar-container">
+                    <div className="container">
+                      <div className="row">
+                        <div className="col-sm-push-9 col-sm-3" id="sidebar">
+                          <div className="list-group">
+                            <a href="#top" className="list-group-item active">
+                              <h4 className="list-group-item-heading">
+                                Impressionist Painters
+                              </h4>
+                            </a>
+                            {artists.map(artist => (
+                              <Link
+                                to={`/${artist.frontmatter.path}`}
+                                className="list-group-item"
+                                key={artist.frontmatter.title}
+                              >
+                                <h5 className="list-group-item-heading">
+                                  {artist.frontmatter.title}
+                                </h5>
+                              </Link>
+                            ))}
+                            <Link to="/quiz" className="list-group-item active">
+                              <h4 className="list-group-item-heading">
+                                Impressionism Quiz
+                              </h4>
+                            </Link>
+                            <Link
+                              to="/gallery"
+                              className="list-group-item active"
+                            >
+                              <h4 className="list-group-item-heading">
+                                Our Gallery
+                              </h4>
+                            </Link>
+                            <Link to="/" className="list-group-item active">
+                              <h4 className="list-group-item-heading">
+                                The Painters
+                              </h4>
+                            </Link>
+                          </div>
+                        </div>
                       </div>
                     </div>
-                  </div>
+                  </section>
                 </div>
-              </section>
+              </div>
             </div>
-          </div>
-        </div>
+          </SRLWrapper>
+        </SimpleReactLightbox>
         <Newsletter />
       </Layout>
-      {/* Invisable Modal for image gallery */}
-      <div id="myModal" className="modal">
-        <div className="numbertext" id="numbertext">
-          1 / x
-        </div>
-        <button className="close cursor" onClick={closeModal} type="button">
-          &times;
-        </button>
-        <div className="modal-content">
-          <div className="mySlides" key="slide-1">
-            {returnModalImage(
-              topImage.topImageUrl.expandedImage.fluid,
-              topImage.topImageTitle
-            )}
-          </div>
-          <div className="mySlides" key="slide-2">
-            {returnModalImage(
-              leftImage.leftImageUrl.expandedImage.fluid,
-              leftImage.leftImageTitle
-            )}
-          </div>
-          <div className="mySlides" key="slide-3">
-            {returnModalImage(
-              middleImage.middleImageUrl.expandedImage.fluid,
-              middleImage.middleImageTitle
-            )}
-          </div>
-          <div className="mySlides" key="slide-4">
-            {returnModalImage(
-              rightImage.rightImageUrl.expandedImage.fluid,
-              rightImage.rightImageTitle
-            )}
-          </div>
-
-          <div className="caption-container">
-            <p id="caption" />
-          </div>
-          <button className="prev" onClick={() => plusSlides(-1)} type="button">
-            &#10094;
-          </button>
-          <button className="next" onClick={() => plusSlides(1)} type="button">
-            &#10095;
-          </button>
-        </div>
-        <div
-          style={{
-            position: 'absolute',
-            width: '100vw',
-            height: '100vh',
-            opacity: '0',
-            top: '0',
-            left: '0',
-            zIndex: '-1',
-          }}
-          onClick={closeModal}
-        />
-      </div>
     </>
   )
 }
@@ -420,13 +295,8 @@ export const query = graphql`
           topImage {
             topImageTitle
             topImageUrl {
-              thumbImage: childImageSharp {
-                fixed(width: 700) {
-                  ...GatsbyImageSharpFixed
-                }
-              }
               expandedImage: childImageSharp {
-                fluid(sizes: "800px", srcSetBreakpoints: [800]) {
+                fluid(maxWidth: 800) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -435,13 +305,8 @@ export const query = graphql`
           leftImage {
             leftImageTitle
             leftImageUrl {
-              thumbImage: childImageSharp {
-                fixed(width: 400) {
-                  ...GatsbyImageSharpFixed
-                }
-              }
               expandedImage: childImageSharp {
-                fluid(sizes: "800px", srcSetBreakpoints: [800]) {
+                fluid(maxWidth: 800) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -450,13 +315,8 @@ export const query = graphql`
           middleImage {
             middleImageTitle
             middleImageUrl {
-              thumbImage: childImageSharp {
-                fixed(width: 400) {
-                  ...GatsbyImageSharpFixed
-                }
-              }
               expandedImage: childImageSharp {
-                fluid(sizes: "800px", srcSetBreakpoints: [800]) {
+                fluid(maxWidth: 800) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -465,13 +325,8 @@ export const query = graphql`
           rightImage {
             rightImageTitle
             rightImageUrl {
-              thumbImage: childImageSharp {
-                fixed(width: 400) {
-                  ...GatsbyImageSharpFixed
-                }
-              }
               expandedImage: childImageSharp {
-                fluid(sizes: "800px", srcSetBreakpoints: [800]) {
+                fluid(maxWidth: 800) {
                   ...GatsbyImageSharpFluid
                 }
               }

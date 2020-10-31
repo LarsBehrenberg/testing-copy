@@ -91,6 +91,7 @@ const CarouselImage = styled.div`
   width: 100%;
   height: 100%;
   overflow: hidden;
+  background: #040e1895;
   > div {
     position: static !important;
   }
@@ -135,7 +136,6 @@ const ImageCarousel = () => {
   const { nodes } = data.allMarkdownRemark
 
   return (
-    <div>
       <Carousel
         dots // Show dots below Carousel
         animationSpeed="2000" // Determines transition duration in milliseconds.
@@ -164,7 +164,6 @@ const ImageCarousel = () => {
           )
         })}
       </Carousel>
-    </div>
   )
 }
 
