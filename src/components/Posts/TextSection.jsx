@@ -10,8 +10,6 @@ const TextSection = ({
   text,
   textSectionImageArray,
   index,
-  showGallery,
-  openGallery,
   buttonToggle,
 }) => {
   function ttdeToggleVisibility() {
@@ -19,19 +17,6 @@ const TextSection = ({
     document.getElementById(`view-content-${index + 1}`).classList.add('auto')
   }
 
-  function findImage(num) {
-    const arr = document.getElementsByClassName('smallery-item-psn')
-    for (let x = 0; x < arr.length; x++) {
-      if (arr[x] == arr.namedItem(num)) {
-        openGallery()
-        showGallery(x + 5)
-        return x
-      }
-    }
-    openGallery()
-    showGallery(1)
-    return 1
-  }
   const newTitle = `${index + 1}. ${title}`
 
   const hasSideGallery =
@@ -54,32 +39,29 @@ const TextSection = ({
                         return (
                           <div
                             className="smallery-item-wrp ttdegalleryitem"
-                            data-pswp-uid="1"
-                            key={arrayLocation}
+                            key={`container-${
+                              index + 1
+                            }-gallery-item-${arrayLocation}`}
                           >
-                            <figure
+                            <a
                               className="smallery-item-psn"
-                              id={index.toString() + arrayLocation.toString()}
-                              onClick={() => {
-                                findImage(
-                                  index.toString() + arrayLocation.toString()
-                                )
-                              }}
+                              href={image.imageUrl.expandedImage.fluid.src}
+                              data-attribute="SRL"
                             >
-                              <span className="smallery-item-uri">
-                                <Img
-                                  fluid={image.imageUrl.expandedImage.fluid}
-                                  alt={image.imageTitle}
-                                  className="smallery-item-img"
-                                  loading="eager"
-                                  style={{
-                                    width: '100%',
-                                    height: '100%',
-                                  }}
-                                  imgStyle={{ objectPosition: 'center top' }}
-                                />
-                              </span>
-                            </figure>
+                              <Img
+                                fixed={image.imageUrl.fixedImage.fixed}
+                                alt={image.imageTitle}
+                                className="smallery-item-img"
+                                loading="eager"
+                                style={{
+                                  width: '100%',
+                                  height: '100%',
+                                }}
+                                imgStyle={{
+                                  objectPosition: 'center top',
+                                }}
+                              />
+                            </a>
                           </div>
                         )
                       })}

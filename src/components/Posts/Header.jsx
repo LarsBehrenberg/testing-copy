@@ -8,8 +8,6 @@ const Header = ({
   intro,
   bodyTitles,
   images,
-  showGallery,
-  openGallery,
   sideLinks,
 }) => {
   const { topImage, leftImage, middleImage, rightImage } = images
@@ -31,107 +29,84 @@ const Header = ({
             <div className="site-gallery">
               <div className="ttde-gallery">
                 <div className="ttde-gallery-inner">
-                  <div
-                    className="ttde-gallery-top ttdegalleryitem"
-                    data-pswp-uid="1"
-                  >
-                    <figure
+                  <div className="ttde-gallery-top ttdegalleryitem">
+                    <a
                       className="ttde-gallery-top-inner"
-                      onClick={() => {
-                        openGallery()
-                        showGallery(1)
-                      }}
+                      href={topImage.topImageUrl.expandedImage.fluid.src}
+                      data-attribute="SRL"
                     >
-                      <span className="ttde-gallery-url" data-index="0">
+                      <Img
+                        fluid={topImage.topImageUrl.expandedImage.fluid}
+                        alt={topImage.topImageTitle}
+                        className="smallery-item-img top"
+                        loading="eager"
+                        style={{
+                          width: '100%',
+                          height: '100%',
+                        }}
+                      />
+                    </a>
+                  </div>
+                  <div className="ttde-gallery-bottom">
+                    <div className="ttde-gallery-col ttde-gallery-col-1 ttdegalleryitem">
+                      <a
+                        className="ttde-gallery-col-inner"
+                        href={leftImage.leftImageUrl.expandedImage.fluid.src}
+                        data-attribute="SRL"
+                      >
                         <Img
-                          fluid={topImage.topImageUrl.expandedImage.fluid}
-                          alt={topImage.topImageTitle}
+                          fixed={leftImage.leftImageUrl.fixedImage.fixed}
+                          alt={leftImage.leftImageTitle}
+                          className="smallery-item-img"
                           loading="eager"
                           style={{
                             width: '100%',
                             height: '100%',
                           }}
                         />
-                      </span>
-                    </figure>
-                  </div>
-                  <div className="ttde-gallery-bottom">
-                    <div
-                      className="ttde-gallery-col ttde-gallery-col-1 ttdegalleryitem"
-                      data-pswp-uid="1"
-                    >
-                      <figure
-                        className="ttde-gallery-col-inner"
-                        onClick={() => {
-                          openGallery()
-                          showGallery(2)
-                        }}
-                      >
-                        <span className="ttde-gallery-url" data-index="1">
-                          <Img
-                            fluid={leftImage.leftImageUrl.expandedImage.fluid}
-                            alt={leftImage.leftImageTitle}
-                            loading="eager"
-                            style={{
-                              width: '100%',
-                              height: '100%',
-                            }}
-                          />
-                        </span>
-                      </figure>
+                      </a>
                     </div>
-                    <div
-                      className="ttde-gallery-col ttde-gallery-col-2 ttdegalleryitem"
-                      data-pswp-uid="1"
-                    >
-                      <figure
+                    <div className="ttde-gallery-col ttde-gallery-col-2 ttdegalleryitem">
+                      <a
                         className="ttde-gallery-col-inner"
-                        onClick={() => {
-                          openGallery()
-                          showGallery(3)
-                        }}
+                        href={
+                          middleImage.middleImageUrl.expandedImage.fluid.src
+                        }
+                        data-attribute="SRL"
                       >
-                        <span className="ttde-gallery-url" data-index="2">
-                          <Img
-                            fluid={
-                              middleImage.middleImageUrl.expandedImage.fluid
-                            }
-                            alt={middleImage.middleImageTitle}
-                            loading="eager"
-                            style={{
-                              width: '100%',
-                              height: '100%',
-                            }}
-                          />
-                        </span>
-                      </figure>
+                        <Img
+                          fixed={middleImage.middleImageUrl.fixedImage.fixed}
+                          alt={middleImage.middleImageTitle}
+                          className="smallery-item-img"
+                          loading="eager"
+                          style={{
+                            width: '100%',
+                            height: '100%',
+                          }}
+                        />
+                      </a>
                     </div>
-                    <div
-                      className="ttde-gallery-col ttde-gallery-col-3 ttdegalleryitem ttde-gallery-open"
-                      data-pswp-uid="1"
-                    >
-                      <figure
+                    <div className="ttde-gallery-col ttde-gallery-col-3 ttdegalleryitem ttde-gallery-open">
+                      <a
                         className="ttde-gallery-col-inner"
-                        onClick={() => {
-                          openGallery()
-                          showGallery(4)
-                        }}
+                        href={rightImage.rightImageUrl.expandedImage.fluid.src}
+                        data-attribute="SRL"
                       >
-                        <span className="ttde-gallery-url" data-index="3">
-                          <span className="ttde-gallery-open-btn">
-                            <span>More images 20+</span>
-                          </span>
-                          <Img
-                            fluid={rightImage.rightImageUrl.expandedImage.fluid}
-                            alt={rightImage.rightImageTitle}
-                            loading="eager"
-                            style={{
-                              width: '100%',
-                              height: '100%',
-                            }}
-                          />
+                        <Img
+                          fixed={rightImage.rightImageUrl.fixedImage.fixed}
+                          alt={rightImage.rightImageTitle}
+                          className="smallery-item-img"
+                          loading="eager"
+                          style={{
+                            width: '100%',
+                            height: '100%',
+                          }}
+                        />
+
+                        <span className="ttde-gallery-open-btn">
+                          <span>More images 20+</span>
                         </span>
-                      </figure>
+                      </a>
                     </div>
                   </div>
                 </div>

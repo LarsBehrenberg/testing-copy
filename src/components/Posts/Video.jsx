@@ -18,7 +18,7 @@ const VideoContainer = styled.div`
     transition: 0.6s all;
     display: block;
   }
-  & div:hover span {
+  & div:hover .youtube-icon {
     -webkit-filter: brightness(100%);
   }
   & div img {
@@ -30,7 +30,7 @@ const VideoContainer = styled.div`
     bottom: 0;
     left: 0;
   }
-  & div span {
+  & div .youtube-icon {
     width: 94px;
     height: 64px;
     position: absolute;
@@ -42,6 +42,15 @@ const VideoContainer = styled.div`
     margin-left: -47px;
     margin-top: -32px;
     -webkit-filter: brightness(75%);
+    z-index: 2;
+  }
+  & div .background {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: #ffffff00;
+    left: 0;
+    top: 0;
   }
   & iframe {
     position: absolute;
@@ -54,10 +63,13 @@ const VideoContainer = styled.div`
   }
 `
 
-const Video = ({ videoId }) => {
+const Video = ({ videoId, title, subtitle }) => {
   const videoThumb = id =>
-    `<img src="https://i.ytimg.com/vi/${id}/hqdefault.jpg" alt="Youtube Icon">` +
-    '<span></span>'
+    `<img src="https://i.ytimg.com/vi/${id}/hqdefault.jpg" alt="Find out more information in our video on ${
+      subtitle.toLowerCase().includes('biography') ? 'the ' : ''
+    } ${subtitle} ${title}">` +
+    '<span class="youtube-icon"></span>' +
+    '<span class="background"></span>'
 
   function videoIframe() {
     var iframe = document.createElement('iframe')

@@ -56,6 +56,7 @@ module.exports = {
         ],
       },
     },
+    `simple-react-lightbox`,
     'gatsby-plugin-emotion',
     'gatsby-plugin-sitemap',
     {
