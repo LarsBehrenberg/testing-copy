@@ -43,13 +43,13 @@ textSections:
       The figure depicted in the work is [Camille Doncieux](https://en.wikipedia.org/wiki/Camille_Doncieux), Monet’s mistress who later became his wife. Born in January 1847, Camille came from a bourgeois family and she was influential in shaping Monet’s figure paintings. Far from being simply a passive figure, Camille advised Monet on composition, clothes and appropriate poses, helping to bring an air of sophistication and elegance to many of his paintings. Camille’s influence aided Monet in his attempts to capture the essence of the modern woman.
 
 
-      It is likely that the green dress Camille wears in the painting was rented, borrowed from Frédéric Bazille who was struggling with his own painting at the time. In January 1866, Bazille wrote to his mother complaining, “What is really horribly difficult is the woman. And there is the problem of this green satin dress which I have rented and her blond head which I fear I will not do well.” Bazille and Monet were very close and so when he eventually gave up on his painting, the dress probably made its way across to Monet’s studio on the rue Pigalle.
+      It is likely that the green dress Camille wears in the painting was rented, borrowed from [Frédéric Bazille](/frederic-bazille-biography) who was struggling with his own painting at the time. In January 1866, Bazille wrote to his mother complaining, “What is really horribly difficult is the woman. And there is the problem of this green satin dress which I have rented and her blond head which I fear I will not do well.” Bazille and Monet were very close and so when he eventually gave up on his painting, the dress probably made its way across to Monet’s studio on the rue Pigalle.
 
 
       Together with input from Camille, Monet set the scene for his seven-foot canvas. Camille added a fur-trimmed black jacket, perhaps to conceal the fact that the dress did not fit well, and a small feathered hat. They eventually chose a pose with Camille standing with her back to Monet, turning her face towards him and a gloved hand raised towards her face.
 
 
-      Camille featured in a number of Monet’s paintings throughout their relationship, from the controversial ‘La Japonaise (Camille Monet in Japanese Costume)’ from 1876 to the tender, transparent painting ‘Camille Monet on her Deathbed’ from 1879. Art historian and psychologist Mary Mathews Gedo has written extensively on the ways in which Camille redefined the role of the artist’s model. Gedo demonstrates that Camille’s professional capabilities made her far more than Monet’s muse. Instead, she was his partner and close advisor, especially in his early career.
+      Camille featured in a number of Monet’s paintings throughout their relationship, from the controversial [‘La Japonaise (Camille Monet in Japanese Costume)’ from 1876](/claude-monet-biography#3) to the tender, transparent painting ‘Camille Monet on her Deathbed’ from 1879. Art historian and psychologist Mary Mathews Gedo has written extensively on the ways in which Camille redefined the role of the artist’s model. Gedo demonstrates that Camille’s professional capabilities made her far more than Monet’s muse. Instead, she was his partner and close advisor, especially in his early career.
     buttonToggle: true
   - textTitle: The Magpie (1869)
     text: >-
@@ -60,7 +60,7 @@ textSections:
       This may have been out of a desire to paint more transitory scenes than his other landscape works, capturing the snow in sunlight before it melts away.
 
 
-      Monet was not the first artist to be captivated by snow. Gustave Courbet had spent a great deal of time pursuing snow-scape subjects in his landscape paintings. Monet also encouraged Camille Pissarro, Auguste Renoir and Alfred Sisley to join him in his new ambition and the artists each attempted their own snow-filled works. 
+      Monet was not the first artist to be captivated by snow. [Gustave Courbet](/gustave-courbet-biography) had spent a great deal of time pursuing snow-scape subjects in his landscape paintings. Monet also encouraged [Camille Pissarro](/camille-pissarro-biography), [Auguste Renoir](/pierre-auguste-renoir-biography) and [Alfred Sisley](/alfred-sisley-biography) to join him in his new ambition and the artists each attempted their own snow-filled works. 
 
 
       ![Monet's The Magpie is now regarded as his finest snowscape](/assets/claude-monet-the-magpie.jpg "Monet's The Magpie is now regarded as his finest snowscape")
@@ -69,7 +69,7 @@ textSections:
       For ‘The Magpie’, Monet ventured into the countryside around Etretat to execute the work en plein air. The scene that Monet depicts in ‘The Magpie’ is still and serene. He chose to paint the snowscape in sunlight, created a contrast between light and shade. The shadows of the wall and gate help to transform the great expanse of snow in the foreground into a poetic image of a winter morning.
 
 
-      What makes this painting particularly notable is the extremely pale palette that Monet used. At the time when he was painting, such pale colours and bright light were very unusual in artworks. Hence, whilst the scene itself is serene, this painting represents a daringly novel approach. It was rejected from the 1869 salon, likely because of this aspect. In the words of Felix Fénéon, a contemporary art critic, “accustomed to the tarry sauces cooked up by the chefs of art schools and academies, \[the jury] was flabbergasted by this pale painting.”
+      What makes this painting particularly notable is the extremely pale palette that Monet used. At the time when he was painting, such pale colours and bright light were very unusual in artworks. Hence, whilst the scene itself is serene, this painting represents a daringly novel approach. It was rejected from the 1869 salon, likely because of this aspect. In the words of [Felix Fénéon](https://en.wikipedia.org/wiki/F%C3%A9lix_F%C3%A9n%C3%A9on), a contemporary art critic, “accustomed to the tarry sauces cooked up by the chefs of art schools and academies, \[the jury] was flabbergasted by this pale painting.”
     buttonToggle: true
   - textTitle: The Frogpond (1869)
     text: >-
@@ -125,7 +125,7 @@ textSections:
       During the 19th century, trains became a pervasive part of everyday life and by the turn of the century railways crisscrossed Europe and stations punctuated every major city and town. 
 
 
-      One station, the Gare Saint-Lazare in Paris, was the setting for 12 paintings by Monet in 1877. Monet was given permission to paint the station at the start of the year. He painted all of the works in a short three month period, between January and March, submitting seven of the paintings to the Impressionist Exhibition in May.
+      One station, the Gare Saint-Lazare in Paris, was the setting for 12 paintings by Monet in 1877. Monet was given permission to paint the station at the start of the year. He painted all of the works in a short three month period, between January and March, submitting seven of the paintings to the [Impressionist Exhibition in May](/third-impressionist-exhibition).
 
 
       ![In 1877 Monet decided to paint fog and tricked the director of the Gare Saint Lazare into thinking he was an important artist (which in those days he wasn't!)](/assets/claude-monet-gare-saint-lazare-1877.jpg "In 1877 Monet decided to paint fog and tricked the director of the Gare Saint Lazare into thinking he was an important artist (which in those days he wasn't!)")
@@ -147,7 +147,7 @@ textSections:
       and stayed for three months.
 
 
-      Situated on the Italian Riviera and near the French border, the town of Bordighera served as a setting for a range of paintings by Monet. What particularly fascinated him was the effects of the harsh sunlight on the landscape. In a letter to fellow artist Auguste Rodin, he described how he was "fencing, wrestling, with the sun.”
+      Situated on the Italian Riviera and near the French border, the [town of Bordighera](https://en.wikipedia.org/wiki/Bordighera) served as a setting for a range of paintings by Monet. What particularly fascinated him was the effects of the harsh sunlight on the landscape. In a letter to fellow artist Auguste Rodin, he described how he was "fencing, wrestling, with the sun.”
 
 
       ![Claude Monet's Bordighera (1883)](/assets/claude-monet-bordighera.jpg "Claude Monet's Bordighera (1883)")
@@ -165,10 +165,10 @@ textSections:
     text: >-
       ### Considered to be some of the finest works of his career, Monet’s
       Haystacks are a series of paintings depicting a field of haystacks in
-      different light and conditions. 
+      different light and conditions.
 
 
-      The haystacks in the series were located close to Monet’s house in Giverny. He convinced the farmer who owned to fields not to move them through the autumn and winter, giving him enough time to paint the haystacks numerous times.
+      The haystacks in the series were located close to [Monet’s house in Giverny](/claude-monet-and-giverny). He convinced the farmer who owned to fields not to move them through the autumn and winter, giving him enough time to paint the haystacks numerous times.
 
 
       The result was a series of over 30 paintings, each one capturing a certain time of day, varying weather conditions and the gradual changing of the seasons. In some paintings, the haystacks are cloaked in snow, in others they are bathed in the warm, pink light of a sunset. Painting en plein air, Monet was able to capture the subtleties of natural light, from the shadows that fell on the ground to the delicate hue the haystacks took on at different times of the day. The effect is calm, poetic and almost abstract.
@@ -191,7 +191,7 @@ textSections:
       He wished to explore the effects of natural light in great detail, choosing static scenes that allowed him to study the interplay of shadows, colour and highlights.
 
 
-      Rouen Cathedral proved to be an ideal subject to allow him to achieve this effect and he completed over 30 views of the cathedral between 1892-93. It is known that Monet worked on several canvasses at the same time as the light changed through the day. This meant that he was able to work on consecutive days whilst condensing the time it took to paint the entire series.
+      [Rouen Cathedral](https://en.wikipedia.org/wiki/Rouen_Cathedral) proved to be an ideal subject to allow him to achieve this effect and he completed over 30 views of the cathedral between 1892-93. It is known that Monet worked on several canvasses at the same time as the light changed through the day. This meant that he was able to work on consecutive days whilst condensing the time it took to paint the entire series.
 
 
       ![Monet produced 30 canvasses of Rouen Cathedral from spring 1892, renting a room overlooking the cathedral so that he could paint from exactly the same spot each day.](/assets/claude-monet-rouen-cathedral.jpg "Monet produced 30 canvasses of Rouen Cathedral from spring 1892, renting a room overlooking the cathedral so that he could paint from exactly the same spot each day.")
@@ -228,7 +228,7 @@ textSections:
     text: >-
       ### It is of course impossible to mention Monet’s top 10 paintings without
       referencing his Waterlilies series. These were the works that dominated
-      the latter period of his life, from 1889 up until his death. 
+      the latter period of his life, from 1889 up until his death.
 
 
       Together with his wife, Alice, Monet created a water garden in the Japanese style, filling a large pond with colourful waterlilies that soon became the centre of his artistic world. Monet’s water garden occupied his mind, saving him from the crushing reality of his later life that saw the death of Alice and his son, the outbreak of the First World War and his own diagnosis with debilitating cataracts.
@@ -251,4 +251,4 @@ What makes Monet’s work so interesting is the way that his technique evolved t
 
 In doing so, Monet was a vital member of the Impressionist group, tirelessly pursuing his vision for a unique Impressionist aesthetic.
 
-Here are our picks for the top 10 Monet paintings.
+**Learn more** about the artist on our [](https://impressionistarts.com/berthe-morisot-biography)[Claude Monet](/claude-monet-biography) biography page
