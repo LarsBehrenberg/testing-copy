@@ -48,6 +48,7 @@ const TextSection = ({
                               href={image.imageUrl.expandedImage.fluid.src}
                               data-attribute="SRL"
                             >
+                              {console.log(image.imageUrl)}
                               <Img
                                 fixed={image.imageUrl.fixedImage.fixed}
                                 alt={image.imageTitle}

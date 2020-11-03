@@ -174,8 +174,8 @@ export const query = graphql`
             topImageTitle
             topImageUrl {
               expandedImage: childImageSharp {
-                fluid(maxWidth: 800) {
-                  ...GatsbyImageSharpFluid_noBase64
+                fluid(maxWidth: 800, traceSVG: { color: "#2B2B2F" }) {
+                  ...GatsbyImageSharpFluid_tracedSVG
                 }
               }
             }
@@ -184,8 +184,8 @@ export const query = graphql`
             leftImageTitle
             leftImageUrl {
               expandedImage: childImageSharp {
-                fluid(maxWidth: 800) {
-                  ...GatsbyImageSharpFluid_noBase64
+                fluid(maxWidth: 800, traceSVG: { color: "#2B2B2F" }) {
+                  ...GatsbyImageSharpFluid_tracedSVG
                 }
               }
             }
@@ -194,8 +194,8 @@ export const query = graphql`
             middleImageTitle
             middleImageUrl {
               expandedImage: childImageSharp {
-                fluid(maxWidth: 800) {
-                  ...GatsbyImageSharpFluid_noBase64
+                fluid(maxWidth: 800, traceSVG: { color: "#2B2B2F" }) {
+                  ...GatsbyImageSharpFluid_tracedSVG
                 }
               }
             }
@@ -204,8 +204,8 @@ export const query = graphql`
             rightImageTitle
             rightImageUrl {
               expandedImage: childImageSharp {
-                fluid(maxWidth: 800) {
-                  ...GatsbyImageSharpFluid_noBase64
+                fluid(maxWidth: 800, traceSVG: { color: "#2B2B2F" }) {
+                  ...GatsbyImageSharpFluid_tracedSVG
                 }
               }
             }
@@ -218,8 +218,8 @@ export const query = graphql`
             imageTitle
             imageUrl {
               fixedImage: childImageSharp {
-                fixed(width: 150) {
-                  ...GatsbyImageSharpFixed_noBase64
+                fixed(width: 150, traceSVG: { color: "#2B2B2F" }) {
+                  ...GatsbyImageSharpFixed_tracedSVG
                 }
               }
               expandedImage: childImageSharp {
@@ -237,7 +237,7 @@ export const query = graphql`
               quality: 90
               duotone: { highlight: "#386eee", shadow: "#d3d3d3", opacity: 20 }
             ) {
-              ...GatsbyImageSharpFluid_noBase64
+              ...GatsbyImageSharpFluid_tracedSVG
             }
           }
         }
