@@ -2,6 +2,16 @@ export { default as SEO } from './SEO'
 
 export { default as PostList } from './Index/PostList'
 export { default as ImageCarousel } from './Index/ImageCarousel'
+export {
+  PostWrapper,
+  ButtonWrapper,
+  CategoryWrapper,
+  ViewButtonWrapper,
+  TagButton,
+  GridButtonSVG,
+  ListButtonSVG,
+  LoadMore,
+} from './Index/StyledComponents'
 
 export { default as TextSection } from './Posts/TextSection'
 export { default as Video } from './Posts/Video'
