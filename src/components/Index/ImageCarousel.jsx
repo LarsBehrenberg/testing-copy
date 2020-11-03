@@ -1,9 +1,12 @@
 import React from 'react'
-import Carousel from '@brainhubeu/react-carousel'
+import Swiper from 'react-id-swiper'
 import { Link } from 'gatsby'
 import styled from '@emotion/styled'
+import { css } from '@emotion/core'
 import { graphql, useStaticQuery } from 'gatsby'
 import Img from 'gatsby-image'
+import 'swiper/css/swiper.css'
+import '../../styles/carousel.css'
 
 const StyledLink = styled(Link)`
   width: 100%;
@@ -20,17 +23,16 @@ const OverlayBackground = styled.div`
   flex-direction: row;
   justify-content: space-between;
   padding: 1rem;
-  z-index: 10;
+  z-index: 4;
   &:after {
     content: '';
     position: absolute;
     display: block;
     width: 100%;
-    height: 100%;
     top: 0;
     left: 0;
     right: 0;
-    bottom: 0;
+    bottom: 2rem;
     background: linear-gradient(
       to left,
       rgba(0, 0, 0, 0) 0%,
@@ -44,10 +46,10 @@ const OverlayBackground = styled.div`
 
 const Info = styled.div`
   color: #f0f0f0;
-  z-index: 15;
+  z-index: 5;
   position: relative;
   top: 0;
-  bottom: 0;
+  bottom: 2rem;
   width: 100%;
   height: 100%;
   display: flex;
@@ -89,7 +91,6 @@ const Title = styled.h2`
 
 const CarouselImage = styled.div`
   width: 100%;
-  height: 100%;
   overflow: hidden;
   background: #040e1895;
   > div {
@@ -100,7 +101,7 @@ const CarouselImage = styled.div`
   }
   position: absolute;
   top: 0;
-  bottom: 0;
+  bottom: 2rem;
 `
 
 const ImageCarousel = () => {
@@ -135,35 +136,42 @@ const ImageCarousel = () => {
 
   const { nodes } = data.allMarkdownRemark
 
+  const params = {
+    centeredSlides: true,
+    loop: true,
+    autoplay: {
+      delay: 3000,
+      disableOnInteraction: false,
+    },
+    pagination: {
+      el: '.swiper-pagination',
+      clickable: true,
+    },
+  }
+
   return (
-      <Carousel
-        dots // Show dots below Carousel
-        animationSpeed="2000" // Determines transition duration in milliseconds.
-        autoPlay="7000" // Slide change interval in milliseconds
-        // infinite // Loops through side indefinitely
-        stopAutoPlayOnHover // Stop loop on hovering
-        keepDirectionWhenDragging // While dragging, it doesn't matter which slide is the nearest one, but in what direction you dragged
-      >
-        {nodes[0].frontmatter.carouselImages.map(image => {
-          return (
-            <StyledLink to={`/${image.url}`} key={image.title}>
-              <Info>
-                <Title>{image.title}</Title>
-                <span>{image.text}</span>
-              </Info>
-              <CarouselImage>
-                <Img
-                  fluid={image.image.childImageSharp.fluid}
-                  alt={image.title}
-                  loading="eager"
-                  backgroundColor={`#040e1895`}
-                />
-              </CarouselImage>
-              <OverlayBackground />
-            </StyledLink>
-          )
-        })}
-      </Carousel>
+    <Swiper {...params}>
+      {nodes[0].frontmatter.carouselImages.map(image => {
+        return (
+          <StyledLink to={`/${image.url}`} key={image.title}>
+            <Info>
+              <Title>{image.title}</Title>
+              <span>{image.text}</span>
+            </Info>
+            <CarouselImage>
+              <Img
+                fluid={image.image.childImageSharp.fluid}
+                alt={image.title}
+                loading="eager"
+                className="swiper-lazy"
+                backgroundColor={`#040e1895`}
+              />
+            </CarouselImage>
+            <OverlayBackground />
+          </StyledLink>
+        )
+      })}
+    </Swiper>
   )
 }
 

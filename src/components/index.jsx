@@ -11,6 +11,7 @@ export {
   GridButtonSVG,
   ListButtonSVG,
   LoadMore,
+  swiperStyle,
 } from './Index/StyledComponents'
 
 export { default as TextSection } from './Posts/TextSection'
