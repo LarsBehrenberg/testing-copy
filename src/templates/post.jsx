@@ -175,7 +175,7 @@ export const query = graphql`
             topImageUrl {
               expandedImage: childImageSharp {
                 fluid(maxWidth: 800) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_noBase64
                 }
               }
             }
@@ -185,7 +185,7 @@ export const query = graphql`
             leftImageUrl {
               expandedImage: childImageSharp {
                 fluid(maxWidth: 800) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_noBase64
                 }
               }
             }
@@ -195,7 +195,7 @@ export const query = graphql`
             middleImageUrl {
               expandedImage: childImageSharp {
                 fluid(maxWidth: 800) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_noBase64
                 }
               }
             }
@@ -205,7 +205,7 @@ export const query = graphql`
             rightImageUrl {
               expandedImage: childImageSharp {
                 fluid(maxWidth: 800) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_noBase64
                 }
               }
             }
@@ -219,7 +219,7 @@ export const query = graphql`
             imageUrl {
               fixedImage: childImageSharp {
                 fixed(width: 150) {
-                  ...GatsbyImageSharpFixed
+                  ...GatsbyImageSharpFixed_noBase64
                 }
               }
               expandedImage: childImageSharp {
@@ -237,7 +237,7 @@ export const query = graphql`
               quality: 90
               duotone: { highlight: "#386eee", shadow: "#d3d3d3", opacity: 20 }
             ) {
-              ...GatsbyImageSharpFluid_tracedSVG
+              ...GatsbyImageSharpFluid_noBase64
             }
           }
         }
